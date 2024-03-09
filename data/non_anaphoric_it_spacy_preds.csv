@@ -1,0 +1,55 @@
+,Unnamed: 0,sentences,specific_category,challenge,broader_category,predictions,results
+0,0,It seems like John is angry.,impersonal,False,pleonastic,[],1
+1,1,It looks like you're shivering.,impersonal,False,pleonastic,[],1
+2,2,It feels like being young again.,impersonal,False,pleonastic,[],1
+3,3,It is raining heavily.,impersonal,False,pleonastic,[],1
+4,4,It was snowing yesterday.,impersonal,False,pleonastic,[],1
+5,5,It was very dark outside.,impersonal,False,pleonastic,[],1
+6,6,It is so hot today.,impersonal,False,pleonastic,[],1
+7,7,It seems like a nice gesture towards the kid.,impersonal,True,pleonastic,[],1
+8,8,It looks like the child is having a panick attack.,impersonal,True,pleonastic,[],1
+9,9,It feels like home to the child.,impersonal,True,pleonastic,[],1
+10,10,It is raining heavily in the city.,impersonal,True,pleonastic,[],1
+11,11,It was snowing yesterday in my village.,impersonal,True,pleonastic,[],1
+12,12,It was very dark outside and the kid had to come back home.,impersonal,True,pleonastic,[],1
+13,13,It is so hot today for taking the baby out.,impersonal,True,pleonastic,[],1
+14,14,We hit it off from the beginning.,idiom,False,pleonastic,[],1
+15,15,How is it going?,idiom,False,pleonastic,[],1
+16,16,We finally made it to the finals.,idiom,False,pleonastic,[],1
+17,17,"When it comes to friends, I am very picky.",idiom,False,pleonastic,[],1
+18,18,"It finally occurred to me, that she didn't have anyone.",idiom,False,pleonastic,[],1
+19,19,Mary and the new kid hit it off from the beginning.,idiom,True,pleonastic,[],1
+20,20,How is it going with your thesis?,idiom,True,pleonastic,[],1
+21,21,We finally made it to the final semester.,idiom,True,pleonastic,[],1
+22,22,"When it comes to food, the child is very picky.",idiom,True,pleonastic,[],1
+23,23,"It occured to the child, that the dog was hurt. ",idiom,True,pleonastic,[],1
+24,0,"It was you, who killed him.",nominal_cleft,False,clefting,[],1
+25,1,"It was Mary, who got robbed.",nominal_cleft,False,clefting,[],1
+26,2,"It was my grandma, who left.",nominal_cleft,False,clefting,[],1
+27,3,"It was you, who killed the dog.",nominal_cleft,True,clefting,[],1
+28,4,"It was my purse, that got stolen.",nominal_cleft,True,clefting,[],1
+29,5,"It was the kid, who left the house.",nominal_cleft,True,clefting,[],1
+30,6,"It's that he abandoned his wife, that I find despicable.",finite_cleft,False,clefting,"[['he', 'his']]",1
+31,7,"It's that the woman won, that I find surprising.",finite_cleft,False,clefting,[],1
+32,8,"It's that he went there, that he's talking about all the time.",finite_cleft,False,clefting,"[['he', 'he']]",1
+33,9,"It's that he abandoned his dog, that the kid found despicable.",finite_cleft,True,clefting,"[['he', 'his']]",1
+34,10,"It's that the child won the lottery, that I find surprising.",finite_cleft,True,clefting,[],1
+35,11,"It's that the kid went to the univesity, that the whole neighborhood is talking about.",finite_cleft,True,clefting,[],1
+36,12,"It's to scary her, that the he dressed up.",infinitive_cleft,False,clefting,[],1
+37,13,"It's to help, that he tried.",infinitive_cleft,False,clefting,[],1
+38,14,"It was to rest, that he slept.",infinitive_cleft,False,clefting,[],1
+39,15,"It's to scary the child, that he wore that costume.",infinitive_cleft,True,clefting,"[['the child', 'he']]",1
+40,16,"It's to help the cat, that the kid tried.",infinitive_cleft,True,clefting,[],1
+41,17,"It was to rest the mind, that the kid slept.",infinitive_cleft,True,clefting,[],1
+42,0,It is possible that he killed him.,finite_extraposition,False,extraposition,"[['he', 'him']]",1
+43,1,It's a wonder that you are still here.,finite_extraposition,False,extraposition,[],1
+44,2,It hurts the child that she's so cruel.,finite_extraposition,False,extraposition,"[['the child', 'she']]",1
+45,3,It is possible that he killed the victim.,finite_extraposition,True,extraposition,[],1
+46,4,It's a wonder that the sun is still up.,finite_extraposition,True,extraposition,[],1
+47,5,It hurts me that the world is so cruel.,finite_extraposition,True,extraposition,[],1
+48,6,It is difficult to finish working on time.,infinitive_extraposition,False,extraposition,[],1
+49,7,It surprised me to see you like that.,infinitive_extraposition,False,extraposition,[],1
+50,8,It feels good to be back.,infinitive_extraposition,False,extraposition,[],1
+51,9,It is difficult for the boy to finish this assignment on time.,infinitive_extraposition,True,extraposition,[],1
+52,10,It surprised the child to see the animal like that.,infinitive_extraposition,True,extraposition,[],1
+53,11,It feels good to have a job.,infinitive_extraposition,True,extraposition,[],1

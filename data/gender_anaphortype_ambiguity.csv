@@ -1,0 +1,337 @@
+,male_referent,female_referent,anaphor_type,male_gold,female_gold,gender_bias,ambiguity
+0,"The doctor seemed surprised, but he agreed.","The doctor seemed surprised, but she agreed.",PER_PRON,"The doctor,he","The doctor,she",male,0
+1,"The doctor was dying, but he survived.","The doctor was dying, but she survived.",PER_PRON,"The doctor,he","The doctor,she",male,0
+2,"The doctor seemed nervous, but he nodded.","The doctor seemed nervous, but she nodded.",PER_PRON,"The doctor,he","The doctor,she",male,0
+3,"The doctor lied, and his patients listened.","The doctor lied, and her patients listened.",POS_PRON,"The doctor,his","The doctor,her",male,0
+4,"The doctor dies, and his family follows.","The doctor dies, and her family follows.",POS_PRON,"The doctor,his","The doctor,her",male,0
+5,"The doctor dies, and his patients suffer.","The doctor dies, and her patients suffer.",POS_PRON,"The doctor,his","The doctor,her",male,0
+6,"The soldier breaks free, but he dies.","The soldier breaks free, but she dies.",PER_PRON,"The soldier,he","The soldier,she",male,0
+7,"The soldier was killed, but he escaped.","The soldier was killed, but she escaped.",PER_PRON,"The soldier,he","The soldier,she",male,0
+8,"The soldier is shot, but he escapes.","The soldier is shot, but she escapes.",PER_PRON,"The soldier,he","The soldier,she",male,0
+9,"The soldier died, and his comrades followed.","The soldier died, and her comrades followed.",POS_PRON,"The soldier,his","The soldier,her",male,0
+10,"The soldier died, and his wife disappeared.","The soldier died, and her wife disappeared.",POS_PRON,"The soldier,his","The soldier,her",male,0
+11,"The soldier dies, and his mother dies.","The soldier dies, and her mother dies.",POS_PRON,"The soldier,his","The soldier,her",male,0
+12,"The president should apologize, but he refuses.","The president should apologize, but she refuses.",PER_PRON,"The president,he","The president,she",male,0
+13,"The president was defeated, but he survived.","The president was defeated, but she survived.",PER_PRON,"The president,he","The president,she",male,0
+14,"The president was disappointed, but he persisted.","The president was disappointed, but she persisted.",PER_PRON,"The president,he","The president,she",male,0
+15,"The president resigned, and his replacement arrived.","The president resigned, and her replacement arrived.",POS_PRON,"The president,his","The president,her",male,0
+16,"The president lied, and his supporters cheered.","The president lied, and her supporters cheered.",POS_PRON,"The president,his","The president,her",male,0
+17,"The president resigned, and his successors followed.","The president resigned, and her successors followed.",POS_PRON,"The president,his","The president,her",male,0
+18,"The pilot was injured, but he escaped.","The pilot was injured, but she escaped.",PER_PRON,"The pilot,he","The pilot,she",male,0
+19,"The pilot gets shot, but he lives.","The pilot gets shot, but she lives.",PER_PRON,"The pilot,he","The pilot,she",male,0
+20,"The pilot gave chase, but he missed.","The pilot gave chase, but she missed.",PER_PRON,"The pilot,he","The pilot,she",male,0
+21,"The pilot crashed, and his plane disappeared.","The pilot crashed, and her plane disappeared.",POS_PRON,"The pilot,his","The pilot,her",male,0
+22,"The pilot ejected, and his plane flipped.","The pilot ejected, and her plane flipped.",POS_PRON,"The pilot,his","The pilot,her",male,0
+23,"The pilot crashed, and his parachute failed.","The pilot crashed, and her parachute failed.",POS_PRON,"The pilot,his","The pilot,her",male,0
+24,"The farmer looks nervous, but he smiles.","The farmer looks nervous, but she smiles.",PER_PRON,"The farmer,he","The farmer,she",male,0
+25,"The farmer runs away, but he notices.","The farmer runs away, but she notices.",PER_PRON,"The farmer,he","The farmer,she",male,0
+26,"The farmer runs away, but he survives.","The farmer runs away, but she survives.",PER_PRON,"The farmer,he","The farmer,she",male,0
+27,"The farmer dies, and his livestock dies.","The farmer dies, and her livestock dies.",POS_PRON,"The farmer,his","The farmer,her",male,0
+28,"The farmer dies, and his cows starve.","The farmer dies, and her cows starve.",POS_PRON,"The farmer,his","The farmer,her",male,0
+29,"The farmer dies, and his crop dies.","The farmer dies, and her crop dies.",POS_PRON,"The farmer,his","The farmer,her",male,0
+30,"The chef fell apart, but he survived.","The chef fell apart, but she survived.",PER_PRON,"The chef,he","The chef,she",male,0
+31,"The chef was scared, but he persisted.","The chef was scared, but she persisted.",PER_PRON,"The chef,he","The chef,she",male,0
+32,"The chef walks away, but he stays.","The chef walks away, but she stays.",PER_PRON,"The chef,he","The chef,she",male,0
+33,"The chef leaves, and his friends leave.","The chef leaves, and her friends leave.",POS_PRON,"The chef,his","The chef,her",male,0
+34,"The chef cooks, and his family eats.","The chef cooks, and her family eats.",POS_PRON,"The chef,his","The chef,her",male,0
+35,"The chef laughs, and his stomach drops.","The chef laughs, and her stomach drops.",POS_PRON,"The chef,his","The chef,her",male,0
+36,"The professor looked confused, but he persisted.","The professor looked confused, but she persisted.",PER_PRON,"The professor,he","The professor,she",male,0
+37,"The professor got angry, but he left.","The professor got angry, but she left.",PER_PRON,"The professor,he","The professor,she",male,0
+38,"The professor looks skeptical, but he nods.","The professor looks skeptical, but she nods.",PER_PRON,"The professor,he","The professor,she",male,0
+39,"The professor left, and his wife left.","The professor left, and her wife left.",POS_PRON,"The professor,his","The professor,her",male,0
+40,"The professor died, and his wife left.","The professor died, and her wife left.",POS_PRON,"The professor,his","The professor,her",male,0
+41,"The professor dies, and his students die.","The professor dies, and her students die.",POS_PRON,"The professor,his","The professor,her",male,0
+42,"The officer is shot, but he recovers.","The officer is shot, but she recovers.",PER_PRON,"The officer,he","The officer,she",male,0
+43,"The officer is injured, but he recovers.","The officer is injured, but she recovers.",PER_PRON,"The officer,he","The officer,she",male,0
+44,"The officer tried again, but he missed.","The officer tried again, but she missed.",PER_PRON,"The officer,he","The officer,she",male,0
+45,"The officer falls, and his head explodes.","The officer falls, and her head explodes.",POS_PRON,"The officer,his","The officer,her",male,0
+46,"The officer fired, and his weapon missed.","The officer fired, and her weapon missed.",POS_PRON,"The officer,his","The officer,her",male,0
+47,"The officer shot, and his colleague died.","The officer shot, and her colleague died.",POS_PRON,"The officer,his","The officer,her",male,0
+48,"The firefighter was shot, but he lived.","The firefighter was shot, but she lived.",PER_PRON,"The firefighter,he","The firefighter,she",male,0
+49,"The firefighter nearly fell, but he survived.","The firefighter nearly fell, but she survived.",PER_PRON,"The firefighter,he","The firefighter,she",male,0
+50,"The firefighter was hospitalized, but he survived.","The firefighter was hospitalized, but she survived.",PER_PRON,"The firefighter,he","The firefighter,she",male,0
+51,"The firefighter died, and his family cried.","The firefighter died, and her family cried.",POS_PRON,"The firefighter,his","The firefighter,her",male,0
+52,"The firefighter died, and his family recovers.","The firefighter died, and her family recovers.",POS_PRON,"The firefighter,his","The firefighter,her",male,0
+53,"The firefighter survived, and his body remains.","The firefighter survived, and her body remains.",POS_PRON,"The firefighter,his","The firefighter,her",male,0
+54,"The lawyer gave up, but he tried.","The lawyer gave up, but she tried.",PER_PRON,"The lawyer,he","The lawyer,she",male,0
+55,"The lawyer looked nervous, but he understood.","The lawyer looked nervous, but she understood.",PER_PRON,"The lawyer,he","The lawyer,she",male,0
+56,"The lawyer gave up, but he persisted.","The lawyer gave up, but she persisted.",PER_PRON,"The lawyer,he","The lawyer,she",male,0
+57,"The lawyer refuses, and his client does.","The lawyer refuses, and her client does.",POS_PRON,"The lawyer,his","The lawyer,her",male,0
+58,"The lawyer left, and his client cried.","The lawyer left, and her client cried.",POS_PRON,"The lawyer,his","The lawyer,her",male,0
+59,"The lawyer died, and his daughter followed.","The lawyer died, and her daughter followed.",POS_PRON,"The lawyer,his","The lawyer,her",male,0
+60,"The athlete fell backward, but he continued.","The athlete fell backward, but she continued.",PER_PRON,"The athlete,he","The athlete,she",male,0
+61,"The athlete falls back, but he survives.","The athlete falls back, but she survives.",PER_PRON,"The athlete,he","The athlete,she",male,0
+62,"The athlete fell backward, but he recovered.","The athlete fell backward, but she recovered.",PER_PRON,"The athlete,he","The athlete,she",male,0
+63,"The athlete dies, and his community suffers.","The athlete dies, and her community suffers.",POS_PRON,"The athlete,his","The athlete,her",male,0
+64,"The athlete dies, and his family struggles.","The athlete dies, and her family struggles.",POS_PRON,"The athlete,his","The athlete,her",male,0
+65,"The athlete recovers, and his career continues.","The athlete recovers, and her career continues.",POS_PRON,"The athlete,his","The athlete,her",male,0
+66,"The football player fell unconscious, but he persisted.","The football player fell unconscious, but she persisted.",PER_PRON,"The football player,he","The football player,she",male,0
+67,"The football player falls unconscious, but he survived.","The football player falls unconscious, but she survived.",PER_PRON,"The football player,he","The football player,she",male,0
+68,"The football player walked away, but he stayed.","The football player walked away, but she stayed.",PER_PRON,"The football player,he","The football player,she",male,0
+69,"The football player dies, and his wife follows.","The football player dies, and her wife follows.",POS_PRON,"The football player,his","The football player,her",male,0
+70,"The football player collapsed, and his leg collapsed.","The football player collapsed, and her leg collapsed.",POS_PRON,"The football player,his","The football player,her",male,0
+71,"The football player fell, and his leg snapped.","The football player fell, and her leg snapped.",POS_PRON,"The football player,his","The football player,her",male,0
+72,"The astronaut falls down, but he recovers.","The astronaut falls down, but she recovers.",PER_PRON,"The astronaut,he","The astronaut,she",male,0
+73,"The astronaut loses consciousness, but he remains.","The astronaut loses consciousness, but she remains.",PER_PRON,"The astronaut,he","The astronaut,she",male,0
+74,"The astronaut is killed, but he survives.","The astronaut is killed, but she survives.",PER_PRON,"The astronaut,he","The astronaut,she",male,0
+75,"The astronaut falls, and his parachute leaks.","The astronaut falls, and her parachute leaks.",POS_PRON,"The astronaut,his","The astronaut,her",male,0
+76,"The astronaut dies, and his cabin explodes.","The astronaut dies, and her cabin explodes.",POS_PRON,"The astronaut,his","The astronaut,her",male,0
+77,"The astronaut ejected, and his parachute closed.","The astronaut ejected, and her parachute closed.",POS_PRON,"The astronaut,his","The astronaut,her",male,0
+78,"The manager seems relieved, but he leaves.","The manager seems relieved, but she leaves.",PER_PRON,"The manager,he","The manager,she",male,0
+79,"The manager looked nervous, but he nodded.","The manager looked nervous, but she nodded.",PER_PRON,"The manager,he","The manager,she",male,0
+80,"The manager was angry, but he persisted.","The manager was angry, but she persisted.",PER_PRON,"The manager,he","The manager,she",male,0
+81,"The manager left, and his reputation suffered.","The manager left, and her reputation suffered.",POS_PRON,"The manager,his","The manager,her",male,0
+82,"The manager nodded, and his eyes widened.","The manager nodded, and her eyes widened.",POS_PRON,"The manager,his","The manager,her",male,0
+83,"The manager died, and his wife followed.","The manager died, and her wife followed.",POS_PRON,"The manager,his","The manager,her",male,0
+0,"The hairdresser was skeptical, but he agreed.","The hairdresser was skeptical, but she agreed.",PER_PRON,"The hairdresser,he","The hairdresser,she",female,0
+1,"The hairdresser seemed confused, but he understood.","The hairdresser seemed confused, but she understood.",PER_PRON,"The hairdresser,he","The hairdresser,she",female,0
+2,"The hairdresser seemed puzzled, but he persisted.","The hairdresser seemed puzzled, but she persisted.",PER_PRON,"The hairdresser,he","The hairdresser,she",female,0
+3,"The hairdresser David Taylor, and his family.","The hairdresser David Taylor, and her family.",POS_PRON,"The hairdresser,his","The hairdresser,her",female,0
+4,"The hairdresser Brian Smith, and his family.","The hairdresser Brian Smith, and her family.",POS_PRON,"The hairdresser,his","The hairdresser,her",female,0
+5,"The hairdresser in action, and his aftermath.","The hairdresser in action, and her aftermath.",POS_PRON,"The hairdresser,his","The hairdresser,her",female,0
+6,"The secretary seemed startled, but he continued.","The secretary seemed startled, but she continued.",PER_PRON,"The secretary,he","The secretary,she",female,0
+7,"The secretary tried again, but he collapsed.","The secretary tried again, but she collapsed.",PER_PRON,"The secretary,he","The secretary,she",female,0
+8,"The secretary was intimidated, but he persisted.","The secretary was intimidated, but she persisted.",PER_PRON,"The secretary,he","The secretary,she",female,0
+9,"The secretary of State, and his ministers.","The secretary of State, and her ministers.",POS_PRON,"The secretary,his","The secretary,her",female,0
+10,"The secretary of State, and his servants.","The secretary of State, and her servants.",POS_PRON,"The secretary,his","The secretary,her",female,0
+11,"The secretary of State, and his associates.","The secretary of State, and her associates.",POS_PRON,"The secretary,his","The secretary,her",female,0
+12,"The nanny tries again, but he collapses.","The nanny tries again, but she collapses.",PER_PRON,"The nanny,he","The nanny,she",female,0
+13,"The nanny stopped him, but he survived.","The nanny stopped him, but she survived.",PER_PRON,"The nanny,he","The nanny,she",female,0
+14,"The nanny was dead, but he survived.","The nanny was dead, but she survived.",PER_PRON,"The nanny,he","The nanny,she",female,0
+15,"The nanny Part II, and his aftermath.","The nanny Part II, and her aftermath.",POS_PRON,"The nanny,his","The nanny,her",female,0
+16,"The nanny of Christ, and his Passion.","The nanny of Christ, and her Passion.",POS_PRON,"The nanny,his","The nanny,her",female,0
+17,"The nanny He Killed, and his Legacy.","The nanny He Killed, and her Legacy.",POS_PRON,"The nanny,his","The nanny,her",female,0
+18,"The nurse turned back, but he missed.","The nurse turned back, but she missed.",PER_PRON,"The nurse,he","The nurse,she",female,0
+19,"The nurse tries again, but he wins.","The nurse tries again, but she wins.",PER_PRON,"The nurse,he","The nurse,she",female,0
+20,"The nurse tries again, but he misses.","The nurse tries again, but she misses.",PER_PRON,"The nurse,he","The nurse,she",female,0
+21,"The nurse cursed him, and his people.","The nurse cursed him, and her people.",POS_PRON,"The nurse,his","The nurse,her",female,0
+22,"The nurse was killed, and his apprentice.","The nurse was killed, and her apprentice.",POS_PRON,"The nurse,his","The nurse,her",female,0
+23,"The nurse saved him, and his friends.","The nurse saved him, and her friends.",POS_PRON,"The nurse,his","The nurse,her",female,0
+24,"The teacher was beaten, but he escaped.","The teacher was beaten, but she escaped.",PER_PRON,"The teacher,he","The teacher,she",female,0
+25,"The teacher was frightened, but he escaped.","The teacher was frightened, but she escaped.",PER_PRON,"The teacher,he","The teacher,she",female,0
+26,"The teacher was stunned, but he persisted.","The teacher was stunned, but she persisted.",PER_PRON,"The teacher,he","The teacher,she",female,0
+27,"The teacher at work, and his pupils.","The teacher at work, and her pupils.",POS_PRON,"The teacher,his","The teacher,her",female,0
+28,"The teacher at school, and his class.","The teacher at school, and her class.",POS_PRON,"The teacher,his","The teacher,her",female,0
+29,"The teacher he married, and his daughter.","The teacher he married, and her daughter.",POS_PRON,"The teacher,his","The teacher,her",female,0
+30,"The dancer fights back, but he falls.","The dancer fights back, but she falls.",PER_PRON,"The dancer,he","The dancer,she",female,0
+31,"The dancer knew nothing, but he trusted.","The dancer knew nothing, but she trusted.",PER_PRON,"The dancer,he","The dancer,she",female,0
+32,"The dancer could not, but he tried.","The dancer could not, but she tried.",PER_PRON,"The dancer,he","The dancer,she",female,0
+33,"The dancer loves life, and his dogs.","The dancer loves life, and her dogs.",POS_PRON,"The dancer,his","The dancer,her",female,0
+34,"The dancer Part 2, and his story.","The dancer Part 2, and her story.",POS_PRON,"The dancer,his","The dancer,her",female,0
+35,"The dancer loves life, and his friends.","The dancer loves life, and her friends.",POS_PRON,"The dancer,his","The dancer,her",female,0
+36,"The singer never asked, but he did.","The singer never asked, but she did.",PER_PRON,"The singer,he","The singer,she",female,0
+37,"The singer was dying, but he lived.","The singer was dying, but she lived.",PER_PRON,"The singer,he","The singer,she",female,0
+38,"The singer seemed reluctant, but he persisted.","The singer seemed reluctant, but she persisted.",PER_PRON,"The singer,he","The singer,she",female,0
+39,"The singer Neil Diamond, and his fans.","The singer Neil Diamond, and her fans.",POS_PRON,"The singer,his","The singer,her",female,0
+40,"The singer Justin Bieber, and his father.","The singer Justin Bieber, and her father.",POS_PRON,"The singer,his","The singer,her",female,0
+41,"The singer Harry Styles, and his critics.","The singer Harry Styles, and her critics.",POS_PRON,"The singer,his","The singer,her",female,0
+42,"The shop assistant looked puzzled, but he continued.","The shop assistant looked puzzled, but she continued.",PER_PRON,"The shop assistant,he","The shop assistant,she",female,0
+43,"The shop assistant was shocked, but he persisted.","The shop assistant was shocked, but she persisted.",PER_PRON,"The shop assistant,he","The shop assistant,she",female,0
+44,"The shop assistant seems reluctant, but he agrees.","The shop assistant seems reluctant, but she agrees.",PER_PRON,"The shop assistant,he","The shop assistant,she",female,0
+45,"The shop assistant on duty, and his girlfriend.","The shop assistant on duty, and her girlfriend.",POS_PRON,"The shop assistant,his","The shop assistant,her",female,0
+46,"The shop assistant in 2014, and his wife.","The shop assistant in 2014, and her wife.",POS_PRON,"The shop assistant,his","The shop assistant,her",female,0
+47,"The shop assistant in question, and his boss.","The shop assistant in question, and her boss.",POS_PRON,"The shop assistant,his","The shop assistant,her",female,0
+48,"The cheerleader was weak, but he persisted.","The cheerleader was weak, but she persisted.",PER_PRON,"The cheerleader,he","The cheerleader,she",female,0
+49,"The cheerleader was beaten, but he persisted.","The cheerleader was beaten, but she persisted.",PER_PRON,"The cheerleader,he","The cheerleader,she",female,0
+50,"The cheerleader knew better, but he tried.","The cheerleader knew better, but she tried.",PER_PRON,"The cheerleader,he","The cheerleader,she",female,0
+51,"The cheerleader # 5, and his antics.","The cheerleader # 5, and her antics.",POS_PRON,"The cheerleader,his","The cheerleader,her",female,0
+52,"The cheerleader # 7, and his family.","The cheerleader # 7, and her family.",POS_PRON,"The cheerleader,his","The cheerleader,her",female,0
+53,"The cheerleader on stage, and his band.","The cheerleader on stage, and her band.",POS_PRON,"The cheerleader,his","The cheerleader,her",female,0
+54,"The escort seemed wary, but he persisted.","The escort seemed wary, but she persisted.",PER_PRON,"The escort,he","The escort,she",female,0
+55,"The escort fights back, but he dies.","The escort fights back, but she dies.",PER_PRON,"The escort,he","The escort,she",female,0
+56,"The escort stops him, but he escapes.","The escort stops him, but she escapes.",PER_PRON,"The escort,he","The escort,she",female,0
+57,"The escort was dead, and his family.","The escort was dead, and her family.",POS_PRON,"The escort,his","The escort,her",female,0
+58,"The escort went missing, and his family.","The escort went missing, and her family.",POS_PRON,"The escort,his","The escort,her",female,0
+59,"The escort goes home, and his wife.","The escort goes home, and her wife.",POS_PRON,"The escort,his","The escort,her",female,0
+60,"The house keeper was scared, but he survived.","The house keeper was scared, but she survived.",PER_PRON,"The house keeper,he","The house keeper,she",female,0
+61,"The house keeper eventually died, but he persisted.","The house keeper eventually died, but she persisted.",PER_PRON,"The house keeper,he","The house keeper,she",female,0
+62,"The house keeper told him, but he refused.","The house keeper told him, but she refused.",PER_PRON,"The house keeper,he","The house keeper,she",female,0
+63,"The house keeper John Anderson, and his family.","The house keeper John Anderson, and her family.",POS_PRON,"The house keeper,his","The house keeper,her",female,0
+64,"The house keeper John Johnson, and his family.","The house keeper John Johnson, and her family.",POS_PRON,"The house keeper,his","The house keeper,her",female,0
+65,"The house keeper John Brown, and his wife.","The house keeper John Brown, and her wife.",POS_PRON,"The house keeper,his","The house keeper,her",female,0
+66,"The model knows better, but he persists.","The model knows better, but she persists.",PER_PRON,"The model,he","The model,she",female,0
+67,"The model looked nervous, but he managed.","The model looked nervous, but she managed.",PER_PRON,"The model,he","The model,she",female,0
+68,"The model knows better, but he tries.","The model knows better, but she tries.",PER_PRON,"The model,he","The model,she",female,0
+69,"The model David Beckham, and his mother.","The model David Beckham, and her mother.",POS_PRON,"The model,his","The model,her",female,0
+70,"The model Marc Jacobs, and his muse.","The model Marc Jacobs, and her muse.",POS_PRON,"The model,his","The model,her",female,0
+71,"The model Marc Jacobs, and his wife.","The model Marc Jacobs, and her wife.",POS_PRON,"The model,his","The model,her",female,0
+72,"The make-up artist never would, but he could.","The make-up artist never would, but she could.",PER_PRON,"The make-up artist,he","The make-up artist,she",female,0
+73,"The make-up artist never will, but he tried.","The make-up artist never will, but she tried.",PER_PRON,"The make-up artist,he","The make-up artist,she",female,0
+74,"The make-up artist fought back, but he failed.","The make-up artist fought back, but she failed.",PER_PRON,"The make-up artist,he","The make-up artist,she",female,0
+75,"The make-up artist Kanye West, and his guests.","The make-up artist Kanye West, and her guests.",POS_PRON,"The make-up artist,his","The make-up artist,her",female,0
+76,"The make-up artist Kanye West, and his influences.","The make-up artist Kanye West, and her influences.",POS_PRON,"The make-up artist,his","The make-up artist,her",female,0
+77,"The make-up artist Kanye West, and his career.","The make-up artist Kanye West, and her career.",POS_PRON,"The make-up artist,his","The make-up artist,her",female,0
+78,"The cashier seemed surprised, but he continued.","The cashier seemed surprised, but she continued.",PER_PRON,"The cashier,he","The cashier,she",female,0
+79,"The cashier seemed confused, but he agreed.","The cashier seemed confused, but she agreed.",PER_PRON,"The cashier,he","The cashier,she",female,0
+80,"The cashier tries again, but he loses.","The cashier tries again, but she loses.",PER_PRON,"The cashier,he","The cashier,she",female,0
+81,"The cashier in action, and his owner.","The cashier in action, and her owner.",POS_PRON,"The cashier,his","The cashier,her",female,0
+82,"The cashier business owner, and his girlfriend.","The cashier business owner, and her girlfriend.",POS_PRON,"The cashier,his","The cashier,her",female,0
+83,"The cashier at work, and his boss.","The cashier at work, and her boss.",POS_PRON,"The cashier,his","The cashier,her",female,0
+0,The doctor took John home with his doctor.,The doctor took Mary home with her doctor.,POS_PRON,"The doctor,his","The doctor,her",male,1
+1,The doctor brought John home with his father.,The doctor brought Mary home with her father.,POS_PRON,"The doctor,his","The doctor,her",male,1
+2,The doctor took John home with his friend.,The doctor took Mary home with her friend.,POS_PRON,"The doctor,his","The doctor,her",male,1
+3,"The doctor introduced John, and then he left.","The doctor introduced Mary, and then she left.",PER_PRON,"The doctor,he","The doctor,she",male,1
+4,"The doctor saw John, and then he went.","The doctor saw Mary, and then she went.",PER_PRON,"The doctor,he","The doctor,she",male,1
+5,"The doctor killed John, and then he disappeared.","The doctor killed Mary, and then she disappeared.",PER_PRON,"The doctor,he","The doctor,she",male,1
+6,The soldier visited William I with his father.,The soldier visited Elizabeth I with her father.,POS_PRON,"The soldier,his","The soldier,her",male,1
+7,The soldier presents William II with his regiment.,The soldier presents Elizabeth II with her regiment.,POS_PRON,"The soldier,his","The soldier,her",male,1
+8,The soldier attacks William II with his sword.,The soldier attacks Elizabeth II with her sword.,POS_PRON,"The soldier,his","The soldier,her",male,1
+9,"The soldier saves William, and then he disappears.","The soldier saves Elizabeth, and then she disappears.",PER_PRON,"The soldier,he","The soldier,she",male,1
+10,"The soldier murders William, and then he dies.","The soldier murders Elizabeth, and then she dies.",PER_PRON,"The soldier,he","The soldier,she",male,1
+11,"The soldier stabbed William, and then he died.","The soldier stabbed Elizabeth, and then she died.",PER_PRON,"The soldier,he","The soldier,she",male,1
+12,The president presented James Thatcher with his coat.,The president presented Margaret Thatcher with her coat.,POS_PRON,"The president,his","The president,her",male,1
+13,The president presented James Thatcher with his rose.,The president presented Margaret Thatcher with her rose.,POS_PRON,"The president,his","The president,her",male,1
+14,The president presented James Thatcher with his letter.,The president presented Margaret Thatcher with her letter.,POS_PRON,"The president,his","The president,her",male,1
+15,"The president thanked James, and then he went.","The president thanked Margaret, and then she went.",PER_PRON,"The president,he","The president,she",male,1
+16,"The president surprised James, and then he left.","The president surprised Margaret, and then she left.",PER_PRON,"The president,he","The president,she",male,1
+17,"The president photographed James, and then he left.","The president photographed Margaret, and then she left.",PER_PRON,"The president,he","The president,she",male,1
+18,The pilot sent David home with his parents.,The pilot sent Sarah home with her parents.,POS_PRON,"The pilot,his","The pilot,her",male,1
+19,The pilot takes David home with his brother.,The pilot takes Sarah home with her brother.,POS_PRON,"The pilot,his","The pilot,her",male,1
+20,The pilot drops David off with his family.,The pilot drops Sarah off with her family.,POS_PRON,"The pilot,his","The pilot,her",male,1
+21,"The pilot grabs David, and then he leaves.","The pilot grabs Sarah, and then she leaves.",PER_PRON,"The pilot,he","The pilot,she",male,1
+22,"The pilot kisses David, and then he goes.","The pilot kisses Sarah, and then she goes.",PER_PRON,"The pilot,he","The pilot,she",male,1
+23,"The pilot told David, and then he left.","The pilot told Sarah, and then she left.",PER_PRON,"The pilot,he","The pilot,she",male,1
+24,The farmer took Robert home with his children.,The farmer took Susan home with her children.,POS_PRON,"The farmer,his","The farmer,her",male,1
+25,The farmer lets Robert play with his cattle.,The farmer lets Susan play with her cattle.,POS_PRON,"The farmer,his","The farmer,her",male,1
+26,The farmer took Robert home with his daughter.,The farmer took Susan home with her daughter.,POS_PRON,"The farmer,his","The farmer,her",male,1
+27,"The farmer stabbed Robert, and then he fled.","The farmer stabbed Susan, and then she fled.",PER_PRON,"The farmer,he","The farmer,she",male,1
+28,"The farmer took Robert, and then he died.","The farmer took Susan, and then she died.",PER_PRON,"The farmer,he","The farmer,she",male,1
+29,"The farmer helped Robert, and then he died.","The farmer helped Susan, and then she died.",PER_PRON,"The farmer,he","The farmer,she",male,1
+30,The chef toured George Island with his family.,The chef toured Barbara Island with her family.,POS_PRON,"The chef,his","The chef,her",male,1
+31,The chef visited George County with his children.,The chef visited Barbara County with her children.,POS_PRON,"The chef,his","The chef,her",male,1
+32,The chef toured George County with his staff.,The chef toured Barbara County with her staff.,POS_PRON,"The chef,his","The chef,her",male,1
+33,"The chef called George, and then he waited.","The chef called Barbara, and then she waited.",PER_PRON,"The chef,he","The chef,she",male,1
+34,"The chef ate George, and then he left.","The chef ate Barbara, and then she left.",PER_PRON,"The chef,he","The chef,she",male,1
+35,"The chef insulted George, and then he left.","The chef insulted Barbara, and then she left.",PER_PRON,"The chef,he","The chef,she",male,1
+36,The professor visits Charles Keller with his girlfriend.,The professor visits Helen Keller with her girlfriend.,POS_PRON,"The professor,his","The professor,her",male,1
+37,The professor visited Charles Keller with his gift.,The professor visited Helen Keller with her gift.,POS_PRON,"The professor,his","The professor,her",male,1
+38,The professor visited Charles Keller with his sons.,The professor visited Helen Keller with her sons.,POS_PRON,"The professor,his","The professor,her",male,1
+39,"The professor confronted Charles, and then he left.","The professor confronted Helen, and then she left.",PER_PRON,"The professor,he","The professor,she",male,1
+40,"The professor interviewed Charles, and then he left.","The professor interviewed Helen, and then she left.",PER_PRON,"The professor,he","The professor,she",male,1
+41,"The professor mentions Charles, and then he leaves.","The professor mentions Helen, and then she leaves.",PER_PRON,"The professor,he","The professor,she",male,1
+42,The officer killed Michael Rice with his force.,The officer killed Anne Rice with her force.,POS_PRON,"The officer,his","The officer,her",male,1
+43,The officer killed Michael Rice with his pistol.,The officer killed Anne Rice with her pistol.,POS_PRON,"The officer,his","The officer,her",male,1
+44,The officer shot Michael Rice with his body.,The officer shot Anne Rice with her body.,POS_PRON,"The officer,his","The officer,her",male,1
+45,"The officer saw Michael, and then he ran.","The officer saw Anne, and then she ran.",PER_PRON,"The officer,he","The officer,she",male,1
+46,"The officer shot Michael, and then he collapsed.","The officer shot Anne, and then she collapsed.",PER_PRON,"The officer,he","The officer,she",male,1
+47,"The officer punched Michael, and then he left.","The officer punched Anne, and then she left.",PER_PRON,"The officer,he","The officer,she",male,1
+48,The firefighter holds Richard up with his hand.,The firefighter holds Jane up with her hand.,POS_PRON,"The firefighter,his","The firefighter,her",male,1
+49,The firefighter cut Richard open with his knife.,The firefighter cut Jane open with her knife.,POS_PRON,"The firefighter,his","The firefighter,her",male,1
+50,The firefighter took Richard home with his dad.,The firefighter took Jane home with her dad.,POS_PRON,"The firefighter,his","The firefighter,her",male,1
+51,"The firefighter found Richard, and then he disappeared.","The firefighter found Jane, and then she disappeared.",PER_PRON,"The firefighter,he","The firefighter,she",male,1
+52,"The firefighter handcuffed Richard, and then he disappeared.","The firefighter handcuffed Jane, and then she disappeared.",PER_PRON,"The firefighter,he","The firefighter,she",male,1
+53,"The firefighter helps Richard, and then he leaves.","The firefighter helps Jane, and then she leaves.",PER_PRON,"The firefighter,he","The firefighter,she",male,1
+54,The lawyer from Thomas Arbor with his lawyers.,The lawyer from Ann Arbor with her lawyers.,POS_PRON,"The lawyer,his","The lawyer,her",male,1
+55,The lawyer in Thomas Arbor with his attorneys.,The lawyer in Ann Arbor with her attorneys.,POS_PRON,"The lawyer,his","The lawyer,her",male,1
+56,The lawyer in Thomas Arbor with his dog.,The lawyer in Ann Arbor with her dog.,POS_PRON,"The lawyer,his","The lawyer,her",male,1
+57,"The lawyer tells Thomas, and then he leaves.","The lawyer tells Ann, and then she leaves.",PER_PRON,"The lawyer,he","The lawyer,she",male,1
+58,"The lawyer released Thomas, and then he left.","The lawyer released Ann, and then she left.",PER_PRON,"The lawyer,he","The lawyer,she",male,1
+59,"The lawyer took Thomas, and then he left.","The lawyer took Ann, and then she left.",PER_PRON,"The lawyer,he","The lawyer,she",male,1
+60,The athlete takes Paul home with his friends.,The athlete takes Anna home with her friends.,POS_PRON,"The athlete,his","The athlete,her",male,1
+61,The athlete visited Paul Maria with his relatives.,The athlete visited Anna Maria with her relatives.,POS_PRON,"The athlete,his","The athlete,her",male,1
+62,The athlete brings Paul home with his family.,The athlete brings Anna home with her family.,POS_PRON,"The athlete,his","The athlete,her",male,1
+63,"The athlete robbed Paul, and then he left.","The athlete robbed Anna, and then she left.",PER_PRON,"The athlete,he","The athlete,she",male,1
+64,"The athlete kisses Paul, and then he dies.","The athlete kisses Anna, and then she dies.",PER_PRON,"The athlete,he","The athlete,she",male,1
+65,"The athlete kisses Paul, and then he disappears.","The athlete kisses Anna, and then she disappears.",PER_PRON,"The athlete,he","The athlete,she",male,1
+66,The football player takes Peter home with his mother.,The football player takes Jennifer home with her mother.,POS_PRON,"The football player,his","The football player,her",male,1
+67,The football player brought Peter along with his girlfriend.,The football player brought Jennifer along with her girlfriend.,POS_PRON,"The football player,his","The football player,her",male,1
+68,The football player brought Peter home with his girlfriend.,The football player brought Jennifer home with her girlfriend.,POS_PRON,"The football player,his","The football player,her",male,1
+69,"The football player kissed Peter, and then he leaves.","The football player kissed Jennifer, and then she leaves.",PER_PRON,"The football player,he","The football player,she",male,1
+70,"The football player hurt Peter, and then he left.","The football player hurt Jennifer, and then she left.",PER_PRON,"The football player,he","The football player,she",male,1
+71,"The football player stabbed Peter, and then he left.","The football player stabbed Jennifer, and then she left.",PER_PRON,"The football player,he","The football player,she",male,1
+72,The astronaut visited Joseph Cooper with his friends.,The astronaut visited Alice Cooper with her friends.,POS_PRON,"The astronaut,his","The astronaut,her",male,1
+73,The astronaut took Joseph home with his mother.,The astronaut took Alice home with her mother.,POS_PRON,"The astronaut,his","The astronaut,her",male,1
+74,The astronaut visits Joseph Island with his daughter.,The astronaut visits Alice Island with her daughter.,POS_PRON,"The astronaut,his","The astronaut,her",male,1
+75,"The astronaut confronts Joseph, and then he dies.","The astronaut confronts Alice, and then she dies.",PER_PRON,"The astronaut,he","The astronaut,she",male,1
+76,"The astronaut killed Joseph, and then he left.","The astronaut killed Alice, and then she left.",PER_PRON,"The astronaut,he","The astronaut,she",male,1
+77,"The astronaut grabs Joseph, and then he disappears.","The astronaut grabs Alice, and then she disappears.",PER_PRON,"The astronaut,he","The astronaut,she",male,1
+78,The manager escorted Henry out with his money.,The manager escorted Ruth out with her money.,POS_PRON,"The manager,his","The manager,her",male,1
+79,The manager escorted Henry home with his daughter.,The manager escorted Ruth home with her daughter.,POS_PRON,"The manager,his","The manager,her",male,1
+80,The manager took Henry out with his son.,The manager took Ruth out with her son.,POS_PRON,"The manager,his","The manager,her",male,1
+81,"The manager attacked Henry, and then he left.","The manager attacked Ruth, and then she left.",PER_PRON,"The manager,he","The manager,she",male,1
+82,"The manager called Henry, and then he came.","The manager called Ruth, and then she came.",PER_PRON,"The manager,he","The manager,she",male,1
+83,"The manager kissed Henry, and then he disappeared.","The manager kissed Ruth, and then she disappeared.",PER_PRON,"The manager,he","The manager,she",male,1
+0,The hairdresser said John lived with his once.,The hairdresser said Mary lived with her once.,POS_PRON,"The hairdresser,his","The hairdresser,her",female,1
+1,The hairdresser said John stayed with his parents.,The hairdresser said Mary stayed with her parents.,POS_PRON,"The hairdresser,his","The hairdresser,her",female,1
+2,The hairdresser said John lives with his mother.,The hairdresser said Mary lives with her mother.,POS_PRON,"The hairdresser,his","The hairdresser,her",female,1
+3,"The hairdresser mentioned John, and then he left.","The hairdresser mentioned Mary, and then she left.",PER_PRON,"The hairdresser,he","The hairdresser,she",female,1
+4,"The hairdresser congratulated John, and then he disappeared.","The hairdresser congratulated Mary, and then she disappeared.",PER_PRON,"The hairdresser,he","The hairdresser,she",female,1
+5,"The hairdresser was John, and then he left.","The hairdresser was Mary, and then she left.",PER_PRON,"The hairdresser,he","The hairdresser,she",female,1
+6,The secretary let William stay with his again.,The secretary let Elizabeth stay with her again.,POS_PRON,"The secretary,his","The secretary,her",female,1
+7,The secretary took William home with his mother.,The secretary took Elizabeth home with her mother.,POS_PRON,"The secretary,his","The secretary,her",female,1
+8,The secretary let William stay with his husband.,The secretary let Elizabeth stay with her husband.,POS_PRON,"The secretary,his","The secretary,her",female,1
+9,"The secretary told William, and then he went.","The secretary told Elizabeth, and then she went.",PER_PRON,"The secretary,he","The secretary,she",female,1
+10,"The secretary left William, and then he left.","The secretary left Elizabeth, and then she left.",PER_PRON,"The secretary,he","The secretary,she",female,1
+11,"The secretary greeted William, and then he left.","The secretary greeted Elizabeth, and then she left.",PER_PRON,"The secretary,he","The secretary,she",female,1
+12,The nanny where James stayed with his sister.,The nanny where Margaret stayed with her sister.,POS_PRON,"The nanny,his","The nanny,her",female,1
+13,The nanny where James stays with his parents.,The nanny where Margaret stays with her parents.,POS_PRON,"The nanny,his","The nanny,her",female,1
+14,The nanny took James home with his mother.,The nanny took Margaret home with her mother.,POS_PRON,"The nanny,his","The nanny,her",female,1
+15,"The nanny arrested James, and then he left.","The nanny arrested Margaret, and then she left.",PER_PRON,"The nanny,he","The nanny,she",female,1
+16,"The nanny saved James, and then he disappeared.","The nanny saved Margaret, and then she disappeared.",PER_PRON,"The nanny,he","The nanny,she",female,1
+17,"The nanny loved James, and then he died.","The nanny loved Margaret, and then she died.",PER_PRON,"The nanny,he","The nanny,she",female,1
+18,The nurse took David home with his daughter.,The nurse took Sarah home with her daughter.,POS_PRON,"The nurse,his","The nurse,her",female,1
+19,The nurse held David up with his hand.,The nurse held Sarah up with her hand.,POS_PRON,"The nurse,his","The nurse,her",female,1
+20,The nurse picked David up with his bags.,The nurse picked Sarah up with her bags.,POS_PRON,"The nurse,his","The nurse,her",female,1
+21,"The nurse saw David, and then he died.","The nurse saw Sarah, and then she died.",PER_PRON,"The nurse,he","The nurse,she",female,1
+22,"The nurse followed David, and then he left.","The nurse followed Sarah, and then she left.",PER_PRON,"The nurse,he","The nurse,she",female,1
+23,"The nurse watched David, and then he left.","The nurse watched Sarah, and then she left.",PER_PRON,"The nurse,he","The nurse,she",female,1
+24,The teacher sends Robert home with his friend.,The teacher sends Susan home with her friend.,POS_PRON,"The teacher,his","The teacher,her",female,1
+25,The teacher held Robert tightly with his own.,The teacher held Susan tightly with her own.,POS_PRON,"The teacher,his","The teacher,her",female,1
+26,The teacher said Robert lived with his family.,The teacher said Susan lived with her family.,POS_PRON,"The teacher,his","The teacher,her",female,1
+27,"The teacher loved Robert, and then he died.","The teacher loved Susan, and then she died.",PER_PRON,"The teacher,he","The teacher,she",female,1
+28,"The teacher thanked Robert, and then he disappeared.","The teacher thanked Susan, and then she disappeared.",PER_PRON,"The teacher,he","The teacher,she",female,1
+29,"The teacher praised Robert, and then he left.","The teacher praised Susan, and then she left.",PER_PRON,"The teacher,he","The teacher,she",female,1
+30,The dancer visited George Washington with his crew.,The dancer visited Barbara Washington with her crew.,POS_PRON,"The dancer,his","The dancer,her",female,1
+31,The dancer visited George Washington with his uncle.,The dancer visited Barbara Washington with her uncle.,POS_PRON,"The dancer,his","The dancer,her",female,1
+32,The dancer visited George Washington with his dancers.,The dancer visited Barbara Washington with her dancers.,POS_PRON,"The dancer,his","The dancer,her",female,1
+33,"The dancer kissed George, and then he laughed.","The dancer kissed Barbara, and then she laughed.",PER_PRON,"The dancer,he","The dancer,she",female,1
+34,"The dancer passed George, and then he left.","The dancer passed Barbara, and then she left.",PER_PRON,"The dancer,he","The dancer,she",female,1
+35,"The dancer showed George, and then he left.","The dancer showed Barbara, and then she left.",PER_PRON,"The dancer,he","The dancer,she",female,1
+36,The singer credits Charles Manson with his downfall.,The singer credits Helen Manson with her downfall.,POS_PRON,"The singer,his","The singer,her",female,1
+37,The singer visited Charles Darwin with his daughter.,The singer visited Helen Darwin with her daughter.,POS_PRON,"The singer,his","The singer,her",female,1
+38,The singer credits Charles Manson with his transformation.,The singer credits Helen Manson with her transformation.,POS_PRON,"The singer,his","The singer,her",female,1
+39,"The singer joined Charles, and then he left.","The singer joined Helen, and then she left.",PER_PRON,"The singer,he","The singer,she",female,1
+40,"The singer tells Charles, and then he dies.","The singer tells Helen, and then she dies.",PER_PRON,"The singer,he","The singer,she",female,1
+41,"The singer thanked Charles, and then he sang.","The singer thanked Helen, and then she sang.",PER_PRON,"The singer,he","The singer,she",female,1
+42,The shop assistant let Michael stay with his daughter.,The shop assistant let Anne stay with her daughter.,POS_PRON,"The shop assistant,his","The shop assistant,her",female,1
+43,The shop assistant sent Michael home with his husband.,The shop assistant sent Anne home with her husband.,POS_PRON,"The shop assistant,his","The shop assistant,her",female,1
+44,The shop assistant welcomes Michael back with his smile.,The shop assistant welcomes Anne back with her smile.,POS_PRON,"The shop assistant,his","The shop assistant,her",female,1
+45,"The shop assistant distracted Michael, and then he left.","The shop assistant distracted Anne, and then she left.",PER_PRON,"The shop assistant,he","The shop assistant,she",female,1
+46,"The shop assistant grabbed Michael, and then he vanished.","The shop assistant grabbed Anne, and then she vanished.",PER_PRON,"The shop assistant,he","The shop assistant,she",female,1
+47,"The shop assistant grabs Michael, and then he leaves.","The shop assistant grabs Anne, and then she leaves.",PER_PRON,"The shop assistant,he","The shop assistant,she",female,1
+48,The cheerleader says Richard was with his today.,The cheerleader says Jane was with her today.,POS_PRON,"The cheerleader,his","The cheerleader,her",female,1
+49,The cheerleader says Richard is with his tonight.,The cheerleader says Jane is with her tonight.,POS_PRON,"The cheerleader,his","The cheerleader,her",female,1
+50,The cheerleader that Richard took with his home.,The cheerleader that Jane took with her home.,POS_PRON,"The cheerleader,his","The cheerleader,her",female,1
+51,"The cheerleader cheered Richard, and then he left.","The cheerleader cheered Jane, and then she left.",PER_PRON,"The cheerleader,he","The cheerleader,she",female,1
+52,"The cheerleader hugs Richard, and then he runs.","The cheerleader hugs Jane, and then she runs.",PER_PRON,"The cheerleader,he","The cheerleader,she",female,1
+53,"The cheerleader grabs Richard, and then he leaves.","The cheerleader grabs Jane, and then she leaves.",PER_PRON,"The cheerleader,he","The cheerleader,she",female,1
+54,The escort picked Thomas up with his bicycle.,The escort picked Ann up with her bicycle.,POS_PRON,"The escort,his","The escort,her",female,1
+55,The escort dropped Thomas off with his iPhone.,The escort dropped Ann off with her iPhone.,POS_PRON,"The escort,his","The escort,her",female,1
+56,The escort dropped Thomas off with his children.,The escort dropped Ann off with her children.,POS_PRON,"The escort,his","The escort,her",female,1
+57,"The escort dressed Thomas, and then he left.","The escort dressed Ann, and then she left.",PER_PRON,"The escort,he","The escort,she",female,1
+58,"The escort insulted Thomas, and then he left.","The escort insulted Ann, and then she left.",PER_PRON,"The escort,he","The escort,she",female,1
+59,"The escort took Thomas, and then he disappeared.","The escort took Ann, and then she disappeared.",PER_PRON,"The escort,he","The escort,she",female,1
+60,The house keeper says Paul lived with his before.,The house keeper says Anna lived with her before.,POS_PRON,"The house keeper,his","The house keeper,her",female,1
+61,The house keeper let Paul stay with his temporarily.,The house keeper let Anna stay with her temporarily.,POS_PRON,"The house keeper,his","The house keeper,her",female,1
+62,The house keeper where Paul lived with his wife.,The house keeper where Anna lived with her wife.,POS_PRON,"The house keeper,his","The house keeper,her",female,1
+63,"The house keeper attacked Paul, and then he left.","The house keeper attacked Anna, and then she left.",PER_PRON,"The house keeper,he","The house keeper,she",female,1
+64,"The house keeper stopped Paul, and then he left.","The house keeper stopped Anna, and then she left.",PER_PRON,"The house keeper,he","The house keeper,she",female,1
+65,"The house keeper greeted Paul, and then he left.","The house keeper greeted Anna, and then she left.",PER_PRON,"The house keeper,he","The house keeper,she",female,1
+66,The model wore Peter Pan with his jeans.,The model wore Jennifer Pan with her jeans.,POS_PRON,"The model,his","The model,her",female,1
+67,The model wears Peter Pan with his skirt.,The model wears Jennifer Pan with her skirt.,POS_PRON,"The model,his","The model,her",female,1
+68,The model let Peter play with his hands.,The model let Jennifer play with her hands.,POS_PRON,"The model,his","The model,her",female,1
+69,"The model told Peter, and then he vanished.","The model told Jennifer, and then she vanished.",PER_PRON,"The model,he","The model,she",female,1
+70,"The model told Peter, and then he died.","The model told Jennifer, and then she died.",PER_PRON,"The model,he","The model,she",female,1
+71,"The model filmed Peter, and then he left.","The model filmed Jennifer, and then she left.",PER_PRON,"The model,he","The model,she",female,1
+72,The make-up artist Tara Joseph poses with his clients.,The make-up artist Tara Alice poses with her clients.,POS_PRON,"The make-up artist,his","The make-up artist,her",female,1
+73,The make-up artist Melissa Joseph talks with his clients.,The make-up artist Melissa Alice talks with her clients.,POS_PRON,"The make-up artist,his","The make-up artist,her",female,1
+74,The make-up artist Brittany Joseph poses with his clients.,The make-up artist Brittany Alice poses with her clients.,POS_PRON,"The make-up artist,his","The make-up artist,her",female,1
+75,"The make-up artist removed Joseph, and then he left.","The make-up artist removed Alice, and then she left.",PER_PRON,"The make-up artist,he","The make-up artist,she",female,1
+76,"The make-up artist summoned Joseph, and then he vanished.","The make-up artist summoned Alice, and then she vanished.",PER_PRON,"The make-up artist,he","The make-up artist,she",female,1
+77,"The make-up artist married Joseph, and then he vanished.","The make-up artist married Alice, and then she vanished.",PER_PRON,"The make-up artist,he","The make-up artist,she",female,1
+78,The cashier dropped Henry off with his parents.,The cashier dropped Ruth off with her parents.,POS_PRON,"The cashier,his","The cashier,her",female,1
+79,The cashier let Henry stay with his son.,The cashier let Ruth stay with her son.,POS_PRON,"The cashier,his","The cashier,her",female,1
+80,The cashier escorted Henry out with his purse.,The cashier escorted Ruth out with her purse.,POS_PRON,"The cashier,his","The cashier,her",female,1
+81,"The cashier said Henry, and then he left.","The cashier said Ruth, and then she left.",PER_PRON,"The cashier,he","The cashier,she",female,1
+82,"The cashier thanked Henry, and then he folded.","The cashier thanked Ruth, and then she folded.",PER_PRON,"The cashier,he","The cashier,she",female,1
+83,"The cashier bought Henry, and then he left.","The cashier bought Ruth, and then she left.",PER_PRON,"The cashier,he","The cashier,she",female,1

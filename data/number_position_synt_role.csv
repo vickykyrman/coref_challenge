@@ -1,0 +1,1630 @@
+,sentence,position,gold,syntactic_role,number
+0,"After the car exploded, it was completely destroyed.",subordinate,"the car,it",subj,singular
+1,The car exploded. It was completely destroyed.,independent,"The car,It",subj,singular
+2,"After it exploded, the car was completely destroyed.",cataphora,"it,the car",subj,singular
+3,"After the car crashed, it was completely submerged.",subordinate,"the car,it",subj,singular
+4,The car crashed. It was completely submerged.,independent,"The car,It",subj,singular
+5,"After it crashed, the car was completely submerged.",cataphora,"it,the car",subj,singular
+6,"After the car crashed, it was completely gone.",subordinate,"the car,it",subj,singular
+7,The car crashed. It was completely gone.,independent,"The car,It",subj,singular
+8,"After it crashed, the car was completely gone.",cataphora,"it,the car",subj,singular
+9,"After the population disappeared, it was completely destroyed.",subordinate,"the population,it",subj,singular
+10,The population disappeared. It was completely destroyed.,independent,"The population,It",subj,singular
+11,"After it disappeared, the population was completely destroyed.",cataphora,"it,the population",subj,singular
+12,"After the population disappeared, it was completely abandoned.",subordinate,"the population,it",subj,singular
+13,The population disappeared. It was completely abandoned.,independent,"The population,It",subj,singular
+14,"After it disappeared, the population was completely abandoned.",cataphora,"it,the population",subj,singular
+15,"After the population died, it was completely destroyed.",subordinate,"the population,it",subj,singular
+16,The population died. It was completely destroyed.,independent,"The population,It",subj,singular
+17,"After it died, the population was completely destroyed.",cataphora,"it,the population",subj,singular
+18,"After the book ended, it was completely forgotten.",subordinate,"the book,it",subj,singular
+19,The book ended. It was completely forgotten.,independent,"The book,It",subj,singular
+20,"After it ended, the book was completely forgotten.",cataphora,"it,the book",subj,singular
+21,"After the book ended, it was completely rewritten.",subordinate,"the book,it",subj,singular
+22,The book ended. It was completely rewritten.,independent,"The book,It",subj,singular
+23,"After it ended, the book was completely rewritten.",cataphora,"it,the book",subj,singular
+24,"After the book died, it was completely destroyed.",subordinate,"the book,it",subj,singular
+25,The book died. It was completely destroyed.,independent,"The book,It",subj,singular
+26,"After it died, the book was completely destroyed.",cataphora,"it,the book",subj,singular
+27,"After the party dissolved, it was completely disbanded.",subordinate,"the party,it",subj,singular
+28,The party dissolved. It was completely disbanded.,independent,"The party,It",subj,singular
+29,"After it dissolved, the party was completely disbanded.",cataphora,"it,the party",subj,singular
+30,"After the party dissolved, it was completely dismantled.",subordinate,"the party,it",subj,singular
+31,The party dissolved. It was completely dismantled.,independent,"The party,It",subj,singular
+32,"After it dissolved, the party was completely dismantled.",cataphora,"it,the party",subj,singular
+33,"After the party resigned, it was completely dissolved.",subordinate,"the party,it",subj,singular
+34,The party resigned. It was completely dissolved.,independent,"The party,It",subj,singular
+35,"After it resigned, the party was completely dissolved.",cataphora,"it,the party",subj,singular
+36,"After the ethnicity changes, it was completely different.",subordinate,"the ethnicity,it",subj,singular
+37,The ethnicity changes. It was completely different.,independent,"The ethnicity,It",subj,singular
+38,"After it changes, the ethnicity was completely different.",cataphora,"it,the ethnicity",subj,singular
+39,"After the ethnicity shift, it was completely different.",subordinate,"the ethnicity,it",subj,singular
+40,The ethnicity shift. It was completely different.,independent,"The ethnicity,It",subj,singular
+41,"After it shift, the ethnicity was completely different.",cataphora,"it,the ethnicity",subj,singular
+42,"After the ethnicity change, it was completely changed.",subordinate,"the ethnicity,it",subj,singular
+43,The ethnicity change. It was completely changed.,independent,"The ethnicity,It",subj,singular
+44,"After it change, the ethnicity was completely changed.",cataphora,"it,the ethnicity",subj,singular
+45,"After the preparation process, it was completely finished.",subordinate,"the preparation,it",subj,singular
+46,The preparation process. It was completely finished.,independent,"The preparation,It",subj,singular
+47,"After it process, the preparation was completely finished.",cataphora,"it,the preparation",subj,singular
+48,"After the preparation process, it was completely dry.",subordinate,"the preparation,it",subj,singular
+49,The preparation process. It was completely dry.,independent,"The preparation,It",subj,singular
+50,"After it process, the preparation was completely dry.",cataphora,"it,the preparation",subj,singular
+51,"After the preparation process, it was completely done.",subordinate,"the preparation,it",subj,singular
+52,The preparation process. It was completely done.,independent,"The preparation,It",subj,singular
+53,"After it process, the preparation was completely done.",cataphora,"it,the preparation",subj,singular
+54,"After the plan failed, it was completely scrapped.",subordinate,"the plan,it",subj,singular
+55,The plan failed. It was completely scrapped.,independent,"The plan,It",subj,singular
+56,"After it failed, the plan was completely scrapped.",cataphora,"it,the plan",subj,singular
+57,"After the plan failed, it was completely rewritten.",subordinate,"the plan,it",subj,singular
+58,The plan failed. It was completely rewritten.,independent,"The plan,It",subj,singular
+59,"After it failed, the plan was completely rewritten.",cataphora,"it,the plan",subj,singular
+60,"After the plan failed, it was completely destroyed.",subordinate,"the plan,it",subj,singular
+61,The plan failed. It was completely destroyed.,independent,"The plan,It",subj,singular
+62,"After it failed, the plan was completely destroyed.",cataphora,"it,the plan",subj,singular
+63,"After the stamp date, it was completely removed.",subordinate,"the stamp,it",subj,singular
+64,The stamp date. It was completely removed.,independent,"The stamp,It",subj,singular
+65,"After it date, the stamp was completely removed.",cataphora,"it,the stamp",subj,singular
+66,"After the stamp broke, it was completely destroyed.",subordinate,"the stamp,it",subj,singular
+67,The stamp broke. It was completely destroyed.,independent,"The stamp,It",subj,singular
+68,"After it broke, the stamp was completely destroyed.",cataphora,"it,the stamp",subj,singular
+69,"After the stamp date, it was completely forgotten.",subordinate,"the stamp,it",subj,singular
+70,The stamp date. It was completely forgotten.,independent,"The stamp,It",subj,singular
+71,"After it date, the stamp was completely forgotten.",cataphora,"it,the stamp",subj,singular
+72,"After the robot crashed, it was completely destroyed.",subordinate,"the robot,it",subj,singular
+73,The robot crashed. It was completely destroyed.,independent,"The robot,It",subj,singular
+74,"After it crashed, the robot was completely destroyed.",cataphora,"it,the robot",subj,singular
+75,"After the robot died, it was completely dismantled.",subordinate,"the robot,it",subj,singular
+76,The robot died. It was completely dismantled.,independent,"The robot,It",subj,singular
+77,"After it died, the robot was completely dismantled.",cataphora,"it,the robot",subj,singular
+78,"After the robot escaped, it was completely destroyed.",subordinate,"the robot,it",subj,singular
+79,The robot escaped. It was completely destroyed.,independent,"The robot,It",subj,singular
+80,"After it escaped, the robot was completely destroyed.",cataphora,"it,the robot",subj,singular
+81,"After the game ended, it was completely different.",subordinate,"the game,it",subj,singular
+82,The game ended. It was completely different.,independent,"The game,It",subj,singular
+83,"After it ended, the game was completely different.",cataphora,"it,the game",subj,singular
+84,"After the game ended, it was completely forgotten.",subordinate,"the game,it",subj,singular
+85,The game ended. It was completely forgotten.,independent,"The game,It",subj,singular
+86,"After it ended, the game was completely forgotten.",cataphora,"it,the game",subj,singular
+87,"After the game ended, it was completely gone.",subordinate,"the game,it",subj,singular
+88,The game ended. It was completely gone.,independent,"The game,It",subj,singular
+89,"After it ended, the game was completely gone.",cataphora,"it,the game",subj,singular
+90,"After the pillow broke, it was completely gone.",subordinate,"the pillow,it",subj,singular
+91,The pillow broke. It was completely gone.,independent,"The pillow,It",subj,singular
+92,"After it broke, the pillow was completely gone.",cataphora,"it,the pillow",subj,singular
+93,"After the pillow incident, it was completely different.",subordinate,"the pillow,it",subj,singular
+94,The pillow incident. It was completely different.,independent,"The pillow,It",subj,singular
+95,"After it incident, the pillow was completely different.",cataphora,"it,the pillow",subj,singular
+96,"After the pillow exploded, it was completely gone.",subordinate,"the pillow,it",subj,singular
+97,The pillow exploded. It was completely gone.,independent,"The pillow,It",subj,singular
+98,"After it exploded, the pillow was completely gone.",cataphora,"it,the pillow",subj,singular
+99,"After the house burned, it was completely abandoned.",subordinate,"the house,it",subj,singular
+100,The house burned. It was completely abandoned.,independent,"The house,It",subj,singular
+101,"After it burned, the house was completely abandoned.",cataphora,"it,the house",subj,singular
+102,"After the house burned, it was completely rebuilt.",subordinate,"the house,it",subj,singular
+103,The house burned. It was completely rebuilt.,independent,"The house,It",subj,singular
+104,"After it burned, the house was completely rebuilt.",cataphora,"it,the house",subj,singular
+105,"After the house burned, it was completely leveled.",subordinate,"the house,it",subj,singular
+106,The house burned. It was completely leveled.,independent,"The house,It",subj,singular
+107,"After it burned, the house was completely leveled.",cataphora,"it,the house",subj,singular
+108,"After the fruit dried, it was completely ripe.",subordinate,"the fruit,it",subj,singular
+109,The fruit dried. It was completely ripe.,independent,"The fruit,It",subj,singular
+110,"After it dried, the fruit was completely ripe.",cataphora,"it,the fruit",subj,singular
+111,"After the fruit cooled, it was completely ripe.",subordinate,"the fruit,it",subj,singular
+112,The fruit cooled. It was completely ripe.,independent,"The fruit,It",subj,singular
+113,"After it cooled, the fruit was completely ripe.",cataphora,"it,the fruit",subj,singular
+114,"After the fruit cooled, it was completely dry.",subordinate,"the fruit,it",subj,singular
+115,The fruit cooled. It was completely dry.,independent,"The fruit,It",subj,singular
+116,"After it cooled, the fruit was completely dry.",cataphora,"it,the fruit",subj,singular
+117,"After the track opened, it was completely empty.",subordinate,"the track,it",subj,singular
+118,The track opened. It was completely empty.,independent,"The track,It",subj,singular
+119,"After it opened, the track was completely empty.",cataphora,"it,the track",subj,singular
+120,"After the track closed, it was completely dark.",subordinate,"the track,it",subj,singular
+121,The track closed. It was completely dark.,independent,"The track,It",subj,singular
+122,"After it closed, the track was completely dark.",cataphora,"it,the track",subj,singular
+123,"After the track closed, it was completely quiet.",subordinate,"the track,it",subj,singular
+124,The track closed. It was completely quiet.,independent,"The track,It",subj,singular
+125,"After it closed, the track was completely quiet.",cataphora,"it,the track",subj,singular
+126,"After the elevator left, it was completely empty.",subordinate,"the elevator,it",subj,singular
+127,The elevator left. It was completely empty.,independent,"The elevator,It",subj,singular
+128,"After it left, the elevator was completely empty.",cataphora,"it,the elevator",subj,singular
+129,"After the elevator ride, it was completely different.",subordinate,"the elevator,it",subj,singular
+130,The elevator ride. It was completely different.,independent,"The elevator,It",subj,singular
+131,"After it ride, the elevator was completely different.",cataphora,"it,the elevator",subj,singular
+132,"After the elevator left, it was completely quiet.",subordinate,"the elevator,it",subj,singular
+133,The elevator left. It was completely quiet.,independent,"The elevator,It",subj,singular
+134,"After it left, the elevator was completely quiet.",cataphora,"it,the elevator",subj,singular
+135,"After the tower fell, it was completely destroyed.",subordinate,"the tower,it",subj,singular
+136,The tower fell. It was completely destroyed.,independent,"The tower,It",subj,singular
+137,"After it fell, the tower was completely destroyed.",cataphora,"it,the tower",subj,singular
+138,"After the tower collapsed, it was completely demolished.",subordinate,"the tower,it",subj,singular
+139,The tower collapsed. It was completely demolished.,independent,"The tower,It",subj,singular
+140,"After it collapsed, the tower was completely demolished.",cataphora,"it,the tower",subj,singular
+141,"After the tower collapsed, it was completely empty.",subordinate,"the tower,it",subj,singular
+142,The tower collapsed. It was completely empty.,independent,"The tower,It",subj,singular
+143,"After it collapsed, the tower was completely empty.",cataphora,"it,the tower",subj,singular
+144,"After the computer died, it was completely destroyed.",subordinate,"the computer,it",subj,singular
+145,The computer died. It was completely destroyed.,independent,"The computer,It",subj,singular
+146,"After it died, the computer was completely destroyed.",cataphora,"it,the computer",subj,singular
+147,"After the computer crashed, it was completely useless.",subordinate,"the computer,it",subj,singular
+148,The computer crashed. It was completely useless.,independent,"The computer,It",subj,singular
+149,"After it crashed, the computer was completely useless.",cataphora,"it,the computer",subj,singular
+150,"After the computer crashed, it was completely erased.",subordinate,"the computer,it",subj,singular
+151,The computer crashed. It was completely erased.,independent,"The computer,It",subj,singular
+152,"After it crashed, the computer was completely erased.",cataphora,"it,the computer",subj,singular
+153,"After the video surfaced, it was completely deleted.",subordinate,"the video,it",subj,singular
+154,The video surfaced. It was completely deleted.,independent,"The video,It",subj,singular
+155,"After it surfaced, the video was completely deleted.",cataphora,"it,the video",subj,singular
+156,"After the video expired, it was completely removed.",subordinate,"the video,it",subj,singular
+157,The video expired. It was completely removed.,independent,"The video,It",subj,singular
+158,"After it expired, the video was completely removed.",cataphora,"it,the video",subj,singular
+159,"After the video appeared, it was completely removed.",subordinate,"the video,it",subj,singular
+160,The video appeared. It was completely removed.,independent,"The video,It",subj,singular
+161,"After it appeared, the video was completely removed.",cataphora,"it,the video",subj,singular
+162,"After the mountain collapsed, it was completely gone.",subordinate,"the mountain,it",subj,singular
+163,The mountain collapsed. It was completely gone.,independent,"The mountain,It",subj,singular
+164,"After it collapsed, the mountain was completely gone.",cataphora,"it,the mountain",subj,singular
+165,"After the mountain collapsed, it was completely buried.",subordinate,"the mountain,it",subj,singular
+166,The mountain collapsed. It was completely buried.,independent,"The mountain,It",subj,singular
+167,"After it collapsed, the mountain was completely buried.",cataphora,"it,the mountain",subj,singular
+168,"After the mountain fell, it was completely destroyed.",subordinate,"the mountain,it",subj,singular
+169,The mountain fell. It was completely destroyed.,independent,"The mountain,It",subj,singular
+170,"After it fell, the mountain was completely destroyed.",cataphora,"it,the mountain",subj,singular
+171,"After the body exploded, it was completely gone.",subordinate,"the body,it",subj,singular
+172,The body exploded. It was completely gone.,independent,"The body,It",subj,singular
+173,"After it exploded, the body was completely gone.",cataphora,"it,the body",subj,singular
+174,"After the body exploded, it was completely inert.",subordinate,"the body,it",subj,singular
+175,The body exploded. It was completely inert.,independent,"The body,It",subj,singular
+176,"After it exploded, the body was completely inert.",cataphora,"it,the body",subj,singular
+177,"After the body died, it was completely buried.",subordinate,"the body,it",subj,singular
+178,The body died. It was completely buried.,independent,"The body,It",subj,singular
+179,"After it died, the body was completely buried.",cataphora,"it,the body",subj,singular
+0,"The woman offered the money, but she refused it.",subordinate,"the money,it",obj,singular
+1,"The woman offered the money. However, she refused it.",independent,"the money,it",obj,singular
+2,"A few minutes after the woman offered it, she refused the money.",cataphora,"it,the money",obj,singular
+3,"The woman opened the door, but she closed it.",subordinate,"the door,it",obj,singular
+4,"The woman opened the door. However, she closed it.",independent,"the door,it",obj,singular
+5,"A few minutes after the woman opened it, she closed the door.",cataphora,"it,the door",obj,singular
+6,"The woman opened the door, but she locked it.",subordinate,"the door,it",obj,singular
+7,"The woman opened the door. However, she locked it.",independent,"the door,it",obj,singular
+8,"A few minutes after the woman opened it, she locked the door.",cataphora,"it,the door",obj,singular
+9,"The mother called the police, but she lost it.",subordinate,"the police,it",obj,singular
+10,"The mother called the police. However, she lost it.",independent,"the police,it",obj,singular
+11,"A few minutes after the mother called it, she lost the police.",cataphora,"it,the police",obj,singular
+12,"The mother heard the noise, but she ignored it.",subordinate,"the noise,it",obj,singular
+13,"The mother heard the noise. However, she ignored it.",independent,"the noise,it",obj,singular
+14,"A few minutes after the mother heard it, she ignored the noise.",cataphora,"it,the noise",obj,singular
+15,"The mother heard the scream, but she ignored it.",subordinate,"the scream,it",obj,singular
+16,"The mother heard the scream. However, she ignored it.",independent,"the scream,it",obj,singular
+17,"A few minutes after the mother heard it, she ignored the scream.",cataphora,"it,the scream",obj,singular
+18,"The owner bought the house, but she sold it.",subordinate,"the house,it",obj,singular
+19,"The owner bought the house. However, she sold it.",independent,"the house,it",obj,singular
+20,"A few minutes after the owner bought it, she sold the house.",cataphora,"it,the house",obj,singular
+21,"The owner called the police, but she lost it.",subordinate,"the police,it",obj,singular
+22,"The owner called the police. However, she lost it.",independent,"the police,it",obj,singular
+23,"A few minutes after the owner called it, she lost the police.",cataphora,"it,the police",obj,singular
+24,"The owner loved the house, but she sold it.",subordinate,"the house,it",obj,singular
+25,"The owner loved the house. However, she sold it.",independent,"the house,it",obj,singular
+26,"A few minutes after the owner loved it, she sold the house.",cataphora,"it,the house",obj,singular
+27,"The author wrote the book, but she hated it.",subordinate,"the book,it",obj,singular
+28,"The author wrote the book. However, she hated it.",independent,"the book,it",obj,singular
+29,"A few minutes after the author wrote it, she hated the book.",cataphora,"it,the book",obj,singular
+30,"The author wrote the book, but she hates it.",subordinate,"the book,it",obj,singular
+31,"The author wrote the book. However, she hates it.",independent,"the book,it",obj,singular
+32,"A few minutes after the author wrote it, she hates the book.",cataphora,"it,the book",obj,singular
+33,"The author wrote the book, but she edited it.",subordinate,"the book,it",obj,singular
+34,"The author wrote the book. However, she edited it.",independent,"the book,it",obj,singular
+35,"A few minutes after the author wrote it, she edited the book.",cataphora,"it,the book",obj,singular
+36,"The lady offered the money, but she refused it.",subordinate,"the money,it",obj,singular
+37,"The lady offered the money. However, she refused it.",independent,"the money,it",obj,singular
+38,"A few minutes after the lady offered it, she refused the money.",cataphora,"it,the money",obj,singular
+39,"The lady called the police, but she lost it.",subordinate,"the police,it",obj,singular
+40,"The lady called the police. However, she lost it.",independent,"the police,it",obj,singular
+41,"A few minutes after the lady called it, she lost the police.",cataphora,"it,the police",obj,singular
+42,"The lady offered the money, but she declined it.",subordinate,"the money,it",obj,singular
+43,"The lady offered the money. However, she declined it.",independent,"the money,it",obj,singular
+44,"A few minutes after the lady offered it, she declined the money.",cataphora,"it,the money",obj,singular
+45,"The bride loved the job, but she hated it.",subordinate,"the job,it",obj,singular
+46,"The bride loved the job. However, she hated it.",independent,"the job,it",obj,singular
+47,"A few minutes after the bride loved it, she hated the job.",cataphora,"it,the job",obj,singular
+48,"The bride loved the dress, but she hated it.",subordinate,"the dress,it",obj,singular
+49,"The bride loved the dress. However, she hated it.",independent,"the dress,it",obj,singular
+50,"A few minutes after the bride loved it, she hated the dress.",cataphora,"it,the dress",obj,singular
+51,"The bride wore the dress, but she hated it.",subordinate,"the dress,it",obj,singular
+52,"The bride wore the dress. However, she hated it.",independent,"the dress,it",obj,singular
+53,"A few minutes after the bride wore it, she hated the dress.",cataphora,"it,the dress",obj,singular
+54,"The daughter knows the truth, but she hides it.",subordinate,"the truth,it",obj,singular
+55,"The daughter knows the truth. However, she hides it.",independent,"the truth,it",obj,singular
+56,"A few minutes after the daughter knows it, she hides the truth.",cataphora,"it,the truth",obj,singular
+57,"The daughter heard the noise, but she ignored it.",subordinate,"the noise,it",obj,singular
+58,"The daughter heard the noise. However, she ignored it.",independent,"the noise,it",obj,singular
+59,"A few minutes after the daughter heard it, she ignored the noise.",cataphora,"it,the noise",obj,singular
+60,"The daughter knew the truth, but she hid it.",subordinate,"the truth,it",obj,singular
+61,"The daughter knew the truth. However, she hid it.",independent,"the truth,it",obj,singular
+62,"A few minutes after the daughter knew it, she hid the truth.",cataphora,"it,the truth",obj,singular
+63,"The model hated the suit, but she loved it.",subordinate,"the suit,it",obj,singular
+64,"The model hated the suit. However, she loved it.",independent,"the suit,it",obj,singular
+65,"A few minutes after the model hated it, she loved the suit.",cataphora,"it,the suit",obj,singular
+66,"The model hated the dress, but she loved it.",subordinate,"the dress,it",obj,singular
+67,"The model hated the dress. However, she loved it.",independent,"the dress,it",obj,singular
+68,"A few minutes after the model hated it, she loved the dress.",cataphora,"it,the dress",obj,singular
+69,"The model hated the car, but she loved it.",subordinate,"the car,it",obj,singular
+70,"The model hated the car. However, she loved it.",independent,"the car,it",obj,singular
+71,"A few minutes after the model hated it, she loved the car.",cataphora,"it,the car",obj,singular
+72,"The sister knows the truth, but she hides it.",subordinate,"the truth,it",obj,singular
+73,"The sister knows the truth. However, she hides it.",independent,"the truth,it",obj,singular
+74,"A few minutes after the sister knows it, she hides the truth.",cataphora,"it,the truth",obj,singular
+75,"The sister knew the truth, but she hid it.",subordinate,"the truth,it",obj,singular
+76,"The sister knew the truth. However, she hid it.",independent,"the truth,it",obj,singular
+77,"A few minutes after the sister knew it, she hid the truth.",cataphora,"it,the truth",obj,singular
+78,"The sister hears the voice, but she ignores it.",subordinate,"the voice,it",obj,singular
+79,"The sister hears the voice. However, she ignores it.",independent,"the voice,it",obj,singular
+80,"A few minutes after the sister hears it, she ignores the voice.",cataphora,"it,the voice",obj,singular
+81,"The actress hated the film, but she loved it.",subordinate,"the film,it",obj,singular
+82,"The actress hated the film. However, she loved it.",independent,"the film,it",obj,singular
+83,"A few minutes after the actress hated it, she loved the film.",cataphora,"it,the film",obj,singular
+84,"The actress hated the role, but she loved it.",subordinate,"the role,it",obj,singular
+85,"The actress hated the role. However, she loved it.",independent,"the role,it",obj,singular
+86,"A few minutes after the actress hated it, she loved the role.",cataphora,"it,the role",obj,singular
+87,"The actress hated the movie, but she loved it.",subordinate,"the movie,it",obj,singular
+88,"The actress hated the movie. However, she loved it.",independent,"the movie,it",obj,singular
+89,"A few minutes after the actress hated it, she loved the movie.",cataphora,"it,the movie",obj,singular
+90,"The photographer took the picture, but she lost it.",subordinate,"the picture,it",obj,singular
+91,"The photographer took the picture. However, she lost it.",independent,"the picture,it",obj,singular
+92,"A few minutes after the photographer took it, she lost the picture.",cataphora,"it,the picture",obj,singular
+93,"The photographer took the photo, but she lost it.",subordinate,"the photo,it",obj,singular
+94,"The photographer took the photo. However, she lost it.",independent,"the photo,it",obj,singular
+95,"A few minutes after the photographer took it, she lost the photo.",cataphora,"it,the photo",obj,singular
+96,"The photographer took the video, but she lost it.",subordinate,"the video,it",obj,singular
+97,"The photographer took the video. However, she lost it.",independent,"the video,it",obj,singular
+98,"A few minutes after the photographer took it, she lost the video.",cataphora,"it,the video",obj,singular
+99,"The seller bought the house, but she sold it.",subordinate,"the house,it",obj,singular
+100,"The seller bought the house. However, she sold it.",independent,"the house,it",obj,singular
+101,"A few minutes after the seller bought it, she sold the house.",cataphora,"it,the house",obj,singular
+102,"The seller offered the money, but she refused it.",subordinate,"the money,it",obj,singular
+103,"The seller offered the money. However, she refused it.",independent,"the money,it",obj,singular
+104,"A few minutes after the seller offered it, she refused the money.",cataphora,"it,the money",obj,singular
+105,"The seller rejects the offer, but she accepts it.",subordinate,"the offer,it",obj,singular
+106,"The seller rejects the offer. However, she accepts it.",independent,"the offer,it",obj,singular
+107,"A few minutes after the seller rejects it, she accepts the offer.",cataphora,"it,the offer",obj,singular
+108,"The artist loved the job, but she hated it.",subordinate,"the job,it",obj,singular
+109,"The artist loved the job. However, she hated it.",independent,"the job,it",obj,singular
+110,"A few minutes after the artist loved it, she hated the job.",cataphora,"it,the job",obj,singular
+111,"The artist got the job, but she hated it.",subordinate,"the job,it",obj,singular
+112,"The artist got the job. However, she hated it.",independent,"the job,it",obj,singular
+113,"A few minutes after the artist got it, she hated the job.",cataphora,"it,the job",obj,singular
+114,"The artist hated the job, but she did it.",subordinate,"the job,it",obj,singular
+115,"The artist hated the job. However, she did it.",independent,"the job,it",obj,singular
+116,"A few minutes after the artist hated it, she did the job.",cataphora,"it,the job",obj,singular
+117,"The teacher offered the job, but she declined it.",subordinate,"the job,it",obj,singular
+118,"The teacher offered the job. However, she declined it.",independent,"the job,it",obj,singular
+119,"A few minutes after the teacher offered it, she declined the job.",cataphora,"it,the job",obj,singular
+120,"The teacher offered the job, but she rejected it.",subordinate,"the job,it",obj,singular
+121,"The teacher offered the job. However, she rejected it.",independent,"the job,it",obj,singular
+122,"A few minutes after the teacher offered it, she rejected the job.",cataphora,"it,the job",obj,singular
+123,"The teacher called the principal, but she ignored it.",subordinate,"the principal,it",obj,singular
+124,"The teacher called the principal. However, she ignored it.",independent,"the principal,it",obj,singular
+125,"A few minutes after the teacher called it, she ignored the principal.",cataphora,"it,the principal",obj,singular
+126,"The client hated the job, but she did it.",subordinate,"the job,it",obj,singular
+127,"The client hated the job. However, she did it.",independent,"the job,it",obj,singular
+128,"A few minutes after the client hated it, she did the job.",cataphora,"it,the job",obj,singular
+129,"The client took the job, but she hated it.",subordinate,"the job,it",obj,singular
+130,"The client took the job. However, she hated it.",independent,"the job,it",obj,singular
+131,"A few minutes after the client took it, she hated the job.",cataphora,"it,the job",obj,singular
+132,"The client loved the job, but she hated it.",subordinate,"the job,it",obj,singular
+133,"The client loved the job. However, she hated it.",independent,"the job,it",obj,singular
+134,"A few minutes after the client loved it, she hated the job.",cataphora,"it,the job",obj,singular
+135,"The student offered the job, but she declined it.",subordinate,"the job,it",obj,singular
+136,"The student offered the job. However, she declined it.",independent,"the job,it",obj,singular
+137,"A few minutes after the student offered it, she declined the job.",cataphora,"it,the job",obj,singular
+138,"The student offered the job, but she rejected it.",subordinate,"the job,it",obj,singular
+139,"The student offered the job. However, she rejected it.",independent,"the job,it",obj,singular
+140,"A few minutes after the student offered it, she rejected the job.",cataphora,"it,the job",obj,singular
+141,"The student offered the money, but she declined it.",subordinate,"the money,it",obj,singular
+142,"The student offered the money. However, she declined it.",independent,"the money,it",obj,singular
+143,"A few minutes after the student offered it, she declined the money.",cataphora,"it,the money",obj,singular
+144,"The queen knows the truth, but she hides it.",subordinate,"the truth,it",obj,singular
+145,"The queen knows the truth. However, she hides it.",independent,"the truth,it",obj,singular
+146,"A few minutes after the queen knows it, she hides the truth.",cataphora,"it,the truth",obj,singular
+147,"The queen knew the truth, but she hid it.",subordinate,"the truth,it",obj,singular
+148,"The queen knew the truth. However, she hid it.",independent,"the truth,it",obj,singular
+149,"A few minutes after the queen knew it, she hid the truth.",cataphora,"it,the truth",obj,singular
+150,"The queen knows the secret, but she hides it.",subordinate,"the secret,it",obj,singular
+151,"The queen knows the secret. However, she hides it.",independent,"the secret,it",obj,singular
+152,"A few minutes after the queen knows it, she hides the secret.",cataphora,"it,the secret",obj,singular
+153,"The princess knows the truth, but she hides it.",subordinate,"the truth,it",obj,singular
+154,"The princess knows the truth. However, she hides it.",independent,"the truth,it",obj,singular
+155,"A few minutes after the princess knows it, she hides the truth.",cataphora,"it,the truth",obj,singular
+156,"The princess hears the voice, but she ignores it.",subordinate,"the voice,it",obj,singular
+157,"The princess hears the voice. However, she ignores it.",independent,"the voice,it",obj,singular
+158,"A few minutes after the princess hears it, she ignores the voice.",cataphora,"it,the voice",obj,singular
+159,"The princess knows the secret, but she hides it.",subordinate,"the secret,it",obj,singular
+160,"The princess knows the secret. However, she hides it.",independent,"the secret,it",obj,singular
+161,"A few minutes after the princess knows it, she hides the secret.",cataphora,"it,the secret",obj,singular
+162,"The witch knows the truth, but she hides it.",subordinate,"the truth,it",obj,singular
+163,"The witch knows the truth. However, she hides it.",independent,"the truth,it",obj,singular
+164,"A few minutes after the witch knows it, she hides the truth.",cataphora,"it,the truth",obj,singular
+165,"The witch knew the truth, but she hid it.",subordinate,"the truth,it",obj,singular
+166,"The witch knew the truth. However, she hid it.",independent,"the truth,it",obj,singular
+167,"A few minutes after the witch knew it, she hid the truth.",cataphora,"it,the truth",obj,singular
+168,"The witch knows the secret, but she hides it.",subordinate,"the secret,it",obj,singular
+169,"The witch knows the secret. However, she hides it.",independent,"the secret,it",obj,singular
+170,"A few minutes after the witch knows it, she hides the secret.",cataphora,"it,the secret",obj,singular
+171,"The hostess called the police, but she lost it.",subordinate,"the police,it",obj,singular
+172,"The hostess called the police. However, she lost it.",independent,"the police,it",obj,singular
+173,"A few minutes after the hostess called it, she lost the police.",cataphora,"it,the police",obj,singular
+174,"The hostess was the worst, but she deserved it.",subordinate,"the worst,it",obj,singular
+175,"The hostess was the worst. However, she deserved it.",independent,"the worst,it",obj,singular
+176,"A few minutes after the hostess was it, she deserved the worst.",cataphora,"it,the worst",obj,singular
+177,"The hostess broke the rules, but she knew it.",subordinate,"the rules,it",obj,singular
+178,"The hostess broke the rules. However, she knew it.",independent,"the rules,it",obj,singular
+179,"A few minutes after the hostess broke it, she knew the rules.",cataphora,"it,the rules",obj,singular
+0,"The man told the police, and a few months later it happened.",subordinate,"the police,it",obj_subj,singular
+1,The man told the police. A few months later it happened.,independent,"the police,it",obj_subj,singular
+2,"A few months after the man told it, the police happened.",cataphora,"it,the police",obj_subj,singular
+3,"The man took the money, and a few months later it disappeared.",subordinate,"the money,it",obj_subj,singular
+4,The man took the money. A few months later it disappeared.,independent,"the money,it",obj_subj,singular
+5,"A few months after the man took it, the money disappeared.",cataphora,"it,the money",obj_subj,singular
+6,"The man dropped the bomb, and a few months later it exploded.",subordinate,"the bomb,it",obj_subj,singular
+7,The man dropped the bomb. A few months later it exploded.,independent,"the bomb,it",obj_subj,singular
+8,"A few months after the man dropped it, the bomb exploded.",cataphora,"it,the bomb",obj_subj,singular
+9,"The farmer sold the cow, and a few months later it died.",subordinate,"the cow,it",obj_subj,singular
+10,The farmer sold the cow. A few months later it died.,independent,"the cow,it",obj_subj,singular
+11,"A few months after the farmer sold it, the cow died.",cataphora,"it,the cow",obj_subj,singular
+12,"The farmer sold the crop, and a few months later it died.",subordinate,"the crop,it",obj_subj,singular
+13,The farmer sold the crop. A few months later it died.,independent,"the crop,it",obj_subj,singular
+14,"A few months after the farmer sold it, the crop died.",cataphora,"it,the crop",obj_subj,singular
+15,"The farmer sold the crop, and a few months later it disappeared.",subordinate,"the crop,it",obj_subj,singular
+16,The farmer sold the crop. A few months later it disappeared.,independent,"the crop,it",obj_subj,singular
+17,"A few months after the farmer sold it, the crop disappeared.",cataphora,"it,the crop",obj_subj,singular
+18,"The owner bought the house, and a few months later it sold.",subordinate,"the house,it",obj_subj,singular
+19,The owner bought the house. A few months later it sold.,independent,"the house,it",obj_subj,singular
+20,"A few months after the owner bought it, the house sold.",cataphora,"it,the house",obj_subj,singular
+21,"The owner sold the restaurant, and a few months later it closed.",subordinate,"the restaurant,it",obj_subj,singular
+22,The owner sold the restaurant. A few months later it closed.,independent,"the restaurant,it",obj_subj,singular
+23,"A few months after the owner sold it, the restaurant closed.",cataphora,"it,the restaurant",obj_subj,singular
+24,"The owner rented the house, and a few months later it sold.",subordinate,"the house,it",obj_subj,singular
+25,The owner rented the house. A few months later it sold.,independent,"the house,it",obj_subj,singular
+26,"A few months after the owner rented it, the house sold.",cataphora,"it,the house",obj_subj,singular
+27,"The neighbor told the police, and a few months later it happened.",subordinate,"the police,it",obj_subj,singular
+28,The neighbor told the police. A few months later it happened.,independent,"the police,it",obj_subj,singular
+29,"A few months after the neighbor told it, the police happened.",cataphora,"it,the police",obj_subj,singular
+30,"The neighbor locked the door, and a few months later it opened.",subordinate,"the door,it",obj_subj,singular
+31,The neighbor locked the door. A few months later it opened.,independent,"the door,it",obj_subj,singular
+32,"A few months after the neighbor locked it, the door opened.",cataphora,"it,the door",obj_subj,singular
+33,"The neighbor dropped the bomb, and a few months later it exploded.",subordinate,"the bomb,it",obj_subj,singular
+34,The neighbor dropped the bomb. A few months later it exploded.,independent,"the bomb,it",obj_subj,singular
+35,"A few months after the neighbor dropped it, the bomb exploded.",cataphora,"it,the bomb",obj_subj,singular
+36,"The soldier dropped the bomb, and a few months later it exploded.",subordinate,"the bomb,it",obj_subj,singular
+37,The soldier dropped the bomb. A few months later it exploded.,independent,"the bomb,it",obj_subj,singular
+38,"A few months after the soldier dropped it, the bomb exploded.",cataphora,"it,the bomb",obj_subj,singular
+39,"The soldier planted the bomb, and a few months later it exploded.",subordinate,"the bomb,it",obj_subj,singular
+40,The soldier planted the bomb. A few months later it exploded.,independent,"the bomb,it",obj_subj,singular
+41,"A few months after the soldier planted it, the bomb exploded.",cataphora,"it,the bomb",obj_subj,singular
+42,"The soldier detonated the bomb, and a few months later it exploded.",subordinate,"the bomb,it",obj_subj,singular
+43,The soldier detonated the bomb. A few months later it exploded.,independent,"the bomb,it",obj_subj,singular
+44,"A few months after the soldier detonated it, the bomb exploded.",cataphora,"it,the bomb",obj_subj,singular
+45,"The father aborted the baby, and a few months later it died.",subordinate,"the baby,it",obj_subj,singular
+46,The father aborted the baby. A few months later it died.,independent,"the baby,it",obj_subj,singular
+47,"A few months after the father aborted it, the baby died.",cataphora,"it,the baby",obj_subj,singular
+48,"The father aborted the fetus, and a few months later it died.",subordinate,"the fetus,it",obj_subj,singular
+49,The father aborted the fetus. A few months later it died.,independent,"the fetus,it",obj_subj,singular
+50,"A few months after the father aborted it, the fetus died.",cataphora,"it,the fetus",obj_subj,singular
+51,"The father aborted the child, and a few months later it died.",subordinate,"the child,it",obj_subj,singular
+52,The father aborted the child. A few months later it died.,independent,"the child,it",obj_subj,singular
+53,"A few months after the father aborted it, the child died.",cataphora,"it,the child",obj_subj,singular
+54,"The student accepted the offer, and a few months later it closed.",subordinate,"the offer,it",obj_subj,singular
+55,The student accepted the offer. A few months later it closed.,independent,"the offer,it",obj_subj,singular
+56,"A few months after the student accepted it, the offer closed.",cataphora,"it,the offer",obj_subj,singular
+57,"The student accepted the job, and a few months later it opened.",subordinate,"the job,it",obj_subj,singular
+58,The student accepted the job. A few months later it opened.,independent,"the job,it",obj_subj,singular
+59,"A few months after the student accepted it, the job opened.",cataphora,"it,the job",obj_subj,singular
+60,"The student signed the contract, and a few months later it expired.",subordinate,"the contract,it",obj_subj,singular
+61,The student signed the contract. A few months later it expired.,independent,"the contract,it",obj_subj,singular
+62,"A few months after the student signed it, the contract expired.",cataphora,"it,the contract",obj_subj,singular
+63,"The employee reported the harassment, and a few months later it stopped.",subordinate,"the harassment,it",obj_subj,singular
+64,The employee reported the harassment. A few months later it stopped.,independent,"the harassment,it",obj_subj,singular
+65,"A few months after the employee reported it, the harassment stopped.",cataphora,"it,the harassment",obj_subj,singular
+66,"The employee sued the company, and a few months later it settled.",subordinate,"the company,it",obj_subj,singular
+67,The employee sued the company. A few months later it settled.,independent,"the company,it",obj_subj,singular
+68,"A few months after the employee sued it, the company settled.",cataphora,"it,the company",obj_subj,singular
+69,"The employee left the store, and a few months later it reopened.",subordinate,"the store,it",obj_subj,singular
+70,The employee left the store. A few months later it reopened.,independent,"the store,it",obj_subj,singular
+71,"A few months after the employee left it, the store reopened.",cataphora,"it,the store",obj_subj,singular
+72,"The friend placed the order, and a few months later it arrived.",subordinate,"the order,it",obj_subj,singular
+73,The friend placed the order. A few months later it arrived.,independent,"the order,it",obj_subj,singular
+74,"A few months after the friend placed it, the order arrived.",cataphora,"it,the order",obj_subj,singular
+75,"The friend dropped the bomb, and a few months later it exploded.",subordinate,"the bomb,it",obj_subj,singular
+76,The friend dropped the bomb. A few months later it exploded.,independent,"the bomb,it",obj_subj,singular
+77,"A few months after the friend dropped it, the bomb exploded.",cataphora,"it,the bomb",obj_subj,singular
+78,"The friend placed the order, and a few months later it came.",subordinate,"the order,it",obj_subj,singular
+79,The friend placed the order. A few months later it came.,independent,"the order,it",obj_subj,singular
+80,"A few months after the friend placed it, the order came.",cataphora,"it,the order",obj_subj,singular
+81,"The seller bought the house, and a few months later it sold.",subordinate,"the house,it",obj_subj,singular
+82,The seller bought the house. A few months later it sold.,independent,"the house,it",obj_subj,singular
+83,"A few months after the seller bought it, the house sold.",cataphora,"it,the house",obj_subj,singular
+84,"The seller placed the order, and a few months later it arrived.",subordinate,"the order,it",obj_subj,singular
+85,The seller placed the order. A few months later it arrived.,independent,"the order,it",obj_subj,singular
+86,"A few months after the seller placed it, the order arrived.",cataphora,"it,the order",obj_subj,singular
+87,"The seller rented the house, and a few months later it sold.",subordinate,"the house,it",obj_subj,singular
+88,The seller rented the house. A few months later it sold.,independent,"the house,it",obj_subj,singular
+89,"A few months after the seller rented it, the house sold.",cataphora,"it,the house",obj_subj,singular
+90,"The mayor sued the city, and a few months later it settled.",subordinate,"the city,it",obj_subj,singular
+91,The mayor sued the city. A few months later it settled.,independent,"the city,it",obj_subj,singular
+92,"A few months after the mayor sued it, the city settled.",cataphora,"it,the city",obj_subj,singular
+93,"The mayor signed the bill, and a few months later it passed.",subordinate,"the bill,it",obj_subj,singular
+94,The mayor signed the bill. A few months later it passed.,independent,"the bill,it",obj_subj,singular
+95,"A few months after the mayor signed it, the bill passed.",cataphora,"it,the bill",obj_subj,singular
+96,"The mayor sued the city, and a few months later it won.",subordinate,"the city,it",obj_subj,singular
+97,The mayor sued the city. A few months later it won.,independent,"the city,it",obj_subj,singular
+98,"A few months after the mayor sued it, the city won.",cataphora,"it,the city",obj_subj,singular
+99,"The hunter shot the deer, and a few months later it returned.",subordinate,"the deer,it",obj_subj,singular
+100,The hunter shot the deer. A few months later it returned.,independent,"the deer,it",obj_subj,singular
+101,"A few months after the hunter shot it, the deer returned.",cataphora,"it,the deer",obj_subj,singular
+102,"The hunter killed the snake, and a few months later it returned.",subordinate,"the snake,it",obj_subj,singular
+103,The hunter killed the snake. A few months later it returned.,independent,"the snake,it",obj_subj,singular
+104,"A few months after the hunter killed it, the snake returned.",cataphora,"it,the snake",obj_subj,singular
+105,"The hunter killed the bear, and a few months later it returned.",subordinate,"the bear,it",obj_subj,singular
+106,The hunter killed the bear. A few months later it returned.,independent,"the bear,it",obj_subj,singular
+107,"A few months after the hunter killed it, the bear returned.",cataphora,"it,the bear",obj_subj,singular
+108,"The villager bought the house, and a few months later it sold.",subordinate,"the house,it",obj_subj,singular
+109,The villager bought the house. A few months later it sold.,independent,"the house,it",obj_subj,singular
+110,"A few months after the villager bought it, the house sold.",cataphora,"it,the house",obj_subj,singular
+111,"The villager rented the house, and a few months later it sold.",subordinate,"the house,it",obj_subj,singular
+112,The villager rented the house. A few months later it sold.,independent,"the house,it",obj_subj,singular
+113,"A few months after the villager rented it, the house sold.",cataphora,"it,the house",obj_subj,singular
+114,"The villager killed the snake, and a few months later it returned.",subordinate,"the snake,it",obj_subj,singular
+115,The villager killed the snake. A few months later it returned.,independent,"the snake,it",obj_subj,singular
+116,"A few months after the villager killed it, the snake returned.",cataphora,"it,the snake",obj_subj,singular
+117,"The husband bought the house, and a few months later it sold.",subordinate,"the house,it",obj_subj,singular
+118,The husband bought the house. A few months later it sold.,independent,"the house,it",obj_subj,singular
+119,"A few months after the husband bought it, the house sold.",cataphora,"it,the house",obj_subj,singular
+120,"The husband placed the order, and a few months later it arrived.",subordinate,"the order,it",obj_subj,singular
+121,The husband placed the order. A few months later it arrived.,independent,"the order,it",obj_subj,singular
+122,"A few months after the husband placed it, the order arrived.",cataphora,"it,the order",obj_subj,singular
+123,"The husband postponed the wedding, and a few months later it happened.",subordinate,"the wedding,it",obj_subj,singular
+124,The husband postponed the wedding. A few months later it happened.,independent,"the wedding,it",obj_subj,singular
+125,"A few months after the husband postponed it, the wedding happened.",cataphora,"it,the wedding",obj_subj,singular
+126,"The doctor scheduled the surgery, and a few months later it happened.",subordinate,"the surgery,it",obj_subj,singular
+127,The doctor scheduled the surgery. A few months later it happened.,independent,"the surgery,it",obj_subj,singular
+128,"A few months after the doctor scheduled it, the surgery happened.",cataphora,"it,the surgery",obj_subj,singular
+129,"The doctor ordered the surgery, and a few months later it happened.",subordinate,"the surgery,it",obj_subj,singular
+130,The doctor ordered the surgery. A few months later it happened.,independent,"the surgery,it",obj_subj,singular
+131,"A few months after the doctor ordered it, the surgery happened.",cataphora,"it,the surgery",obj_subj,singular
+132,"The doctor scheduled the procedure, and a few months later it happened.",subordinate,"the procedure,it",obj_subj,singular
+133,The doctor scheduled the procedure. A few months later it happened.,independent,"the procedure,it",obj_subj,singular
+134,"A few months after the doctor scheduled it, the procedure happened.",cataphora,"it,the procedure",obj_subj,singular
+135,"The volunteer placed the order, and a few months later it arrived.",subordinate,"the order,it",obj_subj,singular
+136,The volunteer placed the order. A few months later it arrived.,independent,"the order,it",obj_subj,singular
+137,"A few months after the volunteer placed it, the order arrived.",cataphora,"it,the order",obj_subj,singular
+138,"The volunteer answered the phone, and a few months later it rang.",subordinate,"the phone,it",obj_subj,singular
+139,The volunteer answered the phone. A few months later it rang.,independent,"the phone,it",obj_subj,singular
+140,"A few months after the volunteer answered it, the phone rang.",cataphora,"it,the phone",obj_subj,singular
+141,"The volunteer opened the door, and a few months later it closed.",subordinate,"the door,it",obj_subj,singular
+142,The volunteer opened the door. A few months later it closed.,independent,"the door,it",obj_subj,singular
+143,"A few months after the volunteer opened it, the door closed.",cataphora,"it,the door",obj_subj,singular
+144,"The resident reported the incident, and a few months later it happened.",subordinate,"the incident,it",obj_subj,singular
+145,The resident reported the incident. A few months later it happened.,independent,"the incident,it",obj_subj,singular
+146,"A few months after the resident reported it, the incident happened.",cataphora,"it,the incident",obj_subj,singular
+147,"The resident reported the abuse, and a few months later it stopped.",subordinate,"the abuse,it",obj_subj,singular
+148,The resident reported the abuse. A few months later it stopped.,independent,"the abuse,it",obj_subj,singular
+149,"A few months after the resident reported it, the abuse stopped.",cataphora,"it,the abuse",obj_subj,singular
+150,"The resident reported the theft, and a few months later it happened.",subordinate,"the theft,it",obj_subj,singular
+151,The resident reported the theft. A few months later it happened.,independent,"the theft,it",obj_subj,singular
+152,"A few months after the resident reported it, the theft happened.",cataphora,"it,the theft",obj_subj,singular
+153,"The reporter submitted the story, and a few months later it ran.",subordinate,"the story,it",obj_subj,singular
+154,The reporter submitted the story. A few months later it ran.,independent,"the story,it",obj_subj,singular
+155,"A few months after the reporter submitted it, the story ran.",cataphora,"it,the story",obj_subj,singular
+156,"The reporter filed the lawsuit, and a few months later it settled.",subordinate,"the lawsuit,it",obj_subj,singular
+157,The reporter filed the lawsuit. A few months later it settled.,independent,"the lawsuit,it",obj_subj,singular
+158,"A few months after the reporter filed it, the lawsuit settled.",cataphora,"it,the lawsuit",obj_subj,singular
+159,"The reporter broke the story, and a few months later it exploded.",subordinate,"the story,it",obj_subj,singular
+160,The reporter broke the story. A few months later it exploded.,independent,"the story,it",obj_subj,singular
+161,"A few months after the reporter broke it, the story exploded.",cataphora,"it,the story",obj_subj,singular
+162,"The publisher accepted the offer, and a few months later it closed.",subordinate,"the offer,it",obj_subj,singular
+163,The publisher accepted the offer. A few months later it closed.,independent,"the offer,it",obj_subj,singular
+164,"A few months after the publisher accepted it, the offer closed.",cataphora,"it,the offer",obj_subj,singular
+165,"The publisher declined the offer, and a few months later it folded.",subordinate,"the offer,it",obj_subj,singular
+166,The publisher declined the offer. A few months later it folded.,independent,"the offer,it",obj_subj,singular
+167,"A few months after the publisher declined it, the offer folded.",cataphora,"it,the offer",obj_subj,singular
+168,"The publisher signed the contract, and a few months later it closed.",subordinate,"the contract,it",obj_subj,singular
+169,The publisher signed the contract. A few months later it closed.,independent,"the contract,it",obj_subj,singular
+170,"A few months after the publisher signed it, the contract closed.",cataphora,"it,the contract",obj_subj,singular
+171,"The parent abandoned the baby, and a few months later it died.",subordinate,"the baby,it",obj_subj,singular
+172,The parent abandoned the baby. A few months later it died.,independent,"the baby,it",obj_subj,singular
+173,"A few months after the parent abandoned it, the baby died.",cataphora,"it,the baby",obj_subj,singular
+174,"The parent abandoned the child, and a few months later it died.",subordinate,"the child,it",obj_subj,singular
+175,The parent abandoned the child. A few months later it died.,independent,"the child,it",obj_subj,singular
+176,"A few months after the parent abandoned it, the child died.",cataphora,"it,the child",obj_subj,singular
+177,"The parent left the baby, and a few months later it died.",subordinate,"the baby,it",obj_subj,singular
+178,The parent left the baby. A few months later it died.,independent,"the baby,it",obj_subj,singular
+179,"A few months after the parent left it, the baby died.",cataphora,"it,the baby",obj_subj,singular
+180,"The priest sent the money, and a few months later it arrived.",subordinate,"the money,it",obj_subj,singular
+181,The priest sent the money. A few months later it arrived.,independent,"the money,it",obj_subj,singular
+182,"A few months after the priest sent it, the money arrived.",cataphora,"it,the money",obj_subj,singular
+183,"The priest left the church, and a few months later it closed.",subordinate,"the church,it",obj_subj,singular
+184,The priest left the church. A few months later it closed.,independent,"the church,it",obj_subj,singular
+185,"A few months after the priest left it, the church closed.",cataphora,"it,the church",obj_subj,singular
+186,"The priest sent the letter, and a few months later it arrived.",subordinate,"the letter,it",obj_subj,singular
+187,The priest sent the letter. A few months later it arrived.,independent,"the letter,it",obj_subj,singular
+188,"A few months after the priest sent it, the letter arrived.",cataphora,"it,the letter",obj_subj,singular
+0,"The slaves starved, but they survived.",subordinate,"The slaves,they",subj,plural
+1,"The slaves starved. However, they survived.",independent,"The slaves,they",subj,plural
+2,"They starved, but the slaves survived.",cataphora,"They,the slaves",subj,plural
+3,"The slaves fought, but they lost.",subordinate,"The slaves,they",subj,plural
+4,"The slaves fought. However, they lost.",independent,"The slaves,they",subj,plural
+5,"They fought, but the slaves lost.",cataphora,"They,the slaves",subj,plural
+6,"The slaves escaped, but they survived.",subordinate,"The slaves,they",subj,plural
+7,"The slaves escaped. However, they survived.",independent,"The slaves,they",subj,plural
+8,"They escaped, but the slaves survived.",cataphora,"They,the slaves",subj,plural
+9,"The soldiers shoot, but they miss.",subordinate,"The soldiers,they",subj,plural
+10,"The soldiers shoot. However, they miss.",independent,"The soldiers,they",subj,plural
+11,"They shoot, but the soldiers miss.",cataphora,"They,the soldiers",subj,plural
+12,"The soldiers charge, but they miss.",subordinate,"The soldiers,they",subj,plural
+13,"The soldiers charge. However, they miss.",independent,"The soldiers,they",subj,plural
+14,"They charge, but the soldiers miss.",cataphora,"They,the soldiers",subj,plural
+15,"The soldiers fight, but they die.",subordinate,"The soldiers,they",subj,plural
+16,"The soldiers fight. However, they die.",independent,"The soldiers,they",subj,plural
+17,"They fight, but the soldiers die.",cataphora,"They,the soldiers",subj,plural
+18,"The guards try, but they fail.",subordinate,"The guards,they",subj,plural
+19,"The guards try. However, they fail.",independent,"The guards,they",subj,plural
+20,"They try, but the guards fail.",cataphora,"They,the guards",subj,plural
+21,"The guards fight, but they lose.",subordinate,"The guards,they",subj,plural
+22,"The guards fight. However, they lose.",independent,"The guards,they",subj,plural
+23,"They fight, but the guards lose.",cataphora,"They,the guards",subj,plural
+24,"The guards charge, but they miss.",subordinate,"The guards,they",subj,plural
+25,"The guards charge. However, they miss.",independent,"The guards,they",subj,plural
+26,"They charge, but the guards miss.",cataphora,"They,the guards",subj,plural
+27,"The people try, but they fail.",subordinate,"The people,they",subj,plural
+28,"The people try. However, they fail.",independent,"The people,they",subj,plural
+29,"They try, but the people fail.",cataphora,"They,the people",subj,plural
+30,"The people fought, but they lost.",subordinate,"The people,they",subj,plural
+31,"The people fought. However, they lost.",independent,"The people,they",subj,plural
+32,"They fought, but the people lost.",cataphora,"They,the people",subj,plural
+33,"The people leave, but they stay.",subordinate,"The people,they",subj,plural
+34,"The people leave. However, they stay.",independent,"The people,they",subj,plural
+35,"They leave, but the people stay.",cataphora,"They,the people",subj,plural
+36,"The officers try, but they fail.",subordinate,"The officers,they",subj,plural
+37,"The officers try. However, they fail.",independent,"The officers,they",subj,plural
+38,"They try, but the officers fail.",cataphora,"They,the officers",subj,plural
+39,"The officers fire, but they miss.",subordinate,"The officers,they",subj,plural
+40,"The officers fire. However, they miss.",independent,"The officers,they",subj,plural
+41,"They fire, but the officers miss.",cataphora,"They,the officers",subj,plural
+42,"The officers chase, but they lose.",subordinate,"The officers,they",subj,plural
+43,"The officers chase. However, they lose.",independent,"The officers,they",subj,plural
+44,"They chase, but the officers lose.",cataphora,"They,the officers",subj,plural
+45,"The students argue, but they lose.",subordinate,"The students,they",subj,plural
+46,"The students argue. However, they lose.",independent,"The students,they",subj,plural
+47,"They argue, but the students lose.",cataphora,"They,the students",subj,plural
+48,"The students argue, but they win.",subordinate,"The students,they",subj,plural
+49,"The students argue. However, they win.",independent,"The students,they",subj,plural
+50,"They argue, but the students win.",cataphora,"They,the students",subj,plural
+51,"The students fight, but they win.",subordinate,"The students,they",subj,plural
+52,"The students fight. However, they win.",independent,"The students,they",subj,plural
+53,"They fight, but the students win.",cataphora,"They,the students",subj,plural
+54,"The hunters try, but they fail.",subordinate,"The hunters,they",subj,plural
+55,"The hunters try. However, they fail.",independent,"The hunters,they",subj,plural
+56,"They try, but the hunters fail.",cataphora,"They,the hunters",subj,plural
+57,"The hunters chase, but they lose.",subordinate,"The hunters,they",subj,plural
+58,"The hunters chase. However, they lose.",independent,"The hunters,they",subj,plural
+59,"They chase, but the hunters lose.",cataphora,"They,the hunters",subj,plural
+60,"The hunters attacked, but they missed.",subordinate,"The hunters,they",subj,plural
+61,"The hunters attacked. However, they missed.",independent,"The hunters,they",subj,plural
+62,"They attacked, but the hunters missed.",cataphora,"They,the hunters",subj,plural
+63,"The thieves try, but they fail.",subordinate,"The thieves,they",subj,plural
+64,"The thieves try. However, they fail.",independent,"The thieves,they",subj,plural
+65,"They try, but the thieves fail.",cataphora,"They,the thieves",subj,plural
+66,"The thieves tried, but they succeeded.",subordinate,"The thieves,they",subj,plural
+67,"The thieves tried. However, they succeeded.",independent,"The thieves,they",subj,plural
+68,"They tried, but the thieves succeeded.",cataphora,"They,the thieves",subj,plural
+69,"The thieves leave, but they return.",subordinate,"The thieves,they",subj,plural
+70,"The thieves leave. However, they return.",independent,"The thieves,they",subj,plural
+71,"They leave, but the thieves return.",cataphora,"They,the thieves",subj,plural
+72,"The villagers fight, but they lose.",subordinate,"The villagers,they",subj,plural
+73,"The villagers fight. However, they lose.",independent,"The villagers,they",subj,plural
+74,"They fight, but the villagers lose.",cataphora,"They,the villagers",subj,plural
+75,"The villagers fight, but they die.",subordinate,"The villagers,they",subj,plural
+76,"The villagers fight. However, they die.",independent,"The villagers,they",subj,plural
+77,"They fight, but the villagers die.",cataphora,"They,the villagers",subj,plural
+78,"The villagers leave, but they stay.",subordinate,"The villagers,they",subj,plural
+79,"The villagers leave. However, they stay.",independent,"The villagers,they",subj,plural
+80,"They leave, but the villagers stay.",cataphora,"They,the villagers",subj,plural
+81,"The protestors try, but they fail.",subordinate,"The protestors,they",subj,plural
+82,"The protestors try. However, they fail.",independent,"The protestors,they",subj,plural
+83,"They try, but the protestors fail.",cataphora,"They,the protestors",subj,plural
+84,"The protestors fight, but they lose.",subordinate,"The protestors,they",subj,plural
+85,"The protestors fight. However, they lose.",independent,"The protestors,they",subj,plural
+86,"They fight, but the protestors lose.",cataphora,"They,the protestors",subj,plural
+87,"The protestors tried, but they collapsed.",subordinate,"The protestors,they",subj,plural
+88,"The protestors tried. However, they collapsed.",independent,"The protestors,they",subj,plural
+89,"They tried, but the protestors collapsed.",cataphora,"They,the protestors",subj,plural
+90,"The settlers fought, but they lost.",subordinate,"The settlers,they",subj,plural
+91,"The settlers fought. However, they lost.",independent,"The settlers,they",subj,plural
+92,"They fought, but the settlers lost.",cataphora,"They,the settlers",subj,plural
+93,"The settlers try, but they fail.",subordinate,"The settlers,they",subj,plural
+94,"The settlers try. However, they fail.",independent,"The settlers,they",subj,plural
+95,"They try, but the settlers fail.",cataphora,"They,the settlers",subj,plural
+96,"The settlers fled, but they survived.",subordinate,"The settlers,they",subj,plural
+97,"The settlers fled. However, they survived.",independent,"The settlers,they",subj,plural
+98,"They fled, but the settlers survived.",cataphora,"They,the settlers",subj,plural
+99,"The survivors try, but they fail.",subordinate,"The survivors,they",subj,plural
+100,"The survivors try. However, they fail.",independent,"The survivors,they",subj,plural
+101,"They try, but the survivors fail.",cataphora,"They,the survivors",subj,plural
+102,"The survivors suffered, but they survived.",subordinate,"The survivors,they",subj,plural
+103,"The survivors suffered. However, they survived.",independent,"The survivors,they",subj,plural
+104,"They suffered, but the survivors survived.",cataphora,"They,the survivors",subj,plural
+105,"The survivors struggle, but they survive.",subordinate,"The survivors,they",subj,plural
+106,"The survivors struggle. However, they survive.",independent,"The survivors,they",subj,plural
+107,"They struggle, but the survivors survive.",cataphora,"They,the survivors",subj,plural
+108,"The refugees leave, but they stay.",subordinate,"The refugees,they",subj,plural
+109,"The refugees leave. However, they stay.",independent,"The refugees,they",subj,plural
+110,"They leave, but the refugees stay.",cataphora,"They,the refugees",subj,plural
+111,"The refugees try, but they fail.",subordinate,"The refugees,they",subj,plural
+112,"The refugees try. However, they fail.",independent,"The refugees,they",subj,plural
+113,"They try, but the refugees fail.",cataphora,"They,the refugees",subj,plural
+114,"The refugees go, but they stay.",subordinate,"The refugees,they",subj,plural
+115,"The refugees go. However, they stay.",independent,"The refugees,they",subj,plural
+116,"They go, but the refugees stay.",cataphora,"They,the refugees",subj,plural
+117,"The prisoners fight, but they die.",subordinate,"The prisoners,they",subj,plural
+118,"The prisoners fight. However, they die.",independent,"The prisoners,they",subj,plural
+119,"They fight, but the prisoners die.",cataphora,"They,the prisoners",subj,plural
+120,"The prisoners escape, but they die.",subordinate,"The prisoners,they",subj,plural
+121,"The prisoners escape. However, they die.",independent,"The prisoners,they",subj,plural
+122,"They escape, but the prisoners die.",cataphora,"They,the prisoners",subj,plural
+123,"The prisoners fight, but they lose.",subordinate,"The prisoners,they",subj,plural
+124,"The prisoners fight. However, they lose.",independent,"The prisoners,they",subj,plural
+125,"They fight, but the prisoners lose.",cataphora,"They,the prisoners",subj,plural
+126,"The wolves attacked, but they missed.",subordinate,"The wolves,they",subj,plural
+127,"The wolves attacked. However, they missed.",independent,"The wolves,they",subj,plural
+128,"They attacked, but the wolves missed.",cataphora,"They,the wolves",subj,plural
+129,"The wolves attacked, but they failed.",subordinate,"The wolves,they",subj,plural
+130,"The wolves attacked. However, they failed.",independent,"The wolves,they",subj,plural
+131,"They attacked, but the wolves failed.",cataphora,"They,the wolves",subj,plural
+132,"The wolves attacked, but they lost.",subordinate,"The wolves,they",subj,plural
+133,"The wolves attacked. However, they lost.",independent,"The wolves,they",subj,plural
+134,"They attacked, but the wolves lost.",cataphora,"They,the wolves",subj,plural
+135,"The travelers leave, but they stay.",subordinate,"The travelers,they",subj,plural
+136,"The travelers leave. However, they stay.",independent,"The travelers,they",subj,plural
+137,"They leave, but the travelers stay.",cataphora,"They,the travelers",subj,plural
+138,"The travelers hope, but they fail.",subordinate,"The travelers,they",subj,plural
+139,"The travelers hope. However, they fail.",independent,"The travelers,they",subj,plural
+140,"They hope, but the travelers fail.",cataphora,"They,the travelers",subj,plural
+141,"The travelers argue, but they win.",subordinate,"The travelers,they",subj,plural
+142,"The travelers argue. However, they win.",independent,"The travelers,they",subj,plural
+143,"They argue, but the travelers win.",cataphora,"They,the travelers",subj,plural
+144,"The ghosts leave, but they linger.",subordinate,"The ghosts,they",subj,plural
+145,"The ghosts leave. However, they linger.",independent,"The ghosts,they",subj,plural
+146,"They leave, but the ghosts linger.",cataphora,"They,the ghosts",subj,plural
+147,"The ghosts left, but they stayed.",subordinate,"The ghosts,they",subj,plural
+148,"The ghosts left. However, they stayed.",independent,"The ghosts,they",subj,plural
+149,"They left, but the ghosts stayed.",cataphora,"They,the ghosts",subj,plural
+150,"The ghosts wait, but they leave.",subordinate,"The ghosts,they",subj,plural
+151,"The ghosts wait. However, they leave.",independent,"The ghosts,they",subj,plural
+152,"They wait, but the ghosts leave.",cataphora,"They,the ghosts",subj,plural
+153,"The insects try, but they fail.",subordinate,"The insects,they",subj,plural
+154,"The insects try. However, they fail.",independent,"The insects,they",subj,plural
+155,"They try, but the insects fail.",cataphora,"They,the insects",subj,plural
+156,"The insects live, but they die.",subordinate,"The insects,they",subj,plural
+157,"The insects live. However, they die.",independent,"The insects,they",subj,plural
+158,"They live, but the insects die.",cataphora,"They,the insects",subj,plural
+159,"The insects attack, but they die.",subordinate,"The insects,they",subj,plural
+160,"The insects attack. However, they die.",independent,"The insects,they",subj,plural
+161,"They attack, but the insects die.",cataphora,"They,the insects",subj,plural
+162,"The farmers try, but they fail.",subordinate,"The farmers,they",subj,plural
+163,"The farmers try. However, they fail.",independent,"The farmers,they",subj,plural
+164,"They try, but the farmers fail.",cataphora,"They,the farmers",subj,plural
+165,"The farmers argue, but they lose.",subordinate,"The farmers,they",subj,plural
+166,"The farmers argue. However, they lose.",independent,"The farmers,they",subj,plural
+167,"They argue, but the farmers lose.",cataphora,"They,the farmers",subj,plural
+168,"The farmers complain, but they listen.",subordinate,"The farmers,they",subj,plural
+169,"The farmers complain. However, they listen.",independent,"The farmers,they",subj,plural
+170,"They complain, but the farmers listen.",cataphora,"They,the farmers",subj,plural
+171,"The pirates try, but they fail.",subordinate,"The pirates,they",subj,plural
+172,"The pirates try. However, they fail.",independent,"The pirates,they",subj,plural
+173,"They try, but the pirates fail.",cataphora,"They,the pirates",subj,plural
+174,"The pirates tried, but they lost.",subordinate,"The pirates,they",subj,plural
+175,"The pirates tried. However, they lost.",independent,"The pirates,they",subj,plural
+176,"They tried, but the pirates lost.",cataphora,"They,the pirates",subj,plural
+177,"The pirates fought, but they lost.",subordinate,"The pirates,they",subj,plural
+178,"The pirates fought. However, they lost.",independent,"The pirates,they",subj,plural
+179,"They fought, but the pirates lost.",cataphora,"They,the pirates",subj,plural
+0,"First the woman cooked the eggs, and then she boiled them.",subordinate,"the eggs,them",obj,plural
+1,"First, the woman cooked the eggs. Then, she boiled them.",independent,"the eggs,them",obj,plural
+2,"First the woman cooked them, and then she boiled the eggs.",cataphora,"them,the eggs",obj,plural
+3,"First the woman asked the questions, and then she answered them.",subordinate,"the questions,them",obj,plural
+4,"First, the woman asked the questions. Then, she answered them.",independent,"the questions,them",obj,plural
+5,"First the woman asked them, and then she answered the questions.",cataphora,"them,the questions",obj,plural
+6,"First the woman called the police, and then she called them.",subordinate,"the police,them",obj,plural
+7,"First, the woman called the police. Then, she called them.",independent,"the police,them",obj,plural
+8,"First the woman called them, and then she called the police.",cataphora,"them,the police",obj,plural
+9,"First the mother raised the children, and then she abandoned them.",subordinate,"the children,them",obj,plural
+10,"First, the mother raised the children. Then, she abandoned them.",independent,"the children,them",obj,plural
+11,"First the mother raised them, and then she abandoned the children.",cataphora,"them,the children",obj,plural
+12,"First the mother raised the children, and then she married them.",subordinate,"the children,them",obj,plural
+13,"First, the mother raised the children. Then, she married them.",independent,"the children,them",obj,plural
+14,"First the mother raised them, and then she married the children.",cataphora,"them,the children",obj,plural
+15,"First the mother raised the children, and then she bore them.",subordinate,"the children,them",obj,plural
+16,"First, the mother raised the children. Then, she bore them.",independent,"the children,them",obj,plural
+17,"First the mother raised them, and then she bore the children.",cataphora,"them,the children",obj,plural
+18,"First the owner opened the doors, and then she closed them.",subordinate,"the doors,them",obj,plural
+19,"First, the owner opened the doors. Then, she closed them.",independent,"the doors,them",obj,plural
+20,"First the owner opened them, and then she closed the doors.",cataphora,"them,the doors",obj,plural
+21,"First the owner bought the houses, and then she sold them.",subordinate,"the houses,them",obj,plural
+22,"First, the owner bought the houses. Then, she sold them.",independent,"the houses,them",obj,plural
+23,"First the owner bought them, and then she sold the houses.",cataphora,"them,the houses",obj,plural
+24,"First the owner opened the doors, and then she shut them.",subordinate,"the doors,them",obj,plural
+25,"First, the owner opened the doors. Then, she shut them.",independent,"the doors,them",obj,plural
+26,"First the owner opened them, and then she shut the doors.",cataphora,"them,the doors",obj,plural
+27,"First the author asked the questions, and then she answered them.",subordinate,"the questions,them",obj,plural
+28,"First, the author asked the questions. Then, she answered them.",independent,"the questions,them",obj,plural
+29,"First the author asked them, and then she answered the questions.",cataphora,"them,the questions",obj,plural
+30,"First the author asks the questions, and then she answers them.",subordinate,"the questions,them",obj,plural
+31,"First, the author asks the questions. Then, she answers them.",independent,"the questions,them",obj,plural
+32,"First the author asks them, and then she answers the questions.",cataphora,"them,the questions",obj,plural
+33,"First the author wrote the essays, and then she edited them.",subordinate,"the essays,them",obj,plural
+34,"First, the author wrote the essays. Then, she edited them.",independent,"the essays,them",obj,plural
+35,"First the author wrote them, and then she edited the essays.",cataphora,"them,the essays",obj,plural
+36,"First the lady opened the doors, and then she closed them.",subordinate,"the doors,them",obj,plural
+37,"First, the lady opened the doors. Then, she closed them.",independent,"the doors,them",obj,plural
+38,"First the lady opened them, and then she closed the doors.",cataphora,"them,the doors",obj,plural
+39,"First the lady opened the doors, and then she shut them.",subordinate,"the doors,them",obj,plural
+40,"First, the lady opened the doors. Then, she shut them.",independent,"the doors,them",obj,plural
+41,"First the lady opened them, and then she shut the doors.",cataphora,"them,the doors",obj,plural
+42,"First the lady shook the hands, and then she kissed them.",subordinate,"the hands,them",obj,plural
+43,"First, the lady shook the hands. Then, she kissed them.",independent,"the hands,them",obj,plural
+44,"First the lady shook them, and then she kissed the hands.",cataphora,"them,the hands",obj,plural
+45,"First the bride met the groom, and then she married them.",subordinate,"the groom,them",obj,plural
+46,"First, the bride met the groom. Then, she married them.",independent,"the groom,them",obj,plural
+47,"First the bride met them, and then she married the groom.",cataphora,"them,the groom",obj,plural
+48,"First the bride married the groom, and then she divorced them.",subordinate,"the groom,them",obj,plural
+49,"First, the bride married the groom. Then, she divorced them.",independent,"the groom,them",obj,plural
+50,"First the bride married them, and then she divorced the groom.",cataphora,"them,the groom",obj,plural
+51,"First the bride asked the questions, and then she answered them.",subordinate,"the questions,them",obj,plural
+52,"First, the bride asked the questions. Then, she answered them.",independent,"the questions,them",obj,plural
+53,"First the bride asked them, and then she answered the questions.",cataphora,"them,the questions",obj,plural
+54,"First the daughter married the son, and then she divorced them.",subordinate,"the son,them",obj,plural
+55,"First, the daughter married the son. Then, she divorced them.",independent,"the son,them",obj,plural
+56,"First the daughter married them, and then she divorced the son.",cataphora,"them,the son",obj,plural
+57,"First the daughter asked the questions, and then she answered them.",subordinate,"the questions,them",obj,plural
+58,"First, the daughter asked the questions. Then, she answered them.",independent,"the questions,them",obj,plural
+59,"First the daughter asked them, and then she answered the questions.",cataphora,"them,the questions",obj,plural
+60,"First the daughter married the son, and then she left them.",subordinate,"the son,them",obj,plural
+61,"First, the daughter married the son. Then, she left them.",independent,"the son,them",obj,plural
+62,"First the daughter married them, and then she left the son.",cataphora,"them,the son",obj,plural
+63,"First the model made the mistakes, and then she corrected them.",subordinate,"the mistakes,them",obj,plural
+64,"First, the model made the mistakes. Then, she corrected them.",independent,"the mistakes,them",obj,plural
+65,"First the model made them, and then she corrected the mistakes.",cataphora,"them,the mistakes",obj,plural
+66,"First the model made the mistakes, and then she fixed them.",subordinate,"the mistakes,them",obj,plural
+67,"First, the model made the mistakes. Then, she fixed them.",independent,"the mistakes,them",obj,plural
+68,"First the model made them, and then she fixed the mistakes.",cataphora,"them,the mistakes",obj,plural
+69,"First the model makes the mistakes, and then she fixes them.",subordinate,"the mistakes,them",obj,plural
+70,"First, the model makes the mistakes. Then, she fixes them.",independent,"the mistakes,them",obj,plural
+71,"First the model makes them, and then she fixes the mistakes.",cataphora,"them,the mistakes",obj,plural
+72,"First the sister asked the questions, and then she answered them.",subordinate,"the questions,them",obj,plural
+73,"First, the sister asked the questions. Then, she answered them.",independent,"the questions,them",obj,plural
+74,"First the sister asked them, and then she answered the questions.",cataphora,"them,the questions",obj,plural
+75,"First the sister married the brother, and then she divorced them.",subordinate,"the brother,them",obj,plural
+76,"First, the sister married the brother. Then, she divorced them.",independent,"the brother,them",obj,plural
+77,"First the sister married them, and then she divorced the brother.",cataphora,"them,the brother",obj,plural
+78,"First the sister cooked the eggs, and then she boiled them.",subordinate,"the eggs,them",obj,plural
+79,"First, the sister cooked the eggs. Then, she boiled them.",independent,"the eggs,them",obj,plural
+80,"First the sister cooked them, and then she boiled the eggs.",cataphora,"them,the eggs",obj,plural
+81,"First the actress asks the questions, and then she answers them.",subordinate,"the questions,them",obj,plural
+82,"First, the actress asks the questions. Then, she answers them.",independent,"the questions,them",obj,plural
+83,"First the actress asks them, and then she answers the questions.",cataphora,"them,the questions",obj,plural
+84,"First the actress speaks the lines, and then she sings them.",subordinate,"the lines,them",obj,plural
+85,"First, the actress speaks the lines. Then, she sings them.",independent,"the lines,them",obj,plural
+86,"First the actress speaks them, and then she sings the lines.",cataphora,"them,the lines",obj,plural
+87,"First the actress asked the questions, and then she answered them.",subordinate,"the questions,them",obj,plural
+88,"First, the actress asked the questions. Then, she answered them.",independent,"the questions,them",obj,plural
+89,"First the actress asked them, and then she answered the questions.",cataphora,"them,the questions",obj,plural
+90,"First the photographer takes the photos, and then she edits them.",subordinate,"the photos,them",obj,plural
+91,"First, the photographer takes the photos. Then, she edits them.",independent,"the photos,them",obj,plural
+92,"First the photographer takes them, and then she edits the photos.",cataphora,"them,the photos",obj,plural
+93,"First the photographer took the photos, and then she edited them.",subordinate,"the photos,them",obj,plural
+94,"First, the photographer took the photos. Then, she edited them.",independent,"the photos,them",obj,plural
+95,"First the photographer took them, and then she edited the photos.",cataphora,"them,the photos",obj,plural
+96,"First the photographer takes the pictures, and then she edits them.",subordinate,"the pictures,them",obj,plural
+97,"First, the photographer takes the pictures. Then, she edits them.",independent,"the pictures,them",obj,plural
+98,"First the photographer takes them, and then she edits the pictures.",cataphora,"them,the pictures",obj,plural
+99,"First the seller sees the paintings, and then she buys them.",subordinate,"the paintings,them",obj,plural
+100,"First, the seller sees the paintings. Then, she buys them.",independent,"the paintings,them",obj,plural
+101,"First the seller sees them, and then she buys the paintings.",cataphora,"them,the paintings",obj,plural
+102,"First the seller buys the goods, and then she sells them.",subordinate,"the goods,them",obj,plural
+103,"First, the seller buys the goods. Then, she sells them.",independent,"the goods,them",obj,plural
+104,"First the seller buys them, and then she sells the goods.",cataphora,"them,the goods",obj,plural
+105,"First the seller buys the items, and then she sells them.",subordinate,"the items,them",obj,plural
+106,"First, the seller buys the items. Then, she sells them.",independent,"the items,them",obj,plural
+107,"First the seller buys them, and then she sells the items.",cataphora,"them,the items",obj,plural
+108,"First the artist makes the paintings, and then she sells them.",subordinate,"the paintings,them",obj,plural
+109,"First, the artist makes the paintings. Then, she sells them.",independent,"the paintings,them",obj,plural
+110,"First the artist makes them, and then she sells the paintings.",cataphora,"them,the paintings",obj,plural
+111,"First the artist made the paintings, and then she sold them.",subordinate,"the paintings,them",obj,plural
+112,"First, the artist made the paintings. Then, she sold them.",independent,"the paintings,them",obj,plural
+113,"First the artist made them, and then she sold the paintings.",cataphora,"them,the paintings",obj,plural
+114,"First the artist makes the pieces, and then she sells them.",subordinate,"the pieces,them",obj,plural
+115,"First, the artist makes the pieces. Then, she sells them.",independent,"the pieces,them",obj,plural
+116,"First the artist makes them, and then she sells the pieces.",cataphora,"them,the pieces",obj,plural
+117,"First the teacher asks the questions, and then she answers them.",subordinate,"the questions,them",obj,plural
+118,"First, the teacher asks the questions. Then, she answers them.",independent,"the questions,them",obj,plural
+119,"First the teacher asks them, and then she answers the questions.",cataphora,"them,the questions",obj,plural
+120,"First the teacher asked the questions, and then she answered them.",subordinate,"the questions,them",obj,plural
+121,"First, the teacher asked the questions. Then, she answered them.",independent,"the questions,them",obj,plural
+122,"First the teacher asked them, and then she answered the questions.",cataphora,"them,the questions",obj,plural
+123,"First the teacher answers the questions, and then she explains them.",subordinate,"the questions,them",obj,plural
+124,"First, the teacher answers the questions. Then, she explains them.",independent,"the questions,them",obj,plural
+125,"First the teacher answers them, and then she explains the questions.",cataphora,"them,the questions",obj,plural
+126,"First the client asks the questions, and then she answers them.",subordinate,"the questions,them",obj,plural
+127,"First, the client asks the questions. Then, she answers them.",independent,"the questions,them",obj,plural
+128,"First the client asks them, and then she answers the questions.",cataphora,"them,the questions",obj,plural
+129,"First the client answers the questions, and then she answers them.",subordinate,"the questions,them",obj,plural
+130,"First, the client answers the questions. Then, she answers them.",independent,"the questions,them",obj,plural
+131,"First the client answers them, and then she answers the questions.",cataphora,"them,the questions",obj,plural
+132,"First the client makes the rules, and then she follows them.",subordinate,"the rules,them",obj,plural
+133,"First, the client makes the rules. Then, she follows them.",independent,"the rules,them",obj,plural
+134,"First the client makes them, and then she follows the rules.",cataphora,"them,the rules",obj,plural
+135,"First the student asks the questions, and then she answers them.",subordinate,"the questions,them",obj,plural
+136,"First, the student asks the questions. Then, she answers them.",independent,"the questions,them",obj,plural
+137,"First the student asks them, and then she answers the questions.",cataphora,"them,the questions",obj,plural
+138,"First the student answers the questions, and then she answers them.",subordinate,"the questions,them",obj,plural
+139,"First, the student answers the questions. Then, she answers them.",independent,"the questions,them",obj,plural
+140,"First the student answers them, and then she answers the questions.",cataphora,"them,the questions",obj,plural
+141,"First the student asked the questions, and then she answered them.",subordinate,"the questions,them",obj,plural
+142,"First, the student asked the questions. Then, she answered them.",independent,"the questions,them",obj,plural
+143,"First the student asked them, and then she answered the questions.",cataphora,"them,the questions",obj,plural
+144,"First the queen opened the doors, and then she closed them.",subordinate,"the doors,them",obj,plural
+145,"First, the queen opened the doors. Then, she closed them.",independent,"the doors,them",obj,plural
+146,"First the queen opened them, and then she closed the doors.",cataphora,"them,the doors",obj,plural
+147,"First the queen asked the questions, and then she answered them.",subordinate,"the questions,them",obj,plural
+148,"First, the queen asked the questions. Then, she answered them.",independent,"the questions,them",obj,plural
+149,"First the queen asked them, and then she answered the questions.",cataphora,"them,the questions",obj,plural
+150,"First the queen opened the doors, and then she shut them.",subordinate,"the doors,them",obj,plural
+151,"First, the queen opened the doors. Then, she shut them.",independent,"the doors,them",obj,plural
+152,"First the queen opened them, and then she shut the doors.",cataphora,"them,the doors",obj,plural
+153,"First the princess asked the questions, and then she answered them.",subordinate,"the questions,them",obj,plural
+154,"First, the princess asked the questions. Then, she answered them.",independent,"the questions,them",obj,plural
+155,"First the princess asked them, and then she answered the questions.",cataphora,"them,the questions",obj,plural
+156,"First the princess opened the doors, and then she closed them.",subordinate,"the doors,them",obj,plural
+157,"First, the princess opened the doors. Then, she closed them.",independent,"the doors,them",obj,plural
+158,"First the princess opened them, and then she closed the doors.",cataphora,"them,the doors",obj,plural
+159,"First the princess opened the doors, and then she shut them.",subordinate,"the doors,them",obj,plural
+160,"First, the princess opened the doors. Then, she shut them.",independent,"the doors,them",obj,plural
+161,"First the princess opened them, and then she shut the doors.",cataphora,"them,the doors",obj,plural
+162,"First the witch raped the children, and then she killed them.",subordinate,"the children,them",obj,plural
+163,"First, the witch raped the children. Then, she killed them.",independent,"the children,them",obj,plural
+164,"First the witch raped them, and then she killed the children.",cataphora,"them,the children",obj,plural
+165,"First the witch killed the children, and then she ate them.",subordinate,"the children,them",obj,plural
+166,"First, the witch killed the children. Then, she ate them.",independent,"the children,them",obj,plural
+167,"First the witch killed them, and then she ate the children.",cataphora,"them,the children",obj,plural
+168,"First the witch stole the books, and then she burned them.",subordinate,"the books,them",obj,plural
+169,"First, the witch stole the books. Then, she burned them.",independent,"the books,them",obj,plural
+170,"First the witch stole them, and then she burned the books.",cataphora,"them,the books",obj,plural
+171,"First the hostess asked the questions, and then she answered them.",subordinate,"the questions,them",obj,plural
+172,"First, the hostess asked the questions. Then, she answered them.",independent,"the questions,them",obj,plural
+173,"First the hostess asked them, and then she answered the questions.",cataphora,"them,the questions",obj,plural
+174,"First the hostess asks the questions, and then she answers them.",subordinate,"the questions,them",obj,plural
+175,"First, the hostess asks the questions. Then, she answers them.",independent,"the questions,them",obj,plural
+176,"First the hostess asks them, and then she answers the questions.",cataphora,"them,the questions",obj,plural
+177,"First the hostess opens the doors, and then she closes them.",subordinate,"the doors,them",obj,plural
+178,"First, the hostess opens the doors. Then, she closes them.",independent,"the doors,them",obj,plural
+179,"First the hostess opens them, and then she closes the doors.",cataphora,"them,the doors",obj,plural
+0,"The man met the woman, and they married.",subordinate,"the woman,they",obj_subj,plural
+1,The man met the woman. They married.,independent,"the woman,They",obj_subj,plural
+2,"The man met them, and the woman married.",cataphora,"them,the woman",obj_subj,plural
+3,"The man called the police, and they arrived.",subordinate,"the police,they",obj_subj,plural
+4,The man called the police. They arrived.,independent,"the police,They",obj_subj,plural
+5,"The man called them, and the police arrived.",cataphora,"them,the police",obj_subj,plural
+6,"The man stabbed the victims, and they died.",subordinate,"the victims,they",obj_subj,plural
+7,The man stabbed the victims. They died.,independent,"the victims,They",obj_subj,plural
+8,"The man stabbed them, and the victims died.",cataphora,"them,the victims",obj_subj,plural
+9,"The client signs the contract, and they leave.",subordinate,"the contract,they",obj_subj,plural
+10,The client signs the contract. They leave.,independent,"the contract,They",obj_subj,plural
+11,"The client signs them, and the contract leave.",cataphora,"them,the contract",obj_subj,plural
+12,"The client calls the police, and they investigate.",subordinate,"the police,they",obj_subj,plural
+13,The client calls the police. They investigate.,independent,"the police,They",obj_subj,plural
+14,"The client calls them, and the police investigate.",cataphora,"them,the police",obj_subj,plural
+15,"The client tells the police, and they investigate.",subordinate,"the police,they",obj_subj,plural
+16,The client tells the police. They investigate.,independent,"the police,They",obj_subj,plural
+17,"The client tells them, and the police investigate.",cataphora,"them,the police",obj_subj,plural
+18,"The mayor called the police, and they came.",subordinate,"the police,they",obj_subj,plural
+19,The mayor called the police. They came.,independent,"the police,They",obj_subj,plural
+20,"The mayor called them, and the police came.",cataphora,"them,the police",obj_subj,plural
+21,"The mayor called the police, and they arrived.",subordinate,"the police,they",obj_subj,plural
+22,The mayor called the police. They arrived.,independent,"the police,They",obj_subj,plural
+23,"The mayor called them, and the police arrived.",cataphora,"them,the police",obj_subj,plural
+24,"The mayor called the police, and they responded.",subordinate,"the police,they",obj_subj,plural
+25,The mayor called the police. They responded.,independent,"the police,They",obj_subj,plural
+26,"The mayor called them, and the police responded.",cataphora,"them,the police",obj_subj,plural
+27,"The reporter called the police, and they responded.",subordinate,"the police,they",obj_subj,plural
+28,The reporter called the police. They responded.,independent,"the police,They",obj_subj,plural
+29,"The reporter called them, and the police responded.",cataphora,"them,the police",obj_subj,plural
+30,"The reporter called the police, and they arrived.",subordinate,"the police,they",obj_subj,plural
+31,The reporter called the police. They arrived.,independent,"the police,They",obj_subj,plural
+32,"The reporter called them, and the police arrived.",cataphora,"them,the police",obj_subj,plural
+33,"The reporter calls the police, and they investigate.",subordinate,"the police,they",obj_subj,plural
+34,The reporter calls the police. They investigate.,independent,"the police,They",obj_subj,plural
+35,"The reporter calls them, and the police investigate.",cataphora,"them,the police",obj_subj,plural
+36,"The resident called the police, and they arrived.",subordinate,"the police,they",obj_subj,plural
+37,The resident called the police. They arrived.,independent,"the police,They",obj_subj,plural
+38,"The resident called them, and the police arrived.",cataphora,"them,the police",obj_subj,plural
+39,"The resident called the police, and they responded.",subordinate,"the police,they",obj_subj,plural
+40,The resident called the police. They responded.,independent,"the police,They",obj_subj,plural
+41,"The resident called them, and the police responded.",cataphora,"them,the police",obj_subj,plural
+42,"The resident confronted the suspects, and they fled.",subordinate,"the suspects,they",obj_subj,plural
+43,The resident confronted the suspects. They fled.,independent,"the suspects,They",obj_subj,plural
+44,"The resident confronted them, and the suspects fled.",cataphora,"them,the suspects",obj_subj,plural
+45,"The president addressed the crowd, and they applauded.",subordinate,"the crowd,they",obj_subj,plural
+46,The president addressed the crowd. They applauded.,independent,"the crowd,They",obj_subj,plural
+47,"The president addressed them, and the crowd applauded.",cataphora,"them,the crowd",obj_subj,plural
+48,"The president called the senators, and they listened.",subordinate,"the senators,they",obj_subj,plural
+49,The president called the senators. They listened.,independent,"the senators,They",obj_subj,plural
+50,"The president called them, and the senators listened.",cataphora,"them,the senators",obj_subj,plural
+51,"The president told the senators, and they listened.",subordinate,"the senators,they",obj_subj,plural
+52,The president told the senators. They listened.,independent,"the senators,They",obj_subj,plural
+53,"The president told them, and the senators listened.",cataphora,"them,the senators",obj_subj,plural
+54,"The employee calls the police, and they arrive.",subordinate,"the police,they",obj_subj,plural
+55,The employee calls the police. They arrive.,independent,"the police,They",obj_subj,plural
+56,"The employee calls them, and the police arrive.",cataphora,"them,the police",obj_subj,plural
+57,"The employee calls the police, and they investigate.",subordinate,"the police,they",obj_subj,plural
+58,The employee calls the police. They investigate.,independent,"the police,They",obj_subj,plural
+59,"The employee calls them, and the police investigate.",cataphora,"them,the police",obj_subj,plural
+60,"The employee alerted the police, and they arrived.",subordinate,"the police,they",obj_subj,plural
+61,The employee alerted the police. They arrived.,independent,"the police,They",obj_subj,plural
+62,"The employee alerted them, and the police arrived.",cataphora,"them,the police",obj_subj,plural
+63,"The volunteer called the police, and they arrived.",subordinate,"the police,they",obj_subj,plural
+64,The volunteer called the police. They arrived.,independent,"the police,They",obj_subj,plural
+65,"The volunteer called them, and the police arrived.",cataphora,"them,the police",obj_subj,plural
+66,"The volunteer calls the police, and they arrive.",subordinate,"the police,they",obj_subj,plural
+67,The volunteer calls the police. They arrive.,independent,"the police,They",obj_subj,plural
+68,"The volunteer calls them, and the police arrive.",cataphora,"them,the police",obj_subj,plural
+69,"The volunteer calls the police, and they investigate.",subordinate,"the police,they",obj_subj,plural
+70,The volunteer calls the police. They investigate.,independent,"the police,They",obj_subj,plural
+71,"The volunteer calls them, and the police investigate.",cataphora,"them,the police",obj_subj,plural
+72,"The seller signed the papers, and they left.",subordinate,"the papers,they",obj_subj,plural
+73,The seller signed the papers. They left.,independent,"the papers,They",obj_subj,plural
+74,"The seller signed them, and the papers left.",cataphora,"them,the papers",obj_subj,plural
+75,"The seller called the police, and they arrived.",subordinate,"the police,they",obj_subj,plural
+76,The seller called the police. They arrived.,independent,"the police,They",obj_subj,plural
+77,"The seller called them, and the police arrived.",cataphora,"them,the police",obj_subj,plural
+78,"The seller calls the police, and they investigate.",subordinate,"the police,they",obj_subj,plural
+79,The seller calls the police. They investigate.,independent,"the police,They",obj_subj,plural
+80,"The seller calls them, and the police investigate.",cataphora,"them,the police",obj_subj,plural
+81,"The singer calls the police, and they investigate.",subordinate,"the police,they",obj_subj,plural
+82,The singer calls the police. They investigate.,independent,"the police,They",obj_subj,plural
+83,"The singer calls them, and the police investigate.",cataphora,"them,the police",obj_subj,plural
+84,"The singer called the police, and they arrived.",subordinate,"the police,they",obj_subj,plural
+85,The singer called the police. They arrived.,independent,"the police,They",obj_subj,plural
+86,"The singer called them, and the police arrived.",cataphora,"them,the police",obj_subj,plural
+87,"The singer called the police, and they responded.",subordinate,"the police,they",obj_subj,plural
+88,The singer called the police. They responded.,independent,"the police,They",obj_subj,plural
+89,"The singer called them, and the police responded.",cataphora,"them,the police",obj_subj,plural
+90,"The doctor called the police, and they arrived.",subordinate,"the police,they",obj_subj,plural
+91,The doctor called the police. They arrived.,independent,"the police,They",obj_subj,plural
+92,"The doctor called them, and the police arrived.",cataphora,"them,the police",obj_subj,plural
+93,"The doctor called the police, and they came.",subordinate,"the police,they",obj_subj,plural
+94,The doctor called the police. They came.,independent,"the police,They",obj_subj,plural
+95,"The doctor called them, and the police came.",cataphora,"them,the police",obj_subj,plural
+96,"The doctor called the police, and they responded.",subordinate,"the police,they",obj_subj,plural
+97,The doctor called the police. They responded.,independent,"the police,They",obj_subj,plural
+98,"The doctor called them, and the police responded.",cataphora,"them,the police",obj_subj,plural
+99,"The model met the photographer, and they clicked.",subordinate,"the photographer,they",obj_subj,plural
+100,The model met the photographer. They clicked.,independent,"the photographer,They",obj_subj,plural
+101,"The model met them, and the photographer clicked.",cataphora,"them,the photographer",obj_subj,plural
+102,"The model met the designer, and they clicked.",subordinate,"the designer,they",obj_subj,plural
+103,The model met the designer. They clicked.,independent,"the designer,They",obj_subj,plural
+104,"The model met them, and the designer clicked.",cataphora,"them,the designer",obj_subj,plural
+105,"The model met the agent, and they met.",subordinate,"the agent,they",obj_subj,plural
+106,The model met the agent. They met.,independent,"the agent,They",obj_subj,plural
+107,"The model met them, and the agent met.",cataphora,"them,the agent",obj_subj,plural
+108,"The artist meets the artist, and they connect.",subordinate,"the artist,they",obj_subj,plural
+109,The artist meets the artist. They connect.,independent,"the artist,They",obj_subj,plural
+110,"The artist meets them, and the artist connect.",cataphora,"them,the artist",obj_subj,plural
+111,"The artist meets the artist, and they meet.",subordinate,"the artist,they",obj_subj,plural
+112,The artist meets the artist. They meet.,independent,"the artist,They",obj_subj,plural
+113,"The artist meets them, and the artist meet.",cataphora,"them,the artist",obj_subj,plural
+114,"The artist meets the writer, and they connect.",subordinate,"the writer,they",obj_subj,plural
+115,The artist meets the writer. They connect.,independent,"the writer,They",obj_subj,plural
+116,"The artist meets them, and the writer connect.",cataphora,"them,the writer",obj_subj,plural
+117,"The owner called the police, and they arrived.",subordinate,"the police,they",obj_subj,plural
+118,The owner called the police. They arrived.,independent,"the police,They",obj_subj,plural
+119,"The owner called them, and the police arrived.",cataphora,"them,the police",obj_subj,plural
+120,"The owner calls the police, and they investigate.",subordinate,"the police,they",obj_subj,plural
+121,The owner calls the police. They investigate.,independent,"the police,They",obj_subj,plural
+122,"The owner calls them, and the police investigate.",cataphora,"them,the police",obj_subj,plural
+123,"The owner calls the police, and they arrive.",subordinate,"the police,they",obj_subj,plural
+124,The owner calls the police. They arrive.,independent,"the police,They",obj_subj,plural
+125,"The owner calls them, and the police arrive.",cataphora,"them,the police",obj_subj,plural
+126,"The parent calls the police, and they investigate.",subordinate,"the police,they",obj_subj,plural
+127,The parent calls the police. They investigate.,independent,"the police,They",obj_subj,plural
+128,"The parent calls them, and the police investigate.",cataphora,"them,the police",obj_subj,plural
+129,"The parent meets the child, and they bond.",subordinate,"the child,they",obj_subj,plural
+130,The parent meets the child. They bond.,independent,"the child,They",obj_subj,plural
+131,"The parent meets them, and the child bond.",cataphora,"them,the child",obj_subj,plural
+132,"The parent calls the police, and they arrive.",subordinate,"the police,they",obj_subj,plural
+133,The parent calls the police. They arrive.,independent,"the police,They",obj_subj,plural
+134,"The parent calls them, and the police arrive.",cataphora,"them,the police",obj_subj,plural
+135,"The athlete tells the police, and they investigate.",subordinate,"the police,they",obj_subj,plural
+136,The athlete tells the police. They investigate.,independent,"the police,They",obj_subj,plural
+137,"The athlete tells them, and the police investigate.",cataphora,"them,the police",obj_subj,plural
+138,"The athlete calls the police, and they investigate.",subordinate,"the police,they",obj_subj,plural
+139,The athlete calls the police. They investigate.,independent,"the police,They",obj_subj,plural
+140,"The athlete calls them, and the police investigate.",cataphora,"them,the police",obj_subj,plural
+141,"The athlete calls the police, and they arrive.",subordinate,"the police,they",obj_subj,plural
+142,The athlete calls the police. They arrive.,independent,"the police,They",obj_subj,plural
+143,"The athlete calls them, and the police arrive.",cataphora,"them,the police",obj_subj,plural
+144,"The actress calls the police, and they investigate.",subordinate,"the police,they",obj_subj,plural
+145,The actress calls the police. They investigate.,independent,"the police,They",obj_subj,plural
+146,"The actress calls them, and the police investigate.",cataphora,"them,the police",obj_subj,plural
+147,"The actress called the police, and they responded.",subordinate,"the police,they",obj_subj,plural
+148,The actress called the police. They responded.,independent,"the police,They",obj_subj,plural
+149,"The actress called them, and the police responded.",cataphora,"them,the police",obj_subj,plural
+150,"The actress met the actor, and they clicked.",subordinate,"the actor,they",obj_subj,plural
+151,The actress met the actor. They clicked.,independent,"the actor,They",obj_subj,plural
+152,"The actress met them, and the actor clicked.",cataphora,"them,the actor",obj_subj,plural
+153,"The member calls the police, and they arrive.",subordinate,"the police,they",obj_subj,plural
+154,The member calls the police. They arrive.,independent,"the police,They",obj_subj,plural
+155,"The member calls them, and the police arrive.",cataphora,"them,the police",obj_subj,plural
+156,"The member calls the police, and they investigate.",subordinate,"the police,they",obj_subj,plural
+157,The member calls the police. They investigate.,independent,"the police,They",obj_subj,plural
+158,"The member calls them, and the police investigate.",cataphora,"them,the police",obj_subj,plural
+159,"The member pulls the trigger, and they die.",subordinate,"the trigger,they",obj_subj,plural
+160,The member pulls the trigger. They die.,independent,"the trigger,They",obj_subj,plural
+161,"The member pulls them, and the trigger die.",cataphora,"them,the trigger",obj_subj,plural
+162,"The soldier pulls the trigger, and they die.",subordinate,"the trigger,they",obj_subj,plural
+163,The soldier pulls the trigger. They die.,independent,"the trigger,They",obj_subj,plural
+164,"The soldier pulls them, and the trigger die.",cataphora,"them,the trigger",obj_subj,plural
+165,"The soldier pulls the trigger, and they shoot.",subordinate,"the trigger,they",obj_subj,plural
+166,The soldier pulls the trigger. They shoot.,independent,"the trigger,They",obj_subj,plural
+167,"The soldier pulls them, and the trigger shoot.",cataphora,"them,the trigger",obj_subj,plural
+168,"The soldier stabbed the women, and they died.",subordinate,"the women,they",obj_subj,plural
+169,The soldier stabbed the women. They died.,independent,"the women,They",obj_subj,plural
+170,"The soldier stabbed them, and the women died.",cataphora,"them,the women",obj_subj,plural
+171,"The protester called the police, and they arrived.",subordinate,"the police,they",obj_subj,plural
+172,The protester called the police. They arrived.,independent,"the police,They",obj_subj,plural
+173,"The protester called them, and the police arrived.",cataphora,"them,the police",obj_subj,plural
+174,"The protester called the police, and they responded.",subordinate,"the police,they",obj_subj,plural
+175,The protester called the police. They responded.,independent,"the police,They",obj_subj,plural
+176,"The protester called them, and the police responded.",cataphora,"them,the police",obj_subj,plural
+177,"The protester calls the police, and they arrive.",subordinate,"the police,they",obj_subj,plural
+178,The protester calls the police. They arrive.,independent,"the police,They",obj_subj,plural
+179,"The protester calls them, and the police arrive.",cataphora,"them,the police",obj_subj,plural
+0,"The family tried, but they failed.",subordinate,"The family,they",subj,collective
+1,"The family tried. However, they failed.",independent,"The family,they",subj,collective
+2,"Even though they tried, the family failed.",cataphora,"they,the family",subj,collective
+3,"The family fled, but they survived.",subordinate,"The family,they",subj,collective
+4,"The family fled. However, they survived.",independent,"The family,they",subj,collective
+5,"Even though they fled, the family survived.",cataphora,"they,the family",subj,collective
+6,"The family trie, but they fail.",subordinate,"The family,they",subj,collective
+7,"The family trie. However, they fail.",independent,"The family,they",subj,collective
+8,"Even though they trie, the family fail.",cataphora,"they,the family",subj,collective
+9,"The couple tried, but they failed.",subordinate,"The couple,they",subj,collective
+10,"The couple tried. However, they failed.",independent,"The couple,they",subj,collective
+11,"Even though they tried, the couple failed.",cataphora,"they,the couple",subj,collective
+12,"The couple argued, but they lost.",subordinate,"The couple,they",subj,collective
+13,"The couple argued. However, they lost.",independent,"The couple,they",subj,collective
+14,"Even though they argued, the couple lost.",cataphora,"they,the couple",subj,collective
+15,"The couple argue, but they lose.",subordinate,"The couple,they",subj,collective
+16,"The couple argue. However, they lose.",independent,"The couple,they",subj,collective
+17,"Even though they argue, the couple lose.",cataphora,"they,the couple",subj,collective
+18,"The audience knew, but they waited.",subordinate,"The audience,they",subj,collective
+19,"The audience knew. However, they waited.",independent,"The audience,they",subj,collective
+20,"Even though they knew, the audience waited.",cataphora,"they,the audience",subj,collective
+21,"The audience roared, but they lost.",subordinate,"The audience,they",subj,collective
+22,"The audience roared. However, they lost.",independent,"The audience,they",subj,collective
+23,"Even though they roared, the audience lost.",cataphora,"they,the audience",subj,collective
+24,"The audience hesitated, but they listened.",subordinate,"The audience,they",subj,collective
+25,"The audience hesitated. However, they listened.",independent,"The audience,they",subj,collective
+26,"Even though they hesitated, the audience listened.",cataphora,"they,the audience",subj,collective
+27,"The flock die, but they survive.",subordinate,"The flock,they",subj,collective
+28,"The flock die. However, they survive.",independent,"The flock,they",subj,collective
+29,"Even though they die, the flock survive.",cataphora,"they,the flock",subj,collective
+30,"The flock trie, but they fail.",subordinate,"The flock,they",subj,collective
+31,"The flock trie. However, they fail.",independent,"The flock,they",subj,collective
+32,"Even though they trie, the flock fail.",cataphora,"they,the flock",subj,collective
+33,"The flock gather, but they disperse.",subordinate,"The flock,they",subj,collective
+34,"The flock gather. However, they disperse.",independent,"The flock,they",subj,collective
+35,"Even though they gather, the flock disperse.",cataphora,"they,the flock",subj,collective
+36,"The group trie, but they fail.",subordinate,"The group,they",subj,collective
+37,"The group trie. However, they fail.",independent,"The group,they",subj,collective
+38,"Even though they trie, the group fail.",cataphora,"they,the group",subj,collective
+39,"The group leave, but they return.",subordinate,"The group,they",subj,collective
+40,"The group leave. However, they return.",independent,"The group,they",subj,collective
+41,"Even though they leave, the group return.",cataphora,"they,the group",subj,collective
+42,"The group leave, but they stay.",subordinate,"The group,they",subj,collective
+43,"The group leave. However, they stay.",independent,"The group,they",subj,collective
+44,"Even though they leave, the group stay.",cataphora,"they,the group",subj,collective
+45,"The team tried, but they failed.",subordinate,"The team,they",subj,collective
+46,"The team tried. However, they failed.",independent,"The team,they",subj,collective
+47,"Even though they tried, the team failed.",cataphora,"they,the team",subj,collective
+48,"The team fight, but they lose.",subordinate,"The team,they",subj,collective
+49,"The team fight. However, they lose.",independent,"The team,they",subj,collective
+50,"Even though they fight, the team lose.",cataphora,"they,the team",subj,collective
+51,"The team trie, but they fail.",subordinate,"The team,they",subj,collective
+52,"The team trie. However, they fail.",independent,"The team,they",subj,collective
+53,"Even though they trie, the team fail.",cataphora,"they,the team",subj,collective
+54,"The board tried, but they failed.",subordinate,"The board,they",subj,collective
+55,"The board tried. However, they failed.",independent,"The board,they",subj,collective
+56,"Even though they tried, the board failed.",cataphora,"they,the board",subj,collective
+57,"The board argued, but they lost.",subordinate,"The board,they",subj,collective
+58,"The board argued. However, they lost.",independent,"The board,they",subj,collective
+59,"Even though they argued, the board lost.",cataphora,"they,the board",subj,collective
+60,"The board hesitated, but they agreed.",subordinate,"The board,they",subj,collective
+61,"The board hesitated. However, they agreed.",independent,"The board,they",subj,collective
+62,"Even though they hesitated, the board agreed.",cataphora,"they,the board",subj,collective
+63,"The committe tried, but they failed.",subordinate,"The committe,they",subj,collective
+64,"The committe tried. However, they failed.",independent,"The committe,they",subj,collective
+65,"Even though they tried, the committe failed.",cataphora,"they,the committe",subj,collective
+66,"The committe began, but they stopped.",subordinate,"The committe,they",subj,collective
+67,"The committe began. However, they stopped.",independent,"The committe,they",subj,collective
+68,"Even though they began, the committe stopped.",cataphora,"they,the committe",subj,collective
+69,"The committe continued, but they stopped.",subordinate,"The committe,they",subj,collective
+70,"The committe continued. However, they stopped.",independent,"The committe,they",subj,collective
+71,"Even though they continued, the committe stopped.",cataphora,"they,the committe",subj,collective
+72,"The choir tried, but they failed.",subordinate,"The choir,they",subj,collective
+73,"The choir tried. However, they failed.",independent,"The choir,they",subj,collective
+74,"Even though they tried, the choir failed.",cataphora,"they,the choir",subj,collective
+75,"The choir begin, but they stop.",subordinate,"The choir,they",subj,collective
+76,"The choir begin. However, they stop.",independent,"The choir,they",subj,collective
+77,"Even though they begin, the choir stop.",cataphora,"they,the choir",subj,collective
+78,"The choir start, but they stop.",subordinate,"The choir,they",subj,collective
+79,"The choir start. However, they stop.",independent,"The choir,they",subj,collective
+80,"Even though they start, the choir stop.",cataphora,"they,the choir",subj,collective
+81,"The council tried, but they failed.",subordinate,"The council,they",subj,collective
+82,"The council tried. However, they failed.",independent,"The council,they",subj,collective
+83,"Even though they tried, the council failed.",cataphora,"they,the council",subj,collective
+84,"The council argued, but they lost.",subordinate,"The council,they",subj,collective
+85,"The council argued. However, they lost.",independent,"The council,they",subj,collective
+86,"Even though they argued, the council lost.",cataphora,"they,the council",subj,collective
+87,"The council trie, but they fail.",subordinate,"The council,they",subj,collective
+88,"The council trie. However, they fail.",independent,"The council,they",subj,collective
+89,"Even though they trie, the council fail.",cataphora,"they,the council",subj,collective
+90,"The jury tried, but they failed.",subordinate,"The jury,they",subj,collective
+91,"The jury tried. However, they failed.",independent,"The jury,they",subj,collective
+92,"Even though they tried, the jury failed.",cataphora,"they,the jury",subj,collective
+93,"The jury tried, but they lost.",subordinate,"The jury,they",subj,collective
+94,"The jury tried. However, they lost.",independent,"The jury,they",subj,collective
+95,"Even though they tried, the jury lost.",cataphora,"they,the jury",subj,collective
+96,"The jury argued, but they lost.",subordinate,"The jury,they",subj,collective
+97,"The jury argued. However, they lost.",independent,"The jury,they",subj,collective
+98,"Even though they argued, the jury lost.",cataphora,"they,the jury",subj,collective
+99,"The staff tried, but they failed.",subordinate,"The staff,they",subj,collective
+100,"The staff tried. However, they failed.",independent,"The staff,they",subj,collective
+101,"Even though they tried, the staff failed.",cataphora,"they,the staff",subj,collective
+102,"The staff try, but they fail.",subordinate,"The staff,they",subj,collective
+103,"The staff try. However, they fail.",independent,"The staff,they",subj,collective
+104,"Even though they try, the staff fail.",cataphora,"they,the staff",subj,collective
+105,"The staff left, but they stayed.",subordinate,"The staff,they",subj,collective
+106,"The staff left. However, they stayed.",independent,"The staff,they",subj,collective
+107,"Even though they left, the staff stayed.",cataphora,"they,the staff",subj,collective
+108,"The youth tried, but they failed.",subordinate,"The youth,they",subj,collective
+109,"The youth tried. However, they failed.",independent,"The youth,they",subj,collective
+110,"Even though they tried, the youth failed.",cataphora,"they,the youth",subj,collective
+111,"The youth try, but they fail.",subordinate,"The youth,they",subj,collective
+112,"The youth try. However, they fail.",independent,"The youth,they",subj,collective
+113,"Even though they try, the youth fail.",cataphora,"they,the youth",subj,collective
+114,"The youth fight, but they lose.",subordinate,"The youth,they",subj,collective
+115,"The youth fight. However, they lose.",independent,"The youth,they",subj,collective
+116,"Even though they fight, the youth lose.",cataphora,"they,the youth",subj,collective
+117,"The band tried, but they failed.",subordinate,"The band,they",subj,collective
+118,"The band tried. However, they failed.",independent,"The band,they",subj,collective
+119,"Even though they tried, the band failed.",cataphora,"they,the band",subj,collective
+120,"The band struggled, but they survived.",subordinate,"The band,they",subj,collective
+121,"The band struggled. However, they survived.",independent,"The band,they",subj,collective
+122,"Even though they struggled, the band survived.",cataphora,"they,the band",subj,collective
+123,"The band trie, but they fail.",subordinate,"The band,they",subj,collective
+124,"The band trie. However, they fail.",independent,"The band,they",subj,collective
+125,"Even though they trie, the band fail.",cataphora,"they,the band",subj,collective
+126,"The crowd scattered, but they stayed.",subordinate,"The crowd,they",subj,collective
+127,"The crowd scattered. However, they stayed.",independent,"The crowd,they",subj,collective
+128,"Even though they scattered, the crowd stayed.",cataphora,"they,the crowd",subj,collective
+129,"The crowd roared, but they lost.",subordinate,"The crowd,they",subj,collective
+130,"The crowd roared. However, they lost.",independent,"The crowd,they",subj,collective
+131,"Even though they roared, the crowd lost.",cataphora,"they,the crowd",subj,collective
+132,"The crowd parted, but they stayed.",subordinate,"The crowd,they",subj,collective
+133,"The crowd parted. However, they stayed.",independent,"The crowd,they",subj,collective
+134,"Even though they parted, the crowd stayed.",cataphora,"they,the crowd",subj,collective
+135,"The crew tried, but they failed.",subordinate,"The crew,they",subj,collective
+136,"The crew tried. However, they failed.",independent,"The crew,they",subj,collective
+137,"Even though they tried, the crew failed.",cataphora,"they,the crew",subj,collective
+138,"The crew panicked, but they survived.",subordinate,"The crew,they",subj,collective
+139,"The crew panicked. However, they survived.",independent,"The crew,they",subj,collective
+140,"Even though they panicked, the crew survived.",cataphora,"they,the crew",subj,collective
+141,"The crew trie, but they fail.",subordinate,"The crew,they",subj,collective
+142,"The crew trie. However, they fail.",independent,"The crew,they",subj,collective
+143,"Even though they trie, the crew fail.",cataphora,"they,the crew",subj,collective
+144,"The gang tried, but they failed.",subordinate,"The gang,they",subj,collective
+145,"The gang tried. However, they failed.",independent,"The gang,they",subj,collective
+146,"Even though they tried, the gang failed.",cataphora,"they,the gang",subj,collective
+147,"The gang trie, but they fail.",subordinate,"The gang,they",subj,collective
+148,"The gang trie. However, they fail.",independent,"The gang,they",subj,collective
+149,"Even though they trie, the gang fail.",cataphora,"they,the gang",subj,collective
+150,"The gang attacked, but they escaped.",subordinate,"The gang,they",subj,collective
+151,"The gang attacked. However, they escaped.",independent,"The gang,they",subj,collective
+152,"Even though they attacked, the gang escaped.",cataphora,"they,the gang",subj,collective
+153,"The duo tried, but they failed.",subordinate,"The duo,they",subj,collective
+154,"The duo tried. However, they failed.",independent,"The duo,they",subj,collective
+155,"Even though they tried, the duo failed.",cataphora,"they,the duo",subj,collective
+156,"The duo trie, but they fail.",subordinate,"The duo,they",subj,collective
+157,"The duo trie. However, they fail.",independent,"The duo,they",subj,collective
+158,"Even though they trie, the duo fail.",cataphora,"they,the duo",subj,collective
+159,"The duo argue, but they lose.",subordinate,"The duo,they",subj,collective
+160,"The duo argue. However, they lose.",independent,"The duo,they",subj,collective
+161,"Even though they argue, the duo lose.",cataphora,"they,the duo",subj,collective
+162,"The mob tried, but they failed.",subordinate,"The mob,they",subj,collective
+163,"The mob tried. However, they failed.",independent,"The mob,they",subj,collective
+164,"Even though they tried, the mob failed.",cataphora,"they,the mob",subj,collective
+165,"The mob attacked, but they failed.",subordinate,"The mob,they",subj,collective
+166,"The mob attacked. However, they failed.",independent,"The mob,they",subj,collective
+167,"Even though they attacked, the mob failed.",cataphora,"they,the mob",subj,collective
+168,"The mob attacked, but they lost.",subordinate,"The mob,they",subj,collective
+169,"The mob attacked. However, they lost.",independent,"The mob,they",subj,collective
+170,"Even though they attacked, the mob lost.",cataphora,"they,the mob",subj,collective
+171,"The troupe trie, but they fail.",subordinate,"The troupe,they",subj,collective
+172,"The troupe trie. However, they fail.",independent,"The troupe,they",subj,collective
+173,"Even though they trie, the troupe fail.",cataphora,"they,the troupe",subj,collective
+174,"The troupe tried, but they failed.",subordinate,"The troupe,they",subj,collective
+175,"The troupe tried. However, they failed.",independent,"The troupe,they",subj,collective
+176,"Even though they tried, the troupe failed.",cataphora,"they,the troupe",subj,collective
+177,"The troupe fight, but they lose.",subordinate,"The troupe,they",subj,collective
+178,"The troupe fight. However, they lose.",independent,"The troupe,they",subj,collective
+179,"Even though they fight, the troupe lose.",cataphora,"they,the troupe",subj,collective
+0,"The woman knew the family, and she loved them.",subordinate,"the family,them",obj,collective
+1,The woman knew the family. She loved them.,independent,"the family,them",obj,collective
+2,"The woman knew them, and she loved the family.",cataphora,"them,the family",obj,collective
+3,"The woman found the family, and she married them.",subordinate,"the family,them",obj,collective
+4,The woman found the family. She married them.,independent,"the family,them",obj,collective
+5,"The woman found them, and she married the family.",cataphora,"them,the family",obj,collective
+6,"The woman loved the family, and she loved them.",subordinate,"the family,them",obj,collective
+7,The woman loved the family. She loved them.,independent,"the family,them",obj,collective
+8,"The woman loved them, and she loved the family.",cataphora,"them,the family",obj,collective
+9,"The mother found the couple, and she married them.",subordinate,"the couple,them",obj,collective
+10,The mother found the couple. She married them.,independent,"the couple,them",obj,collective
+11,"The mother found them, and she married the couple.",cataphora,"them,the couple",obj,collective
+12,"The mother knew the couple, and she liked them.",subordinate,"the couple,them",obj,collective
+13,The mother knew the couple. She liked them.,independent,"the couple,them",obj,collective
+14,"The mother knew them, and she liked the couple.",cataphora,"them,the couple",obj,collective
+15,"The mother knew the couple, and she loved them.",subordinate,"the couple,them",obj,collective
+16,The mother knew the couple. She loved them.,independent,"the couple,them",obj,collective
+17,"The mother knew them, and she loved the couple.",cataphora,"them,the couple",obj,collective
+18,"The owner knew the audience, and she knew them.",subordinate,"the audience,them",obj,collective
+19,The owner knew the audience. She knew them.,independent,"the audience,them",obj,collective
+20,"The owner knew them, and she knew the audience.",cataphora,"them,the audience",obj,collective
+21,"The owner loved the audience, and she loved them.",subordinate,"the audience,them",obj,collective
+22,The owner loved the audience. She loved them.,independent,"the audience,them",obj,collective
+23,"The owner loved them, and she loved the audience.",cataphora,"them,the audience",obj,collective
+24,"The owner thanked the audience, and she thanked them.",subordinate,"the audience,them",obj,collective
+25,The owner thanked the audience. She thanked them.,independent,"the audience,them",obj,collective
+26,"The owner thanked them, and she thanked the audience.",cataphora,"them,the audience",obj,collective
+27,"The author loves the flock, and she loves them.",subordinate,"the flock,them",obj,collective
+28,The author loves the flock. She loves them.,independent,"the flock,them",obj,collective
+29,"The author loves them, and she loves the flock.",cataphora,"them,the flock",obj,collective
+30,"The author has the flock, and she loves them.",subordinate,"the flock,them",obj,collective
+31,The author has the flock. She loves them.,independent,"the flock,them",obj,collective
+32,"The author has them, and she loves the flock.",cataphora,"them,the flock",obj,collective
+33,"The author has the flock, and she needs them.",subordinate,"the flock,them",obj,collective
+34,The author has the flock. She needs them.,independent,"the flock,them",obj,collective
+35,"The author has them, and she needs the flock.",cataphora,"them,the flock",obj,collective
+36,"The lady recognized the group, and she helped them.",subordinate,"the group,them",obj,collective
+37,The lady recognized the group. She helped them.,independent,"the group,them",obj,collective
+38,"The lady recognized them, and she helped the group.",cataphora,"them,the group",obj,collective
+39,"The lady recognized the group, and she hugged them.",subordinate,"the group,them",obj,collective
+40,The lady recognized the group. She hugged them.,independent,"the group,them",obj,collective
+41,"The lady recognized them, and she hugged the group.",cataphora,"them,the group",obj,collective
+42,"The lady approached the group, and she thanked them.",subordinate,"the group,them",obj,collective
+43,The lady approached the group. She thanked them.,independent,"the group,them",obj,collective
+44,"The lady approached them, and she thanked the group.",cataphora,"them,the group",obj,collective
+45,"The bride loves the team, and she supports them.",subordinate,"the team,them",obj,collective
+46,The bride loves the team. She supports them.,independent,"the team,them",obj,collective
+47,"The bride loves them, and she supports the team.",cataphora,"them,the team",obj,collective
+48,"The bride knows the team, and she likes them.",subordinate,"the team,them",obj,collective
+49,The bride knows the team. She likes them.,independent,"the team,them",obj,collective
+50,"The bride knows them, and she likes the team.",cataphora,"them,the team",obj,collective
+51,"The bride knows the team, and she loves them.",subordinate,"the team,them",obj,collective
+52,The bride knows the team. She loves them.,independent,"the team,them",obj,collective
+53,"The bride knows them, and she loves the team.",cataphora,"them,the team",obj,collective
+54,"The daughter joined the board, and she challenged them.",subordinate,"the board,them",obj,collective
+55,The daughter joined the board. She challenged them.,independent,"the board,them",obj,collective
+56,"The daughter joined them, and she challenged the board.",cataphora,"them,the board",obj,collective
+57,"The daughter joined the board, and she hated them.",subordinate,"the board,them",obj,collective
+58,The daughter joined the board. She hated them.,independent,"the board,them",obj,collective
+59,"The daughter joined them, and she hated the board.",cataphora,"them,the board",obj,collective
+60,"The daughter is the board, and she controls them.",subordinate,"the board,them",obj,collective
+61,The daughter is the board. She controls them.,independent,"the board,them",obj,collective
+62,"The daughter is them, and she controls the board.",cataphora,"them,the board",obj,collective
+63,"The model met the committe, and she thanked them.",subordinate,"the committe,them",obj,collective
+64,The model met the committe. She thanked them.,independent,"the committe,them",obj,collective
+65,"The model met them, and she thanked the committe.",cataphora,"them,the committe",obj,collective
+66,"The model meets the committe, and she introduces them.",subordinate,"the committe,them",obj,collective
+67,The model meets the committe. She introduces them.,independent,"the committe,them",obj,collective
+68,"The model meets them, and she introduces the committe.",cataphora,"them,the committe",obj,collective
+69,"The model knows the committe, and she knows them.",subordinate,"the committe,them",obj,collective
+70,The model knows the committe. She knows them.,independent,"the committe,them",obj,collective
+71,"The model knows them, and she knows the committe.",cataphora,"them,the committe",obj,collective
+72,"The sister led the choir, and she loved them.",subordinate,"the choir,them",obj,collective
+73,The sister led the choir. She loved them.,independent,"the choir,them",obj,collective
+74,"The sister led them, and she loved the choir.",cataphora,"them,the choir",obj,collective
+75,"The sister leads the choir, and she praises them.",subordinate,"the choir,them",obj,collective
+76,The sister leads the choir. She praises them.,independent,"the choir,them",obj,collective
+77,"The sister leads them, and she praises the choir.",cataphora,"them,the choir",obj,collective
+78,"The sister joined the choir, and she loved them.",subordinate,"the choir,them",obj,collective
+79,The sister joined the choir. She loved them.,independent,"the choir,them",obj,collective
+80,"The sister joined them, and she loved the choir.",cataphora,"them,the choir",obj,collective
+81,"The actress contacted the council, and she thanked them.",subordinate,"the council,them",obj,collective
+82,The actress contacted the council. She thanked them.,independent,"the council,them",obj,collective
+83,"The actress contacted them, and she thanked the council.",cataphora,"them,the council",obj,collective
+84,"The actress met the council, and she praised them.",subordinate,"the council,them",obj,collective
+85,The actress met the council. She praised them.,independent,"the council,them",obj,collective
+86,"The actress met them, and she praised the council.",cataphora,"them,the council",obj,collective
+87,"The actress called the council, and she thanked them.",subordinate,"the council,them",obj,collective
+88,The actress called the council. She thanked them.,independent,"the council,them",obj,collective
+89,"The actress called them, and she thanked the council.",cataphora,"them,the council",obj,collective
+90,"The photographer was the jury, and she chose them.",subordinate,"the jury,them",obj,collective
+91,The photographer was the jury. She chose them.,independent,"the jury,them",obj,collective
+92,"The photographer was them, and she chose the jury.",cataphora,"them,the jury",obj,collective
+93,"The photographer was the jury, and she told them.",subordinate,"the jury,them",obj,collective
+94,The photographer was the jury. She told them.,independent,"the jury,them",obj,collective
+95,"The photographer was them, and she told the jury.",cataphora,"them,the jury",obj,collective
+96,"The photographer knew the jury, and she knew them.",subordinate,"the jury,them",obj,collective
+97,The photographer knew the jury. She knew them.,independent,"the jury,them",obj,collective
+98,"The photographer knew them, and she knew the jury.",cataphora,"them,the jury",obj,collective
+99,"The seller took the staff, and she sold them.",subordinate,"the staff,them",obj,collective
+100,The seller took the staff. She sold them.,independent,"the staff,them",obj,collective
+101,"The seller took them, and she sold the staff.",cataphora,"them,the staff",obj,collective
+102,"The seller needed the staff, and she needed them.",subordinate,"the staff,them",obj,collective
+103,The seller needed the staff. She needed them.,independent,"the staff,them",obj,collective
+104,"The seller needed them, and she needed the staff.",cataphora,"them,the staff",obj,collective
+105,"The seller liked the staff, and she kept them.",subordinate,"the staff,them",obj,collective
+106,The seller liked the staff. She kept them.,independent,"the staff,them",obj,collective
+107,"The seller liked them, and she kept the staff.",cataphora,"them,the staff",obj,collective
+108,"The artist knew the youth, and she knew them.",subordinate,"the youth,them",obj,collective
+109,The artist knew the youth. She knew them.,independent,"the youth,them",obj,collective
+110,"The artist knew them, and she knew the youth.",cataphora,"them,the youth",obj,collective
+111,"The artist knows the youth, and she loves them.",subordinate,"the youth,them",obj,collective
+112,The artist knows the youth. She loves them.,independent,"the youth,them",obj,collective
+113,"The artist knows them, and she loves the youth.",cataphora,"them,the youth",obj,collective
+114,"The artist is the youth, and she loves them.",subordinate,"the youth,them",obj,collective
+115,The artist is the youth. She loves them.,independent,"the youth,them",obj,collective
+116,"The artist is them, and she loves the youth.",cataphora,"them,the youth",obj,collective
+117,"The teacher knew the band, and she loved them.",subordinate,"the band,them",obj,collective
+118,The teacher knew the band. She loved them.,independent,"the band,them",obj,collective
+119,"The teacher knew them, and she loved the band.",cataphora,"them,the band",obj,collective
+120,"The teacher watched the band, and she liked them.",subordinate,"the band,them",obj,collective
+121,The teacher watched the band. She liked them.,independent,"the band,them",obj,collective
+122,"The teacher watched them, and she liked the band.",cataphora,"them,the band",obj,collective
+123,"The teacher knew the band, and she knew them.",subordinate,"the band,them",obj,collective
+124,The teacher knew the band. She knew them.,independent,"the band,them",obj,collective
+125,"The teacher knew them, and she knew the band.",cataphora,"them,the band",obj,collective
+126,"The client knows the crowd, and she knows them.",subordinate,"the crowd,them",obj,collective
+127,The client knows the crowd. She knows them.,independent,"the crowd,them",obj,collective
+128,"The client knows them, and she knows the crowd.",cataphora,"them,the crowd",obj,collective
+129,"The client noticed the crowd, and she joined them.",subordinate,"the crowd,them",obj,collective
+130,The client noticed the crowd. She joined them.,independent,"the crowd,them",obj,collective
+131,"The client noticed them, and she joined the crowd.",cataphora,"them,the crowd",obj,collective
+132,"The client knew the crowd, and she understood them.",subordinate,"the crowd,them",obj,collective
+133,The client knew the crowd. She understood them.,independent,"the crowd,them",obj,collective
+134,"The client knew them, and she understood the crowd.",cataphora,"them,the crowd",obj,collective
+135,"The student knows the crew, and she likes them.",subordinate,"the crew,them",obj,collective
+136,The student knows the crew. She likes them.,independent,"the crew,them",obj,collective
+137,"The student knows them, and she likes the crew.",cataphora,"them,the crew",obj,collective
+138,"The student meets the crew, and she joins them.",subordinate,"the crew,them",obj,collective
+139,The student meets the crew. She joins them.,independent,"the crew,them",obj,collective
+140,"The student meets them, and she joins the crew.",cataphora,"them,the crew",obj,collective
+141,"The student recognized the crew, and she thanked them.",subordinate,"the crew,them",obj,collective
+142,The student recognized the crew. She thanked them.,independent,"the crew,them",obj,collective
+143,"The student recognized them, and she thanked the crew.",cataphora,"them,the crew",obj,collective
+144,"The queen sees the gang, and she kills them.",subordinate,"the gang,them",obj,collective
+145,The queen sees the gang. She kills them.,independent,"the gang,them",obj,collective
+146,"The queen sees them, and she kills the gang.",cataphora,"them,the gang",obj,collective
+147,"The queen needs the gang, and she needs them.",subordinate,"the gang,them",obj,collective
+148,The queen needs the gang. She needs them.,independent,"the gang,them",obj,collective
+149,"The queen needs them, and she needs the gang.",cataphora,"them,the gang",obj,collective
+150,"The queen sees the gang, and she confronts them.",subordinate,"the gang,them",obj,collective
+151,The queen sees the gang. She confronts them.,independent,"the gang,them",obj,collective
+152,"The queen sees them, and she confronts the gang.",cataphora,"them,the gang",obj,collective
+153,"The princess finds the duo, and she saves them.",subordinate,"the duo,them",obj,collective
+154,The princess finds the duo. She saves them.,independent,"the duo,them",obj,collective
+155,"The princess finds them, and she saves the duo.",cataphora,"them,the duo",obj,collective
+156,"The princess confronts the duo, and she defeats them.",subordinate,"the duo,them",obj,collective
+157,The princess confronts the duo. She defeats them.,independent,"the duo,them",obj,collective
+158,"The princess confronts them, and she defeats the duo.",cataphora,"them,the duo",obj,collective
+159,"The princess sees the duo, and she recognizes them.",subordinate,"the duo,them",obj,collective
+160,The princess sees the duo. She recognizes them.,independent,"the duo,them",obj,collective
+161,"The princess sees them, and she recognizes the duo.",cataphora,"them,the duo",obj,collective
+162,"The witch saw the mob, and she attacked them.",subordinate,"the mob,them",obj,collective
+163,The witch saw the mob. She attacked them.,independent,"the mob,them",obj,collective
+164,"The witch saw them, and she attacked the mob.",cataphora,"them,the mob",obj,collective
+165,"The witch attacked the mob, and she killed them.",subordinate,"the mob,them",obj,collective
+166,The witch attacked the mob. She killed them.,independent,"the mob,them",obj,collective
+167,"The witch attacked them, and she killed the mob.",cataphora,"them,the mob",obj,collective
+168,"The witch confronted the mob, and she killed them.",subordinate,"the mob,them",obj,collective
+169,The witch confronted the mob. She killed them.,independent,"the mob,them",obj,collective
+170,"The witch confronted them, and she killed the mob.",cataphora,"them,the mob",obj,collective
+171,"The hostess knew the troupe, and she liked them.",subordinate,"the troupe,them",obj,collective
+172,The hostess knew the troupe. She liked them.,independent,"the troupe,them",obj,collective
+173,"The hostess knew them, and she liked the troupe.",cataphora,"them,the troupe",obj,collective
+174,"The hostess recognized the troupe, and she thanked them.",subordinate,"the troupe,them",obj,collective
+175,The hostess recognized the troupe. She thanked them.,independent,"the troupe,them",obj,collective
+176,"The hostess recognized them, and she thanked the troupe.",cataphora,"them,the troupe",obj,collective
+177,"The hostess recognizes the troupe, and she welcomes them.",subordinate,"the troupe,them",obj,collective
+178,The hostess recognizes the troupe. She welcomes them.,independent,"the troupe,them",obj,collective
+179,"The hostess recognizes them, and she welcomes the troupe.",cataphora,"them,the troupe",obj,collective
+0,"The man sued the family, and they won.",subordinate,"the family,they",obj_subj,collective
+1,The man sued the family. They won.,independent,"the family,They",obj_subj,collective
+2,"The man sued them, and the family won.",cataphora,"them,the family",obj_subj,collective
+3,"The man attacked the family, and they fled.",subordinate,"the family,they",obj_subj,collective
+4,The man attacked the family. They fled.,independent,"the family,They",obj_subj,collective
+5,"The man attacked them, and the family fled.",cataphora,"them,the family",obj_subj,collective
+6,"The man sued the family, and they lost.",subordinate,"the family,they",obj_subj,collective
+7,The man sued the family. They lost.,independent,"the family,They",obj_subj,collective
+8,"The man sued them, and the family lost.",cataphora,"them,the family",obj_subj,collective
+9,"The client met the couple, and they married.",subordinate,"the couple,they",obj_subj,collective
+10,The client met the couple. They married.,independent,"the couple,They",obj_subj,collective
+11,"The client met them, and the couple married.",cataphora,"them,the couple",obj_subj,collective
+12,"The client found the couple, and they married.",subordinate,"the couple,they",obj_subj,collective
+13,The client found the couple. They married.,independent,"the couple,They",obj_subj,collective
+14,"The client found them, and the couple married.",cataphora,"them,the couple",obj_subj,collective
+15,"The client called the couple, and they agreed.",subordinate,"the couple,they",obj_subj,collective
+16,The client called the couple. They agreed.,independent,"the couple,They",obj_subj,collective
+17,"The client called them, and the couple agreed.",cataphora,"them,the couple",obj_subj,collective
+18,"The mayor addressed the audience, and they listened.",subordinate,"the audience,they",obj_subj,collective
+19,The mayor addressed the audience. They listened.,independent,"the audience,They",obj_subj,collective
+20,"The mayor addressed them, and the audience listened.",cataphora,"them,the audience",obj_subj,collective
+21,"The mayor addressed the audience, and they applauded.",subordinate,"the audience,they",obj_subj,collective
+22,The mayor addressed the audience. They applauded.,independent,"the audience,They",obj_subj,collective
+23,"The mayor addressed them, and the audience applauded.",cataphora,"them,the audience",obj_subj,collective
+24,"The mayor addresses the audience, and they applaud.",subordinate,"the audience,they",obj_subj,collective
+25,The mayor addresses the audience. They applaud.,independent,"the audience,They",obj_subj,collective
+26,"The mayor addresses them, and the audience applaud.",cataphora,"them,the audience",obj_subj,collective
+27,"The reporter gathers the flock, and they flee.",subordinate,"the flock,they",obj_subj,collective
+28,The reporter gathers the flock. They flee.,independent,"the flock,They",obj_subj,collective
+29,"The reporter gathers them, and the flock flee.",cataphora,"them,the flock",obj_subj,collective
+30,"The reporter gathers the flock, and they leave.",subordinate,"the flock,they",obj_subj,collective
+31,The reporter gathers the flock. They leave.,independent,"the flock,They",obj_subj,collective
+32,"The reporter gathers them, and the flock leave.",cataphora,"them,the flock",obj_subj,collective
+33,"The reporter alerts the flock, and they scatter.",subordinate,"the flock,they",obj_subj,collective
+34,The reporter alerts the flock. They scatter.,independent,"the flock,They",obj_subj,collective
+35,"The reporter alerts them, and the flock scatter.",cataphora,"them,the flock",obj_subj,collective
+36,"The resident thanked the group, and they left.",subordinate,"the group,they",obj_subj,collective
+37,The resident thanked the group. They left.,independent,"the group,They",obj_subj,collective
+38,"The resident thanked them, and the group left.",cataphora,"them,the group",obj_subj,collective
+39,"The resident confronted the group, and they fled.",subordinate,"the group,they",obj_subj,collective
+40,The resident confronted the group. They fled.,independent,"the group,They",obj_subj,collective
+41,"The resident confronted them, and the group fled.",cataphora,"them,the group",obj_subj,collective
+42,"The resident alerted the group, and they left.",subordinate,"the group,they",obj_subj,collective
+43,The resident alerted the group. They left.,independent,"the group,They",obj_subj,collective
+44,"The resident alerted them, and the group left.",cataphora,"them,the group",obj_subj,collective
+45,"The president gathered the team, and they left.",subordinate,"the team,they",obj_subj,collective
+46,The president gathered the team. They left.,independent,"the team,They",obj_subj,collective
+47,"The president gathered them, and the team left.",cataphora,"them,the team",obj_subj,collective
+48,"The president picked the team, and they won.",subordinate,"the team,they",obj_subj,collective
+49,The president picked the team. They won.,independent,"the team,They",obj_subj,collective
+50,"The president picked them, and the team won.",cataphora,"them,the team",obj_subj,collective
+51,"The president told the team, and they listened.",subordinate,"the team,they",obj_subj,collective
+52,The president told the team. They listened.,independent,"the team,They",obj_subj,collective
+53,"The president told them, and the team listened.",cataphora,"them,the team",obj_subj,collective
+54,"The employee sued the board, and they won.",subordinate,"the board,they",obj_subj,collective
+55,The employee sued the board. They won.,independent,"the board,They",obj_subj,collective
+56,"The employee sued them, and the board won.",cataphora,"them,the board",obj_subj,collective
+57,"The employee called the board, and they agreed.",subordinate,"the board,they",obj_subj,collective
+58,The employee called the board. They agreed.,independent,"the board,They",obj_subj,collective
+59,"The employee called them, and the board agreed.",cataphora,"them,the board",obj_subj,collective
+60,"The employee told the board, and they listened.",subordinate,"the board,they",obj_subj,collective
+61,The employee told the board. They listened.,independent,"the board,They",obj_subj,collective
+62,"The employee told them, and the board listened.",cataphora,"them,the board",obj_subj,collective
+63,"The volunteer thanked the committe, and they left.",subordinate,"the committe,they",obj_subj,collective
+64,The volunteer thanked the committe. They left.,independent,"the committe,They",obj_subj,collective
+65,"The volunteer thanked them, and the committe left.",cataphora,"them,the committe",obj_subj,collective
+66,"The volunteer tells the committe, and they leave.",subordinate,"the committe,they",obj_subj,collective
+67,The volunteer tells the committe. They leave.,independent,"the committe,They",obj_subj,collective
+68,"The volunteer tells them, and the committe leave.",cataphora,"them,the committe",obj_subj,collective
+69,"The volunteer meets the committe, and they talk.",subordinate,"the committe,they",obj_subj,collective
+70,The volunteer meets the committe. They talk.,independent,"the committe,They",obj_subj,collective
+71,"The volunteer meets them, and the committe talk.",cataphora,"them,the committe",obj_subj,collective
+72,"The seller thanked the choir, and they left.",subordinate,"the choir,they",obj_subj,collective
+73,The seller thanked the choir. They left.,independent,"the choir,They",obj_subj,collective
+74,"The seller thanked them, and the choir left.",cataphora,"them,the choir",obj_subj,collective
+75,"The seller thanked the choir, and they departed.",subordinate,"the choir,they",obj_subj,collective
+76,The seller thanked the choir. They departed.,independent,"the choir,They",obj_subj,collective
+77,"The seller thanked them, and the choir departed.",cataphora,"them,the choir",obj_subj,collective
+78,"The seller called the choir, and they came.",subordinate,"the choir,they",obj_subj,collective
+79,The seller called the choir. They came.,independent,"the choir,They",obj_subj,collective
+80,"The seller called them, and the choir came.",cataphora,"them,the choir",obj_subj,collective
+81,"The singer told the council, and they listened.",subordinate,"the council,they",obj_subj,collective
+82,The singer told the council. They listened.,independent,"the council,They",obj_subj,collective
+83,"The singer told them, and the council listened.",cataphora,"them,the council",obj_subj,collective
+84,"The singer approached the council, and they agreed.",subordinate,"the council,they",obj_subj,collective
+85,The singer approached the council. They agreed.,independent,"the council,They",obj_subj,collective
+86,"The singer approached them, and the council agreed.",cataphora,"them,the council",obj_subj,collective
+87,"The singer called the council, and they agreed.",subordinate,"the council,they",obj_subj,collective
+88,The singer called the council. They agreed.,independent,"the council,They",obj_subj,collective
+89,"The singer called them, and the council agreed.",cataphora,"them,the council",obj_subj,collective
+90,"The doctor told the jury, and they agreed.",subordinate,"the jury,they",obj_subj,collective
+91,The doctor told the jury. They agreed.,independent,"the jury,They",obj_subj,collective
+92,"The doctor told them, and the jury agreed.",cataphora,"them,the jury",obj_subj,collective
+93,"The doctor told the jury, and they listened.",subordinate,"the jury,they",obj_subj,collective
+94,The doctor told the jury. They listened.,independent,"the jury,They",obj_subj,collective
+95,"The doctor told them, and the jury listened.",cataphora,"them,the jury",obj_subj,collective
+96,"The doctor told the jury, and they believed.",subordinate,"the jury,they",obj_subj,collective
+97,The doctor told the jury. They believed.,independent,"the jury,They",obj_subj,collective
+98,"The doctor told them, and the jury believed.",cataphora,"them,the jury",obj_subj,collective
+99,"The model inspires the staff, and they follow.",subordinate,"the staff,they",obj_subj,collective
+100,The model inspires the staff. They follow.,independent,"the staff,They",obj_subj,collective
+101,"The model inspires them, and the staff follow.",cataphora,"them,the staff",obj_subj,collective
+102,"The model needed the staff, and they delivered.",subordinate,"the staff,they",obj_subj,collective
+103,The model needed the staff. They delivered.,independent,"the staff,They",obj_subj,collective
+104,"The model needed them, and the staff delivered.",cataphora,"them,the staff",obj_subj,collective
+105,"The model suits the staff, and they agree.",subordinate,"the staff,they",obj_subj,collective
+106,The model suits the staff. They agree.,independent,"the staff,They",obj_subj,collective
+107,"The model suits them, and the staff agree.",cataphora,"them,the staff",obj_subj,collective
+108,"The artist meets the youth, and they bond.",subordinate,"the youth,they",obj_subj,collective
+109,The artist meets the youth. They bond.,independent,"the youth,They",obj_subj,collective
+110,"The artist meets them, and the youth bond.",cataphora,"them,the youth",obj_subj,collective
+111,"The artist meets the youth, and they connect.",subordinate,"the youth,they",obj_subj,collective
+112,The artist meets the youth. They connect.,independent,"the youth,They",obj_subj,collective
+113,"The artist meets them, and the youth connect.",cataphora,"them,the youth",obj_subj,collective
+114,"The artist meets the youth, and they meet.",subordinate,"the youth,they",obj_subj,collective
+115,The artist meets the youth. They meet.,independent,"the youth,They",obj_subj,collective
+116,"The artist meets them, and the youth meet.",cataphora,"them,the youth",obj_subj,collective
+117,"The owner sued the band, and they won.",subordinate,"the band,they",obj_subj,collective
+118,The owner sued the band. They won.,independent,"the band,They",obj_subj,collective
+119,"The owner sued them, and the band won.",cataphora,"them,the band",obj_subj,collective
+120,"The owner sued the band, and they settled.",subordinate,"the band,they",obj_subj,collective
+121,The owner sued the band. They settled.,independent,"the band,They",obj_subj,collective
+122,"The owner sued them, and the band settled.",cataphora,"them,the band",obj_subj,collective
+123,"The owner sued the band, and they lost.",subordinate,"the band,they",obj_subj,collective
+124,The owner sued the band. They lost.,independent,"the band,They",obj_subj,collective
+125,"The owner sued them, and the band lost.",cataphora,"them,the band",obj_subj,collective
+126,"The parent addressed the crowd, and they applauded.",subordinate,"the crowd,they",obj_subj,collective
+127,The parent addressed the crowd. They applauded.,independent,"the crowd,They",obj_subj,collective
+128,"The parent addressed them, and the crowd applauded.",cataphora,"them,the crowd",obj_subj,collective
+129,"The parent addresses the crowd, and they applaud.",subordinate,"the crowd,they",obj_subj,collective
+130,The parent addresses the crowd. They applaud.,independent,"the crowd,They",obj_subj,collective
+131,"The parent addresses them, and the crowd applaud.",cataphora,"them,the crowd",obj_subj,collective
+132,"The parent addresses the crowd, and they cheer.",subordinate,"the crowd,they",obj_subj,collective
+133,The parent addresses the crowd. They cheer.,independent,"the crowd,They",obj_subj,collective
+134,"The parent addresses them, and the crowd cheer.",cataphora,"them,the crowd",obj_subj,collective
+135,"The athlete met the crew, and they bonded.",subordinate,"the crew,they",obj_subj,collective
+136,The athlete met the crew. They bonded.,independent,"the crew,They",obj_subj,collective
+137,"The athlete met them, and the crew bonded.",cataphora,"them,the crew",obj_subj,collective
+138,"The athlete meets the crew, and they bond.",subordinate,"the crew,they",obj_subj,collective
+139,The athlete meets the crew. They bond.,independent,"the crew,They",obj_subj,collective
+140,"The athlete meets them, and the crew bond.",cataphora,"them,the crew",obj_subj,collective
+141,"The athlete alerted the crew, and they responded.",subordinate,"the crew,they",obj_subj,collective
+142,The athlete alerted the crew. They responded.,independent,"the crew,They",obj_subj,collective
+143,"The athlete alerted them, and the crew responded.",cataphora,"them,the crew",obj_subj,collective
+144,"The actress tells the gang, and they agree.",subordinate,"the gang,they",obj_subj,collective
+145,The actress tells the gang. They agree.,independent,"the gang,They",obj_subj,collective
+146,"The actress tells them, and the gang agree.",cataphora,"them,the gang",obj_subj,collective
+147,"The actress meets the gang, and they bond.",subordinate,"the gang,they",obj_subj,collective
+148,The actress meets the gang. They bond.,independent,"the gang,They",obj_subj,collective
+149,"The actress meets them, and the gang bond.",cataphora,"them,the gang",obj_subj,collective
+150,"The actress confronts the gang, and they apologize.",subordinate,"the gang,they",obj_subj,collective
+151,The actress confronts the gang. They apologize.,independent,"the gang,They",obj_subj,collective
+152,"The actress confronts them, and the gang apologize.",cataphora,"them,the gang",obj_subj,collective
+153,"The member joins the duo, and they bond.",subordinate,"the duo,they",obj_subj,collective
+154,The member joins the duo. They bond.,independent,"the duo,They",obj_subj,collective
+155,"The member joins them, and the duo bond.",cataphora,"them,the duo",obj_subj,collective
+156,"The member joined the duo, and they bonded.",subordinate,"the duo,they",obj_subj,collective
+157,The member joined the duo. They bonded.,independent,"the duo,They",obj_subj,collective
+158,"The member joined them, and the duo bonded.",cataphora,"them,the duo",obj_subj,collective
+159,"The member introduced the duo, and they agreed.",subordinate,"the duo,they",obj_subj,collective
+160,The member introduced the duo. They agreed.,independent,"the duo,They",obj_subj,collective
+161,"The member introduced them, and the duo agreed.",cataphora,"them,the duo",obj_subj,collective
+162,"The soldier arrested the mob, and they fled.",subordinate,"the mob,they",obj_subj,collective
+163,The soldier arrested the mob. They fled.,independent,"the mob,They",obj_subj,collective
+164,"The soldier arrested them, and the mob fled.",cataphora,"them,the mob",obj_subj,collective
+165,"The soldier confronted the mob, and they fled.",subordinate,"the mob,they",obj_subj,collective
+166,The soldier confronted the mob. They fled.,independent,"the mob,They",obj_subj,collective
+167,"The soldier confronted them, and the mob fled.",cataphora,"them,the mob",obj_subj,collective
+168,"The soldier stopped the mob, and they fled.",subordinate,"the mob,they",obj_subj,collective
+169,The soldier stopped the mob. They fled.,independent,"the mob,They",obj_subj,collective
+170,"The soldier stopped them, and the mob fled.",cataphora,"them,the mob",obj_subj,collective
+171,"The protester confronted the troupe, and they left.",subordinate,"the troupe,they",obj_subj,collective
+172,The protester confronted the troupe. They left.,independent,"the troupe,They",obj_subj,collective
+173,"The protester confronted them, and the troupe left.",cataphora,"them,the troupe",obj_subj,collective
+174,"The protester stops the troupe, and they leave.",subordinate,"the troupe,they",obj_subj,collective
+175,The protester stops the troupe. They leave.,independent,"the troupe,They",obj_subj,collective
+176,"The protester stops them, and the troupe leave.",cataphora,"them,the troupe",obj_subj,collective
+177,"The protester confronts the troupe, and they leave.",subordinate,"the troupe,they",obj_subj,collective
+178,The protester confronts the troupe. They leave.,independent,"the troupe,They",obj_subj,collective
+179,"The protester confronts them, and the troupe leave.",cataphora,"them,the troupe",obj_subj,collective
